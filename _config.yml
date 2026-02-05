@@ -1,0 +1,33 @@
+title: Agent Reports
+description: Research briefs and analysis
+url: "https://jon-tompkins.github.io"
+baseurl: "/Agent-Reports"
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+
+# Collections
+collections:
+  reports:
+    output: true
+    permalink: /:collection/:name
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "reports"
+    values:
+      layout: "report"
+
+# Exclude from build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - .git
+  - .gitignore

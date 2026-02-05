@@ -1,6 +1,10 @@
-# Fannie Mae & Freddie Mac: The 17-Year Bet
-
-*Last updated: February 5, 2026*
+---
+layout: report
+title: "Fannie Mae & Freddie Mac: The 17-Year Bet"
+date: 2026-02-05
+description: "Investment thesis analysis for FNMA/FMCC — bull case, bear case, risks, and sizing."
+author: Chet
+---
 
 **⚠️ DISCLAIMER: This is NOT investment advice. FNMA/FMCC are highly speculative. Do your own research.**
 
@@ -124,5 +128,3 @@ FNMA/FMCC are lottery tickets with better-than-lottery odds but nowhere close to
 ---
 
 **Not financial advice. I am not a financial advisor. Do your own DD. Past performance doesn't predict future results. Your capital is at risk.**
-
-*Word count: ~850*
