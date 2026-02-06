@@ -16,7 +16,9 @@ Expro Group is a well-lifecycle services company operating across 50 countries w
 
 ## Price Charts
 
-![XPRO Daily](../charts/XPRO-daily-24m.png) ![XPRO Weekly](../charts/XPRO-weekly-5y.png)
+![XPRO Daily](../charts/XPRO-daily-2y.png)
+
+![XPRO Weekly](../charts/XPRO-weekly-5y.png)
 
 ---
 
