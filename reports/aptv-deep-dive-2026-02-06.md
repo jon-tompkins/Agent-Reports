@@ -179,4 +179,24 @@ APTV is a show-me story. The EDS spin-off could unlock significant value, and po
 
 ---
 
+## Sources
+
+1. **Aptiv PLC** - "Investor Relations Overview" (2025) — [ir.aptiv.com](https://ir.aptiv.com/)
+
+2. **Aptiv PLC** - "Aptiv Announces Intention to Separate Its Electrical Distribution Systems Business" (November 14, 2025) — [ir.aptiv.com](https://ir.aptiv.com/news/news-details/2025/Aptiv-Announces-Intention-to-Separate-Its-Electrical-Distribution-Systems-Business/default.aspx)
+
+3. **Aptiv** - "Aptiv Announces Leadership Appointments and Company Name for New Independent Electrical Distribution Systems Company" (2026) — [aptiv.com](https://www.aptiv.com/en/newsroom/article/aptiv-announces-leadership-appointments-and-company-name-for-new-independent-electrical-distribution-systems-company)
+
+4. **Investing.com** - "Aptiv announces plan to spin off electrical distribution systems business" (November 14, 2025) — [investing.com](https://www.investing.com/news/sec-filings/aptiv-announces-plan-to-spin-off-electrical-distribution-systems-business-93CH-4360704)
+
+5. **Stock Titan** - "Aptiv plans tax‑free spin‑off of Electrical Distribution Systems" (November 14, 2025) — [stocktitan.net](https://www.stocktitan.net/sec-filings/APTV/8-k-aptiv-plc-reports-material-event-fd49b5adc035.html)
+
+6. **Quartr** - "Aptiv (APTV) Investor Relations, Earnings Summary & Outlook" (2025) — [quartr.com](https://quartr.com/companies/aptiv-plc_5158)
+
+7. **Alpha Spread** - "APTV Investor Relations - Aptiv PLC" (2025) — [alphaspread.com](https://www.alphaspread.com/security/nyse/aptv/investor-relations)
+
+8. **Daily Political** - "Win Advisors Inc. Takes $1.13 Million Position in Aptiv PLC $APTV" (February 2, 2026) — [dailypolitical.com](https://www.dailypolitical.com/2026/02/02/win-advisors-inc-takes-1-13-million-position-in-aptiv-plc-aptv.html)
+
+---
+
 *Report generated for Junto Research portfolio review. Not investment advice.*
