@@ -138,4 +138,20 @@ XPRO fits the trading framework well on energy demand and international exposure
 
 ---
 
+## Sources
+
+1. **Expro Group Investor Relations** - "Third Quarter 2025 Earnings Release" (November 2025) — [investors.expro.com](https://investors.expro.com/files/doc_financials/2025/q3/Expro-Q3-2025-Earnings-Release.pdf)
+
+2. **Business Wire** - "Expro Announces Fourth Quarter and Full Year 2024 Results" (February 25, 2025) — [businesswire.com](https://www.businesswire.com/news/home/20250225869446/en/Expro-Announces-Fourth-Quarter-and-Full-Year-2024-Results)
+
+3. **Nasdaq** - "Expro Group Holdings N.V. Common Stock (XPRO) Earnings Report Dates & Earnings Forecasts" (2025) — [nasdaq.com](https://www.nasdaq.com/market-activity/stocks/xpro/earnings)
+
+4. **Stock Analysis** - "Expro Group Holdings (XPRO) Stock Price & Overview" (2025) — [stockanalysis.com](https://stockanalysis.com/stocks/xpro/)
+
+5. **Seeking Alpha** - "Expro Group Holdings N.V. (XPRO) Stock Price, Quote, News & Analysis" (2025) — [seekingalpha.com](https://seekingalpha.com/symbol/XPRO)
+
+6. **Stock Titan** - "Expro Group sets Feb. 19 call on Q4, full-year 2025" (January 2026) — [stocktitan.net](https://www.stocktitan.net/news/XPRO/expro-group-holdings-n-v-schedules-fourth-quarter-and-full-year-2025-tc7dst7pzb64.html)
+
+---
+
 *Report generated for Junto Research portfolio review. Not investment advice.*
