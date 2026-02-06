@@ -205,4 +205,24 @@ However, this is a pre-revenue, pre-approval company trading at $1.4B. The risk/
 
 ---
 
+## Sources
+
+1. **NANO Nuclear Energy** - "Investor Relations - SEC Filings" (2025) — [ir.nanonuclearenergy.com](https://ir.nanonuclearenergy.com/financial-information/sec-filings)
+
+2. **NANO Nuclear Energy** - "News Releases - NANO Nuclear Signs MOU with Ameresco" (January 13, 2026) — [ir.nanonuclearenergy.com](https://ir.nanonuclearenergy.com/news-events/news-releases)
+
+3. **Quartr** - "NANO Nuclear Energy (NNE) Investor Relations, Earnings Summary & Outlook" (2025) — [quartr.com](https://quartr.com/companies/nano-nuclear-energy-inc_17419)
+
+4. **S&P Global** - "Global data center power demand to double by 2030 on AI surge: IEA" (April 10, 2025) — [spglobal.com](https://www.spglobal.com/energy/en/news-research/latest-news/electric-power/041025-global-data-center-power-demand-to-double-by-2030-on-ai-surge-iea)
+
+5. **S&P Global** - "Global data center power demand expected to almost double by 2030" (November 5, 2025) — [spglobal.com](https://www.spglobal.com/energy/en/news-research/latest-news/electric-power/110525-global-data-center-power-demand-expected-to-almost-double-by-2030)
+
+6. **Introl Blog** - "SMRs Power AI: $10B Nuclear Data Center Revolution" (August 8, 2025) — [introl.com](https://introl.com/blog/smr-nuclear-power-ai-data-centers-2025)
+
+7. **EnkiAI** - "Top 10 Nuclear Powered Data Center Projects in the US in 2025" (January 2025) — [enkiai.com](https://enkiai.com/data-center/top-10-nuclear-powered-data-center-projects-in-the-us-in-2025)
+
+8. **Stock Titan** - "NNE - Nano Nuclear Energy Inc. Latest Stock News & Market Updates" (2025) — [stocktitan.net](https://www.stocktitan.net/news/NNE/)
+
+---
+
 *Report generated for Junto Research portfolio review. Not investment advice.*
