@@ -166,4 +166,22 @@ OXY is a high-quality energy name with unique carbon capture optionality and the
 
 ---
 
+## Sources
+
+1. **Occidental Petroleum Corporation** - "SEC Form 10-K Annual Report" (December 31, 2024) — [sec.gov](https://www.sec.gov/Archives/edgar/data/797468/000079746825000029/oxy-20241231.htm)
+
+2. **Nasdaq** - "Occidental Petroleum Corporation Common Stock (OXY) SEC Filings" (2025) — [nasdaq.com](https://www.nasdaq.com/market-activity/stocks/oxy/sec-filings)
+
+3. **Fintel** - "Berkshire Hathaway Inc ownership in OXY / Occidental Petroleum Corporation" (August 2025) — [fintel.io](https://fintel.io/so/us/oxy/berkshire-hathaway)
+
+4. **Reddit/ValueInvesting** - "Warren Buffett and Berkshire Hathaway bought $35.7 million dollars of OXY shares" (February 12, 2025) — [reddit.com](https://www.reddit.com/r/ValueInvesting/comments/1ingr0r/warren_buffett_and_berkshire_hathaway_bought_357/)
+
+5. **Occidental Petroleum** - "Occidental Enters into Agreement to Acquire Direct Air Capture Technology Innovator Carbon Engineering" (2025) — [oxy.com](https://www.oxy.com/news/news-releases/occidental-enters-into-agreement-to-acquire-direct-air-capture-technology-innovator-carbon-engineering/)
+
+6. **Occidental Petroleum** - "Occidental and BlackRock Form Joint Venture to Develop Stratos, the World's Largest Direct Air Capture Plant" (2025) — [oxy.com](https://www.oxy.com/news/news-releases/occidental-and-blackrock-form-joint-venture-to-develop-stratos-the-worlds-largest-direct-air-capture-plant/)
+
+7. **InnovationMap** - "Oxy's $1.3B Texas Stratos DAC facility on track for 2025 launch" (September 12, 2025) — [houston.innovationmap.com](https://houston.innovationmap.com/oxy-stratos-dac-2025-launch-2673987641.html)
+
+---
+
 *Report generated for Junto Research portfolio review. Not investment advice.*
