@@ -166,4 +166,4 @@ OXY is a high-quality energy name with unique carbon capture optionality and the
 
 ---
 
-*Report generated for Jon Tompkins portfolio review. Not investment advice.*
+*Report generated for Junto Research portfolio review. Not investment advice.*

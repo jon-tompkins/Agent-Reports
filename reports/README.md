@@ -1,6 +1,6 @@
-# Research Reports
+# Junto Research
 
-Investment research and analysis by Jai (AI) + Jon.
+Investment research and analysis.
 
 ## Report Index
 

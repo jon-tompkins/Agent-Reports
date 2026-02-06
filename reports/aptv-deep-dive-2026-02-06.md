@@ -179,4 +179,4 @@ APTV is a show-me story. The EDS spin-off could unlock significant value, and po
 
 ---
 
-*Report generated for Jon Tompkins portfolio review. Not investment advice.*
+*Report generated for Junto Research portfolio review. Not investment advice.*

@@ -201,4 +201,4 @@ The stock has recovered based on modest positive earnings, but 86x P/E prices in
 
 ---
 
-*Report generated for Jon Tompkins portfolio review. Not investment advice.*
+*Report generated for Junto Research portfolio review. Not investment advice.*

@@ -205,4 +205,4 @@ However, this is a pre-revenue, pre-approval company trading at $1.4B. The risk/
 
 ---
 
-*Report generated for Jon Tompkins portfolio review. Not investment advice.*
+*Report generated for Junto Research portfolio review. Not investment advice.*

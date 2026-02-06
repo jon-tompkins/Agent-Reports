@@ -138,4 +138,4 @@ XPRO fits the trading framework well on energy demand and international exposure
 
 ---
 
-*Report generated for Jon Tompkins portfolio review. Not investment advice.*
+*Report generated for Junto Research portfolio review. Not investment advice.*
