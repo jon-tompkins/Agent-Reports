@@ -14,6 +14,14 @@ Nano Nuclear Energy is a pre-revenue, early-stage developer of portable microrea
 
 ---
 
+## Price Charts
+
+![NNE Daily](../charts/NNE-daily-2y.png)
+
+![NNE Weekly](../charts/NNE-weekly-5y.png)
+
+---
+
 ## Business Overview
 
 **Company Profile:**

@@ -15,6 +15,14 @@ Carvana is a high-flying used car e-commerce platform that has rebounded spectac
 
 ---
 
+## Price Charts
+
+![CVNA Daily](../charts/CVNA-daily-2y.png)
+
+![CVNA Weekly](../charts/CVNA-weekly-5y.png)
+
+---
+
 ## The Underwater Loan Problem
 
 ### The Core Issue

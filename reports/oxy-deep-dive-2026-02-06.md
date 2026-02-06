@@ -14,6 +14,14 @@ Occidental is a major integrated oil & gas producer with leading Permian Basin a
 
 ---
 
+## Price Charts
+
+![OXY Daily](../charts/OXY-daily-2y.png)
+
+![OXY Weekly](../charts/OXY-weekly-5y.png)
+
+---
+
 ## Business Overview
 
 **Segments:**

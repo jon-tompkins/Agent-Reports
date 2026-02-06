@@ -14,6 +14,14 @@ Aptiv is a Tier-1 automotive supplier focused on advanced driver assistance syst
 
 ---
 
+## Price Charts
+
+![APTV Daily](../charts/APTV-daily-2y.png)
+
+![APTV Weekly](../charts/APTV-weekly-5y.png)
+
+---
+
 ## Business Overview
 
 **Two Segments:**
