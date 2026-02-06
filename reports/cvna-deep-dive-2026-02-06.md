@@ -201,4 +201,26 @@ The stock has recovered based on modest positive earnings, but 86x P/E prices in
 
 ---
 
+---
+
+## Sources
+
+1. **Hindenburg Research** - "Carvana: A Father-Son Accounting Fiasco For The Ages" (January 2025) — [hindenburgresearch.com/carvana](https://hindenburgresearch.com/carvana/)
+
+2. **CarEdge** - "44% of Cars Financed Since 2022 Are Underwater" (December 2024) — [caredge.com/guides/underwater-car-loans](https://caredge.com/guides/underwater-car-loans)
+
+3. **Fitch Ratings** - "Subprime Auto Loan Performance Update" (2024) — [fitchratings.com](https://www.fitchratings.com/)
+
+4. **Manheim Used Vehicle Index** — [manheim.com/insights/used-vehicle-value-index](https://publish.manheim.com/en/services/consulting/used-vehicle-value-index.html)
+
+5. **Carvana SEC Filings** - 10-K, 10-Q, and 8-K filings — [sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001690820](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001690820)
+
+6. **Ally Financial Earnings Calls** - Q3 2024 Transcript (September 2024) — Referenced via investor relations
+
+7. **Reuters** - "Ally Financial shares fall on auto loan concerns" (September 2024) — [reuters.com](https://www.reuters.com/)
+
+8. **Bloomberg** - Carvana bond and equity coverage (various 2024-2025)
+
+---
+
 *Report generated for Junto Research portfolio review. Not investment advice.*
