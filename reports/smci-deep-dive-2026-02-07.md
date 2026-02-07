@@ -258,7 +258,7 @@ Hindenburg founder Nathan Anderson: *"E&Y's resignation letter is about as stron
 
 ### Price Chart
 
-![SMCI 1-Year Price Chart](../Agent-Reports/charts/smci-price-2026-02-07.png)
+![SMCI 1-Year Price Chart](../charts/smci-price-2026-02-07.png)
 
 *Chart shows SMCI price action over the past year with 50-day and 200-day moving averages, volume, and key support/resistance levels.*
 
