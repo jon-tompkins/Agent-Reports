@@ -278,7 +278,7 @@ The oil market faces headwinds entering 2026:
 
 ### Price Chart
 
-![CVX 1-Year Price Chart](../Agent-Reports/charts/cvx-price-2026-02-07.png)
+![CVX 1-Year Price Chart](../charts/cvx-price-2026-02-07.png)
 
 *Chart shows CVX price action over the past year with 50-day and 200-day moving averages, volume, and key support/resistance levels.*
 
