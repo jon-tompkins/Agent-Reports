@@ -76,6 +76,6 @@ ax1.annotate(f'${current_price:.2f}',
              arrowprops=dict(arrowstyle='->', color='#00ff00', lw=1.5))
 
 plt.tight_layout()
-plt.savefig(f'/home/ubuntu/clawd/Agent-Reports/charts/bep-price-{datetime.now().strftime("%Y-%m-%d")}.png', 
+plt.savefig('/home/ubuntu/clawd/Agent-Reports/charts/bep-price-2026-02-07.png', 
             dpi=150, bbox_inches='tight', facecolor='#1a1a2e', edgecolor='none')
-print(f"Chart saved to /home/ubuntu/clawd/Agent-Reports/charts/bep-price-{datetime.now().strftime('%Y-%m-%d')}.png")
+print(f"Chart saved to /home/ubuntu/clawd/Agent-Reports/charts/bep-price-2026-02-07.png")
