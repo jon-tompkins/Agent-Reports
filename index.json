@@ -83,6 +83,20 @@
       "author": "Subagent Research",
       "word_count": 5100,
       "last_updated": "2026-02-07T22:15:00Z"
+    },
+    {
+      "id": "et-deep-dive-2026-02-07",
+      "title": "ET (Energy Transfer LP) Deep Dive Analysis",
+      "date": "2026-02-07",
+      "path": "reports/et-deep-dive-2026-02-07.md",
+      "category": "investment-research",
+      "tags": ["energy-infrastructure", "pipelines", "natural-gas", "data-centers", "permian-basin", "distribution-yield", "midstream"],
+      "description": "Comprehensive analysis of Energy Transfer as North America's premier energy infrastructure backbone with 140,000 miles of pipeline, Oracle data center partnerships, and aggressive 2026 growth capex targeting AI power demand.",
+      "visibility": "public",
+      "summary": "Energy Transfer operates irreplaceable 140,000-mile pipeline network connecting all major US production basins. Strong Q3 2025 with $3.84B EBITDA, Oracle 900 MMcf/d data center contracts, and $5.0-5.5B 2026 capex. 7.4% distribution yield well covered. Rating: BUY with $21-23 target on AI infrastructure demand.",
+      "author": "Subagent Research",
+      "word_count": 5200,
+      "last_updated": "2026-02-07T22:30:00Z"
     }
   ]
 }
