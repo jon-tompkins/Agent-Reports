@@ -59,7 +59,7 @@ colors = ['#00ff00' if df['Close'].iloc[i] >= df['Open'].iloc[i] else '#ff6b6b' 
 ax2.bar(df.index, df['Volume'], color=colors, alpha=0.7, width=0.8)
 ax2.set_ylabel('Volume', fontsize=12)
 ax2.set_xlabel('Date', fontsize=12)
-ax2.yaxis.set_major_formatter(plt.FuncFormatter(lambda x, p: f'{x/1e6:.1f}M'))
+ax2.yaxis.set_major_formatter(plt.FuncFormatter(lambda x, p: f'{x/1e6:.0f}M'))
 
 # Format x-axis
 ax2.xaxis.set_major_formatter(mdates.DateFormatter('%b %Y'))
@@ -76,6 +76,6 @@ ax1.annotate(f'${current_price:.2f}',
              arrowprops=dict(arrowstyle='->', color='#00ff00', lw=1.5))
 
 plt.tight_layout()
-plt.savefig(f'/home/ubuntu/clawd/Agent-Reports/charts/et-price-{datetime.now().strftime("%Y-%m-%d")}.png', 
+plt.savefig('/home/ubuntu/clawd/Agent-Reports/charts/et-price-2026-02-07.png', 
             dpi=150, bbox_inches='tight', facecolor='#1a1a2e', edgecolor='none')
-print(f"Chart saved to /home/ubuntu/clawd/Agent-Reports/charts/et-price-{datetime.now().strftime('%Y-%m-%d')}.png")
+print(f"Chart saved to /home/ubuntu/clawd/Agent-Reports/charts/et-price-2026-02-07.png")
