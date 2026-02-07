@@ -256,6 +256,12 @@ Hindenburg founder Nathan Anderson: *"E&Y's resignation letter is about as stron
 
 ## Technical Setup
 
+### Price Chart
+
+![SMCI 1-Year Price Chart](../Agent-Reports/charts/smci-price-2026-02-07.png)
+
+*Chart shows SMCI price action over the past year with 50-day and 200-day moving averages, volume, and key support/resistance levels.*
+
 ### Price Action
 - 52-week range: **$27.60 - $66.44**
 - Currently trading near 52-week lows
