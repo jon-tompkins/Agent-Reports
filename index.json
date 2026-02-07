@@ -69,6 +69,20 @@
       "author": "Subagent Research",
       "word_count": 4800,
       "last_updated": "2026-02-07T22:00:00Z"
+    },
+    {
+      "id": "aes-deep-dive-2026-02-07",
+      "title": "AES (AES Corporation) Deep Dive Analysis",
+      "date": "2026-02-07",
+      "path": "reports/aes-deep-dive-2026-02-07.md",
+      "category": "investment-research",
+      "tags": ["AI-infrastructure", "data-centers", "renewable-energy", "hyperscalers", "power-infrastructure", "utility", "energy-transition"],
+      "description": "Comprehensive analysis of AES Corporation as the premier AI data center power infrastructure play with 12.3GW contracted backlog, hyperscaler partnerships, and Virginia market dominance.",
+      "visibility": "public",
+      "summary": "AES positioned at epicenter of AI data center power boom with 32.7GW operational capacity, 12.3GW signed PPA backlog, and established Microsoft/Google/Meta partnerships. Strong Q3 2025 results with $830M EBITDA. Rating: BUY with $21-24 target on infrastructure megatrend.",
+      "author": "Subagent Research",
+      "word_count": 5100,
+      "last_updated": "2026-02-07T22:15:00Z"
     }
   ]
 }
