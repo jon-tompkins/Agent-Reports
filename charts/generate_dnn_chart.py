@@ -49,7 +49,7 @@ high_52wk = df['High'].max()
 ax1.axhline(y=low_52wk, color='#ff6b6b', linestyle='--', alpha=0.5, label=f'52-week Low (${low_52wk:.2f})')
 ax1.axhline(y=high_52wk, color='#00ff00', linestyle='--', alpha=0.5, label=f'52-week High (${high_52wk:.2f})')
 
-ax1.set_title('DNN (Denison Mines Corp.) - 1 Year Price Chart', fontsize=16, fontweight='bold', pad=20)
+ax1.set_title('DNN (Denison Mines Corp) - 1 Year Price Chart', fontsize=16, fontweight='bold', pad=20)
 ax1.set_ylabel('Price (USD)', fontsize=12)
 ax1.legend(loc='upper left', fontsize=9, facecolor='#16213e', edgecolor='#4a7c59')
 ax1.set_ylim([min(df['Low']) * 0.95, max(df['High']) * 1.05])
@@ -59,7 +59,7 @@ colors = ['#00ff00' if df['Close'].iloc[i] >= df['Open'].iloc[i] else '#ff6b6b' 
 ax2.bar(df.index, df['Volume'], color=colors, alpha=0.7, width=0.8)
 ax2.set_ylabel('Volume', fontsize=12)
 ax2.set_xlabel('Date', fontsize=12)
-ax2.yaxis.set_major_formatter(plt.FuncFormatter(lambda x, p: f'{x/1e6:.1f}M'))
+ax2.yaxis.set_major_formatter(plt.FuncFormatter(lambda x, p: f'{x/1e6:.0f}M'))
 
 # Format x-axis
 ax2.xaxis.set_major_formatter(mdates.DateFormatter('%b %Y'))
@@ -76,6 +76,6 @@ ax1.annotate(f'${current_price:.2f}',
              arrowprops=dict(arrowstyle='->', color='#00ff00', lw=1.5))
 
 plt.tight_layout()
-plt.savefig(f'/home/ubuntu/clawd/Agent-Reports/charts/dnn-price-{datetime.now().strftime("%Y-%m-%d")}.png', 
+plt.savefig('/home/ubuntu/clawd/Agent-Reports/charts/dnn-price-2026-02-07.png', 
             dpi=150, bbox_inches='tight', facecolor='#1a1a2e', edgecolor='none')
-print(f"Chart saved to /home/ubuntu/clawd/Agent-Reports/charts/dnn-price-{datetime.now().strftime('%Y-%m-%d')}.png")
+print(f"Chart saved to /home/ubuntu/clawd/Agent-Reports/charts/dnn-price-2026-02-07.png")
