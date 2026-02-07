@@ -1,6 +1,18 @@
 {
-  "lastUpdated": "2026-02-06T17:04:00Z",
+  "lastUpdated": "2026-02-07T18:30:00Z",
   "reports": [
+    {
+      "id": "short-candidates-2026-02-07",
+      "title": "Short/Hedge Candidates - Weekend Research",
+      "ticker": "SMCI,UPST,AFRM,SOFI,CHGG",
+      "date": "2026-02-07",
+      "type": "research",
+      "rating": "BEARISH",
+      "visibility": "private",
+      "summary": "7 potential short candidates across fraud, subprime credit, and AI disruption themes. SMCI highest conviction on Hindenburg allegations.",
+      "file": "short-candidates-2026-02-07.md",
+      "tags": ["short-thesis", "accounting-fraud", "credit-risk", "ai-disruption"]
+    },
     {
       "id": "xpro-2026-02-06",
       "title": "XPRO (Expro Group) - Deep Dive",
