@@ -27,6 +27,20 @@
       "author": "Subagent Research",
       "word_count": 3100,
       "last_updated": "2026-02-07T19:50:00Z"
+    },
+    {
+      "id": "ura-deep-dive-2026-02-07",
+      "title": "URA (Global X Uranium ETF) Deep Dive Analysis",
+      "date": "2026-02-07",
+      "path": "reports/ura-deep-dive-2026-02-07.md",
+      "category": "investment-research",
+      "tags": ["uranium", "nuclear-energy", "ETF", "AI-power-demand", "SMRs", "cameco", "energy-transition"],
+      "description": "Comprehensive deep dive on Global X Uranium ETF covering nuclear renaissance, AI data center power demands, uranium supply-demand fundamentals, and SMR deployment catalysts.",
+      "visibility": "public",
+      "summary": "URA provides diversified exposure to uranium mining at critical inflection point. ETF up 54% from 2025 lows on AI power demand, policy support, and uranium supply tightening. Rating: BUY with $62-68 target driven by structural supply deficit and nuclear renaissance.",
+      "author": "Subagent Research",
+      "word_count": 4200,
+      "last_updated": "2026-02-07T21:45:00Z"
     }
   ]
 }
