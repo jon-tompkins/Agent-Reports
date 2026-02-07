@@ -2,6 +2,23 @@
   "lastUpdated": "2026-02-07T16:35:00Z",
   "reports": [
     {
+      "id": "cvx-2026-02-07",
+      "title": "CVX (Chevron Corporation) - Deep Dive",
+      "ticker": "CVX",
+      "date": "2026-02-07",
+      "type": "deep-dive",
+      "rating": "HOLD/ACCUMULATE",
+      "visibility": "public",
+      "summary": "Strong dividend aristocrat with Guyana growth catalyst, but trading near 52-week highs. Oil headwinds with Brent forecast at $56/bbl. Accumulate below $165.",
+      "file": "cvx-deep-dive-2026-02-07.md",
+      "tags": [
+        "energy",
+        "oil-gas",
+        "dividend",
+        "large-cap"
+      ]
+    },
+    {
       "id": "smci-deep-dive-2026-02-07",
       "title": "SMCI (Super Micro Computer) - Accounting Fraud Deep Dive",
       "ticker": "SMCI",
@@ -11,7 +28,12 @@
       "visibility": "public",
       "summary": "Serial recidivist with 2018 delisting and $17.5M SEC settlement. Hindenburg allegations led to auditor resignation, DOJ/SEC probes. Gross margins collapsed 18%→6%. Highest conviction short candidate.",
       "file": "smci-deep-dive-2026-02-07.md",
-      "tags": ["short-thesis", "accounting-fraud", "ai-infrastructure", "governance"]
+      "tags": [
+        "short-thesis",
+        "accounting-fraud",
+        "ai-infrastructure",
+        "governance"
+      ]
     },
     {
       "id": "short-candidates-2026-02-07",
@@ -23,7 +45,12 @@
       "visibility": "public",
       "summary": "7 potential short candidates across fraud, subprime credit, and AI disruption themes. SMCI highest conviction on Hindenburg allegations.",
       "file": "short-candidates-2026-02-07.md",
-      "tags": ["short-thesis", "accounting-fraud", "credit-risk", "ai-disruption"]
+      "tags": [
+        "short-thesis",
+        "accounting-fraud",
+        "credit-risk",
+        "ai-disruption"
+      ]
     },
     {
       "id": "xpro-2026-02-06",
@@ -35,7 +62,11 @@
       "visibility": "public",
       "summary": "International oilfield services with 6.5% D/E, strong fit for energy demand thesis. Trading at 22.7x P/E with $2.3B backlog.",
       "file": "xpro-deep-dive-2026-02-06.md",
-      "tags": ["energy", "oilfield-services", "international"]
+      "tags": [
+        "energy",
+        "oilfield-services",
+        "international"
+      ]
     },
     {
       "id": "oxy-2026-02-06",
@@ -47,7 +78,12 @@
       "visibility": "public",
       "summary": "Buffett-backed oil major with carbon capture optionality (STRATOS). 30x P/E is stretched but downside protected.",
       "file": "oxy-deep-dive-2026-02-06.md",
-      "tags": ["energy", "oil-gas", "carbon-capture", "buffett"]
+      "tags": [
+        "energy",
+        "oil-gas",
+        "carbon-capture",
+        "buffett"
+      ]
     },
     {
       "id": "aptv-2026-02-06",
@@ -59,7 +95,12 @@
       "visibility": "public",
       "summary": "Auto supplier spinning off EDS by March 2026. Post-spin RemainCo is higher-margin ADAS/connected car play.",
       "file": "aptv-deep-dive-2026-02-06.md",
-      "tags": ["automotive", "ev", "adas", "spin-off"]
+      "tags": [
+        "automotive",
+        "ev",
+        "adas",
+        "spin-off"
+      ]
     },
     {
       "id": "nne-2026-02-06",
@@ -71,7 +112,12 @@
       "visibility": "public",
       "summary": "Pre-revenue microreactor developer targeting AI data center power. $580M cash, 3+ year runway. High risk/reward.",
       "file": "nne-deep-dive-2026-02-06.md",
-      "tags": ["nuclear", "energy", "data-centers", "small-cap"]
+      "tags": [
+        "nuclear",
+        "energy",
+        "data-centers",
+        "small-cap"
+      ]
     },
     {
       "id": "cvna-2026-02-06",
@@ -83,7 +129,11 @@
       "visibility": "public",
       "summary": "44% of loans underwater, subprime stress at GFC levels, related party concerns. 86x P/E prices in perfection.",
       "file": "cvna-deep-dive-2026-02-06.md",
-      "tags": ["auto-retail", "credit", "short-thesis"]
+      "tags": [
+        "auto-retail",
+        "credit",
+        "short-thesis"
+      ]
     },
     {
       "id": "irl-trade-2026-01-30",
@@ -95,7 +145,11 @@
       "visibility": "public",
       "summary": "Live sports/events investment thesis. People value IRL experiences, premium on live events.",
       "file": "irl-trade-2026-01-30.md",
-      "tags": ["live-events", "sports", "entertainment"]
+      "tags": [
+        "live-events",
+        "sports",
+        "entertainment"
+      ]
     },
     {
       "id": "ai-victims",
@@ -107,7 +161,10 @@
       "visibility": "private",
       "summary": "Betting against companies vulnerable to AI disruption - legacy database, language learning, creative tools.",
       "file": "ai-victims-trade.md",
-      "tags": ["short-thesis", "ai-disruption"]
+      "tags": [
+        "short-thesis",
+        "ai-disruption"
+      ]
     },
     {
       "id": "fnma-fmcc-2026-02-05",
@@ -119,7 +176,11 @@
       "visibility": "public",
       "summary": "GSE conservatorship exit analysis and trade considerations.",
       "file": "fnma-fmcc-exit-analysis-2026-02-05.md",
-      "tags": ["gse", "financials", "policy"]
+      "tags": [
+        "gse",
+        "financials",
+        "policy"
+      ]
     },
     {
       "id": "irm-short",
@@ -131,7 +192,10 @@
       "visibility": "private",
       "summary": "Iron Mountain short thesis - document storage disruption.",
       "file": "irm-short-thesis.md",
-      "tags": ["short-thesis", "storage"]
+      "tags": [
+        "short-thesis",
+        "storage"
+      ]
     },
     {
       "id": "chartboi-oxy-2026-02-03",
@@ -143,7 +207,10 @@
       "visibility": "private",
       "summary": "Technical chart analysis for OXY positioning.",
       "file": "chartboi-oxy-analysis-2026-02-03.md",
-      "tags": ["technical", "oil-gas"]
+      "tags": [
+        "technical",
+        "oil-gas"
+      ]
     }
   ]
 }
