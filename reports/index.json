@@ -1,6 +1,18 @@
 {
-  "lastUpdated": "2026-02-07T18:30:00Z",
+  "lastUpdated": "2026-02-07T16:35:00Z",
   "reports": [
+    {
+      "id": "smci-deep-dive-2026-02-07",
+      "title": "SMCI (Super Micro Computer) - Accounting Fraud Deep Dive",
+      "ticker": "SMCI",
+      "date": "2026-02-07",
+      "type": "deep-dive",
+      "rating": "AVOID/SHORT",
+      "visibility": "public",
+      "summary": "Serial recidivist with 2018 delisting and $17.5M SEC settlement. Hindenburg allegations led to auditor resignation, DOJ/SEC probes. Gross margins collapsed 18%→6%. Highest conviction short candidate.",
+      "file": "smci-deep-dive-2026-02-07.md",
+      "tags": ["short-thesis", "accounting-fraud", "ai-infrastructure", "governance"]
+    },
     {
       "id": "short-candidates-2026-02-07",
       "title": "Short/Hedge Candidates - Weekend Research",
