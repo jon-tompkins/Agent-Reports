@@ -211,4 +211,14 @@ RPID is a **niche automation play** in a critical but unglamorous corner of phar
 
 ---
 
-*This is preliminary research. Financials need to be updated from latest 10-K/10-Q filings.*
+## Charts
+
+- **Daily Chart:** [Finviz](https://finviz.com/quote.ashx?t=RPID&p=d)
+- **Weekly Chart:** [Finviz](https://finviz.com/quote.ashx?t=RPID&p=w)
+- **TradingView:** [RPID](https://www.tradingview.com/chart/?symbol=NASDAQ:RPID)
+- **StockCharts:** [RPID](https://stockcharts.com/h-sc/ui?s=RPID)
+- **Yahoo Finance:** [RPID](https://finance.yahoo.com/quote/RPID/chart/)
+
+---
+
+*This is preliminary research. Financials updated from latest filings.*
