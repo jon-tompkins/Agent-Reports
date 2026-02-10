@@ -1,6 +1,91 @@
 {
-  "lastUpdated": "2026-02-09T21:19:02.566Z",
+  "lastUpdated": "2026-02-10T17:52:33.326Z",
   "reports": [
+    {
+      "id": "rpid-2026-02-10",
+      "title": "RPID (Rapid Micro Biosystems) - Automated QC Microbiology",
+      "ticker": "RPID",
+      "date": "2026-02-10",
+      "type": "deep-dive",
+      "rating": "SPECULATIVE",
+      "visibility": "public",
+      "summary": "Automated microbial QC testing for pharma/biotech. Gross margin finally positive. But only 11 months cash runway - capital raise likely in 2026.",
+      "file": "RPID-deep-dive-2026-02-10.md",
+      "tags": [
+        "biotech",
+        "automation",
+        "small-cap",
+        "turnaround"
+      ]
+    },
+    {
+      "id": "zm-2026-02-10",
+      "title": "ZM (Zoom Communications) - AI Pivot & Hidden Anthropic Stake",
+      "ticker": "ZM",
+      "date": "2026-02-10",
+      "type": "deep-dive",
+      "rating": "BUY",
+      "visibility": "public",
+      "summary": "AI-first pivot with $8B cash fortress. Rumored Anthropic stake could be worth $3-7B (unconfirmed). Trading 5x sales, 25x earnings.",
+      "file": "ZM-deep-dive-2026-02-10.md",
+      "tags": [
+        "communications",
+        "ai",
+        "hidden-assets",
+        "mid-cap"
+      ]
+    },
+    {
+      "id": "axti-2026-02-10",
+      "title": "AXTI (AXT Inc) - InP Substrate Manufacturer",
+      "ticker": "AXTI",
+      "date": "2026-02-10",
+      "type": "deep-dive",
+      "rating": "SPECULATIVE",
+      "visibility": "public",
+      "summary": "Leading InP wafer manufacturer for optical networking. China facility risk from export controls. High risk/reward photonics play.",
+      "file": "AXTI-deep-dive-2026-02-10.md",
+      "tags": [
+        "semiconductors",
+        "photonics",
+        "china-risk",
+        "small-cap"
+      ]
+    },
+    {
+      "id": "cohr-2026-02-10",
+      "title": "COHR (Coherent Corp) - US Photonics Leader",
+      "ticker": "COHR",
+      "date": "2026-02-10",
+      "type": "deep-dive",
+      "rating": "BUY",
+      "visibility": "public",
+      "summary": "Integrated photonics leader with $5.8B revenue. CHIPS Act beneficiary, AI datacenter tailwind. Safer bet in optical/photonics space.",
+      "file": "COHR-deep-dive-2026-02-10.md",
+      "tags": [
+        "semiconductors",
+        "photonics",
+        "nearshoring",
+        "mid-cap"
+      ]
+    },
+    {
+      "id": "poet-2026-02-10",
+      "title": "POET Technologies - Optical Interposer Moonshot",
+      "ticker": "POET",
+      "date": "2026-02-10",
+      "type": "deep-dive",
+      "rating": "SPECULATIVE",
+      "visibility": "public",
+      "summary": "Revolutionary optical interposer technology but severe dilution risk. $250M raised in 2025, pre-revenue. High-risk moonshot.",
+      "file": "POET-deep-dive-2026-02-10.md",
+      "tags": [
+        "semiconductors",
+        "photonics",
+        "speculative",
+        "micro-cap"
+      ]
+    },
     {
       "id": "pton-2026-02-09",
       "title": "PTON (Peloton) - Post-Earnings Crash Analysis",
