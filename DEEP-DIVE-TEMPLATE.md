@@ -102,7 +102,23 @@ Use this template for all equity research deep dives. Be objective in analysis, 
 - Recent news (M&A, partnerships, product launches)
 - Upcoming catalysts (earnings date, FDA decisions, etc.)
 
-### 8. Charts
+### 8. Social Chatter / Sentiment
+What's the narrative on Twitter/X and Reddit?
+
+| Source | Sentiment | Key Themes |
+|--------|-----------|------------|
+| Twitter/X | [Bullish/Bearish/Mixed] | |
+| r/wallstreetbets | [Bullish/Bearish/Mixed/N/A] | |
+| r/stocks | [Bullish/Bearish/Mixed/N/A] | |
+| StockTwits | [Bullish/Bearish/Mixed] | |
+
+**Notable mentions:**
+- [Quote or paraphrase interesting takes]
+- [Include links where possible]
+
+**Retail vs Institutional divergence:** [Note if retail sentiment differs from analyst consensus]
+
+### 9. Charts
 Include both with moving averages and volume:
 - Daily 2-year chart
 - Weekly 5-year chart
@@ -113,7 +129,7 @@ Format:
 ![SYMBOL Weekly 5Y](../charts/SYMBOL-weekly-5y.png)
 ```
 
-### 9. Technical Analysis
+### 10. Technical Analysis
 | Level | Price | Notes |
 |-------|-------|-------|
 | Resistance 1 | | |
@@ -128,7 +144,7 @@ Format:
 Trend: [Uptrend | Downtrend | Sideways]  
 Relative Strength: [Leading | Lagging | In-line with market]
 
-### 10. Risk Factors
+### 11. Risk Factors
 Rate each: [Low | Medium | High]
 
 | Risk | Level | Notes |
@@ -140,7 +156,7 @@ Rate each: [Low | Medium | High]
 | Macro/Sector Risk | | |
 | Valuation Risk | | |
 
-### 11. Investment Summary / Bottom Line
+### 12. Investment Summary / Bottom Line
 
 #### Rating Justification
 2-3 paragraphs explaining the rating. Be direct.
@@ -152,6 +168,28 @@ Rate each: [Low | Medium | High]
 - **Target 2:** $XX (XX% upside)
 - **Position Size:** [Small | Medium | Full] based on conviction and risk
 - **Time Horizon:** [Weeks | Months | 1+ Year]
+
+### 13. References / Sources
+
+Link to all sources used in the analysis:
+
+**Company Filings:**
+- [10-K Annual Report](url)
+- [10-Q Quarterly Report](url)
+- [Earnings Call Transcript](url)
+
+**News & Analysis:**
+- [Article Title - Source](url)
+- [Article Title - Source](url)
+
+**Data Sources:**
+- [Yahoo Finance - SYMBOL](https://finance.yahoo.com/quote/SYMBOL)
+- [SEC EDGAR Filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SYMBOL)
+- [Finviz - SYMBOL](https://finviz.com/quote.ashx?t=SYMBOL)
+
+**Social/Sentiment:**
+- [Twitter/X search](url)
+- [Reddit thread](url)
 
 ---
 
