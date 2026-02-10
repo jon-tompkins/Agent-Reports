@@ -1,532 +1,216 @@
 {
-  "lastUpdated": "2026-02-10T17:52:33.326Z",
   "reports": [
     {
-      "id": "rpid-2026-02-10",
-      "title": "RPID (Rapid Micro Biosystems) - Automated QC Microbiology",
-      "ticker": "RPID",
-      "date": "2026-02-10",
-      "type": "deep-dive",
-      "rating": "SPECULATIVE",
-      "visibility": "public",
-      "summary": "Automated microbial QC testing for pharma/biotech. Gross margin finally positive. But only 11 months cash runway - capital raise likely in 2026.",
-      "file": "RPID-deep-dive-2026-02-10.md",
-      "tags": [
-        "biotech",
-        "automation",
-        "small-cap",
-        "turnaround"
-      ]
-    },
-    {
-      "id": "zm-2026-02-10",
-      "title": "ZM (Zoom Communications) - AI Pivot & Hidden Anthropic Stake",
-      "ticker": "ZM",
-      "date": "2026-02-10",
-      "type": "deep-dive",
-      "rating": "BUY",
-      "visibility": "public",
-      "summary": "AI-first pivot with $8B cash fortress. Rumored Anthropic stake could be worth $3-7B (unconfirmed). Trading 5x sales, 25x earnings.",
-      "file": "ZM-deep-dive-2026-02-10.md",
-      "tags": [
-        "communications",
-        "ai",
-        "hidden-assets",
-        "mid-cap"
-      ]
-    },
-    {
-      "id": "axti-2026-02-10",
-      "title": "AXTI (AXT Inc) - InP Substrate Manufacturer",
-      "ticker": "AXTI",
-      "date": "2026-02-10",
-      "type": "deep-dive",
-      "rating": "SPECULATIVE",
-      "visibility": "public",
-      "summary": "Leading InP wafer manufacturer for optical networking. China facility risk from export controls. High risk/reward photonics play.",
-      "file": "AXTI-deep-dive-2026-02-10.md",
-      "tags": [
-        "semiconductors",
-        "photonics",
-        "china-risk",
-        "small-cap"
-      ]
-    },
-    {
-      "id": "cohr-2026-02-10",
-      "title": "COHR (Coherent Corp) - US Photonics Leader",
-      "ticker": "COHR",
-      "date": "2026-02-10",
-      "type": "deep-dive",
-      "rating": "BUY",
-      "visibility": "public",
-      "summary": "Integrated photonics leader with $5.8B revenue. CHIPS Act beneficiary, AI datacenter tailwind. Safer bet in optical/photonics space.",
-      "file": "COHR-deep-dive-2026-02-10.md",
-      "tags": [
-        "semiconductors",
-        "photonics",
-        "nearshoring",
-        "mid-cap"
-      ]
-    },
-    {
-      "id": "poet-2026-02-10",
-      "title": "POET Technologies - Optical Interposer Moonshot",
-      "ticker": "POET",
-      "date": "2026-02-10",
-      "type": "deep-dive",
-      "rating": "SPECULATIVE",
-      "visibility": "public",
-      "summary": "Revolutionary optical interposer technology but severe dilution risk. $250M raised in 2025, pre-revenue. High-risk moonshot.",
-      "file": "POET-deep-dive-2026-02-10.md",
-      "tags": [
-        "semiconductors",
-        "photonics",
-        "speculative",
-        "micro-cap"
-      ]
-    },
-    {
-      "id": "pton-2026-02-09",
-      "title": "PTON (Peloton) - Post-Earnings Crash Analysis",
-      "ticker": "PTON",
+      "id": "pton-deep-dive-2026-02-09",
+      "title": "PTON (Peloton Interactive) Deep Dive Analysis",
       "date": "2026-02-09",
-      "type": "deep-dive",
-      "rating": "AVOID",
-      "visibility": "public",
-      "summary": "Down 25% on earnings miss. Subscribers declining, competition fierce. Value trap - cheap but shrinking. Wait for sub stabilization before considering.",
-      "file": "pton-deep-dive-2026-02-09.md",
+      "path": "reports/pton-deep-dive-2026-02-09.md",
+      "category": "investment-research",
       "tags": [
-        "fitness",
-        "value-trap",
-        "turnaround",
-        "avoid"
-      ]
-    },
-    {
-      "id": "aes-2026-02-07",
-      "title": "AES (AES Corporation) - AI Data Center Power Infrastructure",
-      "ticker": "AES",
-      "date": "2026-02-07",
-      "type": "deep-dive",
-      "rating": "BUY",
+        "connected-fitness",
+        "turnaround-story",
+        "subscription-model",
+        "AI-technology",
+        "consumer-discretionary",
+        "pandemic-recovery",
+        "debt-refinancing"
+      ],
+      "description": "Comprehensive turnaround analysis of Peloton Interactive covering AI-powered product strategy, subscription business stabilization, competitive position vs Apple Fitness+ and NordicTrack, and determining if PTON is a genuine recovery story or value trap.",
       "visibility": "public",
-      "summary": "Premier power infrastructure provider for AI revolution. 24/7 carbon-free energy partnerships with Google/Microsoft. 11.7 GW contracted backlog, 4.4% dividend yield, 10.6x PE.",
-      "file": "aes-deep-dive-2026-02-07.md",
-      "tags": [
-        "energy",
-        "ai-infrastructure",
-        "data-centers",
-        "dividend"
-      ]
-    },
-    {
-      "id": "bep-2026-02-07",
-      "title": "BEP (Brookfield Renewable Partners) - Global Renewable Powerhouse",
-      "ticker": "BEP",
-      "date": "2026-02-07",
-      "type": "deep-dive",
-      "rating": "BUY",
-      "visibility": "public",
-      "summary": "World's largest publicly traded renewable platform. 46 GW operating capacity, 200 GW development pipeline. 4.96% yield with 10% FFO growth.",
-      "file": "bep-deep-dive-2026-02-07.md",
-      "tags": [
-        "renewable-energy",
-        "clean-energy",
-        "infrastructure",
-        "dividend"
-      ]
-    },
-    {
-      "id": "cvx-2026-02-07",
-      "title": "CVX (Chevron Corporation) - Deep Dive",
-      "ticker": "CVX",
-      "date": "2026-02-07",
-      "type": "deep-dive",
-      "rating": "HOLD/ACCUMULATE",
-      "visibility": "public",
-      "summary": "Strong dividend aristocrat with Guyana growth catalyst, but trading near 52-week highs. Oil headwinds with Brent forecast at $56/bbl. Accumulate below $165.",
-      "file": "cvx-deep-dive-2026-02-07.md",
-      "tags": [
-        "energy",
-        "oil-gas",
-        "dividend",
-        "large-cap"
-      ]
-    },
-    {
-      "id": "dnn-2026-02-07",
-      "title": "DNN (Denison Mines) - ISR Technology Pioneer",
-      "ticker": "DNN",
-      "date": "2026-02-07",
-      "type": "deep-dive",
-      "rating": "STRONG BUY",
-      "visibility": "public",
-      "summary": "Purest play on next-gen uranium mining. Phoenix project 65% complete, Canada's first large-scale uranium mine since Cigar Lake. Revolutionary ISR freeze wall technology.",
-      "file": "dnn-deep-dive-2026-02-07.md",
-      "tags": [
-        "uranium",
-        "nuclear",
-        "mining",
-        "small-cap"
-      ]
-    },
-    {
-      "id": "et-2026-02-07",
-      "title": "ET (Energy Transfer LP) - LNG Export Giant",
-      "ticker": "ET",
-      "date": "2026-02-07",
-      "type": "deep-dive",
-      "rating": "BUY",
-      "visibility": "public",
-      "summary": "America's largest pipeline network (120K+ miles). Critical LNG export infrastructure. 7.47% distribution yield, 8.24x EV/EBITDA with 19.6% analyst upside.",
-      "file": "et-deep-dive-2026-02-07.md",
-      "tags": [
-        "energy",
-        "pipelines",
-        "lng",
-        "dividend"
-      ]
-    },
-    {
-      "id": "ura-2026-02-07",
-      "title": "URA (Global X Uranium ETF) - Nuclear Renaissance Play",
-      "ticker": "URA",
-      "date": "2026-02-07",
-      "type": "deep-dive",
-      "rating": "STRONG BUY",
-      "visibility": "public",
-      "summary": "Best uranium exposure for nuclear renaissance. AI data center power demand + decarbonization driving structural demand. 54% rally from 2025 lows.",
-      "file": "ura-deep-dive-2026-02-07.md",
-      "tags": [
-        "uranium",
-        "nuclear",
-        "etf",
-        "ai-infrastructure"
-      ]
-    },
-    {
-      "id": "uuuu-2026-02-07",
-      "title": "UUUU (Energy Fuels) - Critical Minerals Champion",
-      "ticker": "UUUU",
-      "date": "2026-02-07",
-      "type": "deep-dive",
-      "rating": "STRONG BUY",
-      "visibility": "public",
-      "summary": "America's only integrated critical minerals platform. Leading U.S. uranium producer + only North American rare earth processor. Monopolistic White Mesa Mill. 298% appreciation.",
-      "file": "uuuu-deep-dive-2026-02-07.md",
-      "tags": [
-        "uranium",
-        "rare-earth",
-        "critical-minerals",
-        "strategic-asset"
-      ]
-    },
-    {
-      "id": "smci-deep-dive-2026-02-07",
-      "title": "SMCI (Super Micro Computer) - Accounting Fraud Deep Dive",
-      "ticker": "SMCI",
-      "date": "2026-02-07",
-      "type": "deep-dive",
-      "rating": "AVOID/SHORT",
-      "visibility": "public",
-      "summary": "Serial recidivist with 2018 delisting and $17.5M SEC settlement. Hindenburg allegations led to auditor resignation, DOJ/SEC probes. Gross margins collapsed 18%→6%. Highest conviction short candidate.",
-      "file": "smci-deep-dive-2026-02-07.md",
-      "tags": [
-        "short-thesis",
-        "accounting-fraud",
-        "ai-infrastructure",
-        "governance"
-      ]
+      "summary": "Peloton trades at 0.8x P/S following dramatic pandemic decline, showing stabilization with $380M trailing FCF and 2.73M subscribers. New AI Cross Training Series and cost-cutting creating turnaround optionality despite debt burden. Rating: HOLD/Weak BUY with $8.50-10.00 target as cautious turnaround story pending execution.",
+      "author": "Subagent Research",
+      "word_count": 5800,
+      "last_updated": "2026-02-09T21:18:00Z"
     },
     {
       "id": "short-candidates-2026-02-07",
-      "title": "Short/Hedge Candidates - Weekend Research",
-      "ticker": "SMCI,UPST,AFRM,SOFI,CHGG",
+      "title": "Short/Hedge Opportunities Research Report",
       "date": "2026-02-07",
-      "type": "research",
-      "rating": "BEARISH",
-      "visibility": "public",
-      "summary": "7 potential short candidates across fraud, subprime credit, and AI disruption themes. SMCI highest conviction on Hindenburg allegations.",
-      "file": "short-candidates-2026-02-07.md",
+      "path": "reports/short-candidates-2026-02-07.md",
+      "category": "investment-research",
       "tags": [
-        "short-thesis",
-        "accounting-fraud",
-        "credit-risk",
-        "ai-disruption"
-      ]
+        "short-selling",
+        "hedge-opportunities",
+        "AI-disruption",
+        "accounting-irregularities",
+        "high-valuations"
+      ],
+      "description": "Comprehensive analysis of 6 potential short candidates with market caps >$5B, focusing on companies vulnerable to accounting issues, AI disruption, and extreme valuations. Includes detailed financial metrics, bear thesis, and catalyst timelines.",
+      "visibility": "private",
+      "summary": "Research identifies 6 high-risk companies including Palantir (P/E 378x), Tesla (accounting red flags), and software companies facing AI disruption. Total addressable shorting universe represents >$2T in market cap with multiple catalyst events expected in Q1 2026.",
+      "author": "Subagent Research",
+      "word_count": 2800,
+      "last_updated": "2026-02-07T12:00:00Z"
     },
     {
-      "id": "crypto-unwind-2026-02-07",
-      "title": "Crypto Unwind Theory Analysis",
-      "ticker": "BTC,IBIT",
+      "id": "cvx-deep-dive-2026-02-07",
+      "title": "CVX (Chevron Corporation) Deep Dive Analysis",
       "date": "2026-02-07",
-      "type": "analysis",
-      "rating": "NEUTRAL",
-      "visibility": "public",
-      "summary": "Investigation of Feb 5, 2026 crash theory - JPY carry trade + leveraged IBIT options blowup. Theory rated PLAUSIBLE with factual corrections. $19B+ liquidations confirmed.",
-      "file": "crypto-unwind-theory-2026-02-07.md",
-      "tags": [
-        "crypto",
-        "macro",
-        "carry-trade",
-        "market-crash"
-      ]
-    },
-    {
-      "id": "xpro-2026-02-06",
-      "title": "XPRO (Expro Group) - Deep Dive",
-      "ticker": "XPRO",
-      "date": "2026-02-06",
-      "type": "deep-dive",
-      "rating": "HOLD/ACCUMULATE",
-      "visibility": "public",
-      "summary": "International oilfield services with 6.5% D/E, strong fit for energy demand thesis. Trading at 22.7x P/E with $2.3B backlog.",
-      "file": "xpro-deep-dive-2026-02-06.md",
-      "tags": [
-        "energy",
-        "oilfield-services",
-        "international"
-      ]
-    },
-    {
-      "id": "oxy-2026-02-06",
-      "title": "OXY (Occidental Petroleum) - Deep Dive",
-      "ticker": "OXY",
-      "date": "2026-02-06",
-      "type": "deep-dive",
-      "rating": "HOLD",
-      "visibility": "public",
-      "summary": "Buffett-backed oil major with carbon capture optionality (STRATOS). 30x P/E is stretched but downside protected.",
-      "file": "oxy-deep-dive-2026-02-06.md",
+      "path": "reports/cvx-deep-dive-2026-02-07.md",
+      "category": "investment-research",
       "tags": [
         "energy",
         "oil-gas",
-        "carbon-capture",
-        "buffett"
-      ]
+        "integrated-major",
+        "dividend",
+        "guyana",
+        "hess-acquisition"
+      ],
+      "description": "Comprehensive deep dive on Chevron Corporation covering the Hess acquisition, Guyana growth catalyst, Q4 2025 results, oil price outlook, and investment thesis with full financial analysis.",
+      "visibility": "public",
+      "summary": "Chevron is a high-quality integrated energy major with strong Guyana growth via the $53B Hess acquisition. Trading near 52-week highs with 3.94% dividend yield. Rating: HOLD/Accumulate on weakness below $165. Oil price headwinds ($56/bbl forecast) pressure near-term but long-term thesis intact.",
+      "author": "Subagent Research",
+      "word_count": 3100,
+      "last_updated": "2026-02-07T19:50:00Z"
     },
     {
-      "id": "aptv-2026-02-06",
-      "title": "APTV (Aptiv) - Deep Dive",
-      "ticker": "APTV",
-      "date": "2026-02-06",
-      "type": "deep-dive",
-      "rating": "SPECULATIVE BUY",
-      "visibility": "public",
-      "summary": "Auto supplier spinning off EDS by March 2026. Post-spin RemainCo is higher-margin ADAS/connected car play.",
-      "file": "aptv-deep-dive-2026-02-06.md",
+      "id": "ura-deep-dive-2026-02-07",
+      "title": "URA (Global X Uranium ETF) Deep Dive Analysis",
+      "date": "2026-02-07",
+      "path": "reports/ura-deep-dive-2026-02-07.md",
+      "category": "investment-research",
       "tags": [
-        "automotive",
-        "ev",
-        "adas",
-        "spin-off"
-      ]
+        "uranium",
+        "nuclear-energy",
+        "ETF",
+        "AI-power-demand",
+        "SMRs",
+        "cameco",
+        "energy-transition"
+      ],
+      "description": "Comprehensive deep dive on Global X Uranium ETF covering nuclear renaissance, AI data center power demands, uranium supply-demand fundamentals, and SMR deployment catalysts.",
+      "visibility": "public",
+      "summary": "URA provides diversified exposure to uranium mining at critical inflection point. ETF up 54% from 2025 lows on AI power demand, policy support, and uranium supply tightening. Rating: BUY with $62-68 target driven by structural supply deficit and nuclear renaissance.",
+      "author": "Subagent Research",
+      "word_count": 4200,
+      "last_updated": "2026-02-07T21:45:00Z"
     },
     {
-      "id": "nne-2026-02-06",
-      "title": "NNE (Nano Nuclear) - Deep Dive",
-      "ticker": "NNE",
-      "date": "2026-02-06",
-      "type": "deep-dive",
-      "rating": "SPECULATIVE",
-      "visibility": "public",
-      "summary": "Pre-revenue microreactor developer targeting AI data center power. $580M cash, 3+ year runway. High risk/reward.",
-      "file": "nne-deep-dive-2026-02-06.md",
+      "id": "dnn-deep-dive-2026-02-07",
+      "title": "DNN (Denison Mines Corp.) Deep Dive Analysis",
+      "date": "2026-02-07",
+      "path": "reports/dnn-deep-dive-2026-02-07.md",
+      "category": "investment-research",
       "tags": [
-        "nuclear",
-        "energy",
+        "uranium",
+        "mining",
+        "ISR-technology",
+        "phoenix-project",
+        "wheeler-river",
+        "athabasca-basin",
+        "nuclear-energy"
+      ],
+      "description": "Comprehensive analysis of Denison Mines as Canada's next major uranium producer with construction-ready Phoenix ISR project, strong balance sheet, and strategic Athabasca Basin assets.",
+      "visibility": "public",
+      "summary": "Denison stands at transformational inflection point with $600M Phoenix ISR project construction-ready, targeting mid-2028 first production. Over $700M cash provides full funding while McClean Lake JV restart provides immediate cash flow. Rating: BUY with $5.00-5.50 target on permit approval catalyst.",
+      "author": "Subagent Research",
+      "word_count": 4500,
+      "last_updated": "2026-02-07T21:50:00Z"
+    },
+    {
+      "id": "uuuu-deep-dive-2026-02-07",
+      "title": "UUUU (Energy Fuels Inc.) Deep Dive Analysis",
+      "date": "2026-02-07",
+      "path": "reports/uuuu-deep-dive-2026-02-07.md",
+      "category": "investment-research",
+      "tags": [
+        "uranium",
+        "rare-earth-elements",
+        "critical-materials",
+        "white-mesa-mill",
+        "national-security",
+        "supply-chain",
+        "strategic-monopoly"
+      ],
+      "description": "Comprehensive analysis of Energy Fuels as America's strategic critical materials champion with monopolistic uranium mill and transformational $410M rare earth expansion targeting 45% US market share.",
+      "visibility": "public",
+      "summary": "Energy Fuels uniquely positioned with only US conventional uranium mill plus world-class REE expansion. $410M Phase 2 creates $3.7B NPV targeting 45% of US rare earth demand. Strong financials with $298M working capital. Rating: BUY with $28-32 target on strategic monopoly value.",
+      "author": "Subagent Research",
+      "word_count": 4800,
+      "last_updated": "2026-02-07T22:00:00Z"
+    },
+    {
+      "id": "aes-deep-dive-2026-02-07",
+      "title": "AES (AES Corporation) Deep Dive Analysis",
+      "date": "2026-02-07",
+      "path": "reports/aes-deep-dive-2026-02-07.md",
+      "category": "investment-research",
+      "tags": [
+        "AI-infrastructure",
         "data-centers",
-        "small-cap"
-      ]
+        "renewable-energy",
+        "hyperscalers",
+        "power-infrastructure",
+        "utility",
+        "energy-transition"
+      ],
+      "description": "Comprehensive analysis of AES Corporation as the premier AI data center power infrastructure play with 12.3GW contracted backlog, hyperscaler partnerships, and Virginia market dominance.",
+      "visibility": "public",
+      "summary": "AES positioned at epicenter of AI data center power boom with 32.7GW operational capacity, 12.3GW signed PPA backlog, and established Microsoft/Google/Meta partnerships. Strong Q3 2025 results with $830M EBITDA. Rating: BUY with $21-24 target on infrastructure megatrend.",
+      "author": "Subagent Research",
+      "word_count": 5100,
+      "last_updated": "2026-02-07T22:15:00Z"
     },
     {
-      "id": "cvna-2026-02-06",
-      "title": "CVNA (Carvana) - Underwater Loan Analysis",
-      "ticker": "CVNA",
-      "date": "2026-02-06",
+      "id": "et-deep-dive-2026-02-07",
+      "title": "ET (Energy Transfer LP) Deep Dive Analysis",
+      "date": "2026-02-07",
+      "path": "reports/et-deep-dive-2026-02-07.md",
+      "category": "investment-research",
+      "tags": [
+        "energy-infrastructure",
+        "pipelines",
+        "natural-gas",
+        "data-centers",
+        "permian-basin",
+        "distribution-yield",
+        "midstream"
+      ],
+      "description": "Comprehensive analysis of Energy Transfer as North America's premier energy infrastructure backbone with 140,000 miles of pipeline, Oracle data center partnerships, and aggressive 2026 growth capex targeting AI power demand.",
+      "visibility": "public",
+      "summary": "Energy Transfer operates irreplaceable 140,000-mile pipeline network connecting all major US production basins. Strong Q3 2025 with $3.84B EBITDA, Oracle 900 MMcf/d data center contracts, and $5.0-5.5B 2026 capex. 7.4% distribution yield well covered. Rating: BUY with $21-23 target on AI infrastructure demand.",
+      "author": "Subagent Research",
+      "word_count": 5200,
+      "last_updated": "2026-02-07T22:30:00Z"
+    },
+    {
+      "id": "bep-deep-dive-2026-02-07",
+      "title": "BEP (Brookfield Renewable Partners) Deep Dive Analysis",
+      "date": "2026-02-07",
+      "path": "reports/bep-deep-dive-2026-02-07.md",
+      "category": "investment-research",
+      "tags": [
+        "renewable-energy",
+        "nuclear-renaissance",
+        "westinghouse",
+        "hydroelectric",
+        "google-partnership",
+        "AI-power-demand",
+        "global-infrastructure"
+      ],
+      "description": "Comprehensive analysis of Brookfield Renewable Partners as world's largest renewable platform with record 2025 results, Google 3GW hydro framework, Westinghouse nuclear partnership, and 84GW development pipeline targeting AI data center demand.",
+      "visibility": "public",
+      "summary": "Brookfield Renewable Partners delivered record 2025 FFO $1.33B (+10%), 5% distribution increase, and transformational Google 3GW hydro partnership. Westinghouse nuclear renaissance positioning and 84GW development pipeline targeting 10GW/year commissioning. Rating: BUY with $36-40 target on AI infrastructure catalysts.",
+      "author": "Subagent Research",
+      "word_count": 5500,
+      "last_updated": "2026-02-07T22:45:00Z"
+    },
+    {
+      "id": "expe-2026-02-10",
+      "title": "Expedia Group Deep Dive",
+      "ticker": "EXPE",
+      "date": "2026-02-10",
       "type": "deep-dive",
-      "rating": "AVOID/SHORT",
+      "rating": "neutral",
       "visibility": "public",
-      "summary": "44% of loans underwater, subprime stress at GFC levels, related party concerns. 86x P/E prices in perfection.",
-      "file": "cvna-deep-dive-2026-02-06.md",
+      "summary": "Value play with AI disruption risk. 13x forward P/E, 10% FCF yield. Partnering with ChatGPT rather than fighting it. Q4 earnings Feb 12.",
+      "file": "reports/EXPE-deep-dive-2026-02-10.md",
       "tags": [
-        "auto-retail",
-        "credit",
-        "short-thesis"
-      ]
-    },
-    {
-      "id": "fnma-fmcc-2026-02-05",
-      "title": "FNMA/FMCC Exit Analysis",
-      "ticker": "FNMA,FMCC",
-      "date": "2026-02-05",
-      "type": "analysis",
-      "rating": "NEUTRAL",
-      "visibility": "public",
-      "summary": "GSE conservatorship exit analysis and trade considerations.",
-      "file": "fnma-fmcc-exit-analysis-2026-02-05.md",
-      "tags": [
-        "gse",
-        "financials",
-        "policy"
-      ]
-    },
-    {
-      "id": "fnma-fmcc-brief-2026-02-05",
-      "title": "Fannie Mae & Freddie Mac: The 17-Year Bet",
-      "ticker": "FNMA,FMCC",
-      "date": "2026-02-05",
-      "type": "analysis",
-      "rating": "SPECULATIVE",
-      "visibility": "public",
-      "summary": "Plain-English explainer on GSE conservatorship situation. $7T in mortgages, trading at fraction of book value. Political tailwinds but extreme risk.",
-      "file": "fnma-fmcc-brief-2026-02-05.md",
-      "tags": [
-        "gse",
-        "financials",
-        "speculative"
-      ]
-    },
-    {
-      "id": "chet-quantum-shorts-2026-02-05",
-      "title": "Overbought Quantum Stocks: Short Candidates",
-      "ticker": "RGTI,QBTS,IONQ,ARQQ",
-      "date": "2026-02-05",
-      "type": "research",
-      "rating": "BEARISH",
-      "visibility": "public",
-      "summary": "Pure-play quantum stocks with 500%+ gains in 2025 showing bubble characteristics. RGTI strongest short candidate - $201M net loss, declining revenue.",
-      "file": "chet-quantum-shorts-2026-02-05.md",
-      "tags": [
-        "quantum",
-        "short-thesis",
-        "tech"
-      ]
-    },
-    {
-      "id": "quantum-technical-2026-02-05",
-      "title": "Quantum Stocks Technical Analysis",
-      "ticker": "RGTI,QBTS,IONQ,ARQQ,QTUM",
-      "date": "2026-02-05",
-      "type": "technical",
-      "rating": "BEARISH",
-      "visibility": "public",
-      "summary": "All monitored quantum stocks trading BELOW 100-day moving averages. RGTI -40%, QBTS -37%, IONQ -30%. Weak/bearish trend across sector.",
-      "file": "quantum-technical-check-2026-02-05.md",
-      "tags": [
-        "quantum",
-        "technical",
-        "short-thesis"
-      ]
-    },
-    {
-      "id": "chet-trade-ideas-2026-02-05",
-      "title": "Chet's Trading Ideas - February 2026",
-      "ticker": "PLTR,VRT,AEHR,INOD",
-      "date": "2026-02-05",
-      "type": "research",
-      "rating": "MIXED",
-      "visibility": "public",
-      "summary": "5 long positions (PLTR, etc.) in AI/energy themes + 5 short positions in declining industries. Focus on world shift themes.",
-      "file": "chet-trade-ideas-2026-02-05.md",
-      "tags": [
-        "trade-ideas",
-        "ai",
-        "energy"
-      ]
-    },
-    {
-      "id": "chet-updated-analysis-2026-02-05",
-      "title": "Comprehensive Trading Analysis - Updated",
-      "ticker": "INOD,AEHR,VRT",
-      "date": "2026-02-05",
-      "type": "research",
-      "rating": "MIXED",
-      "visibility": "public",
-      "summary": "10 new stock picks (5 bullish small-caps, 5 bearish large-caps) with comprehensive grading. AI disruption wave hitting legacy software, opportunities in AI infrastructure.",
-      "file": "chet-updated-analysis-2026-02-05.md",
-      "tags": [
-        "trade-ideas",
-        "small-cap",
-        "ai-disruption"
-      ]
-    },
-    {
-      "id": "chet-trade-ideas-2025-01-19",
-      "title": "Chet's Trading Ideas - January 2025",
-      "ticker": "NOW,VST",
-      "date": "2025-01-19",
-      "type": "research",
-      "rating": "MIXED",
-      "visibility": "public",
-      "summary": "5 long + 5 short recommendations based on 5 world shift themes. ServiceNow top pick for AI integration.",
-      "file": "chet-trade-ideas-2025-01-19.md",
-      "tags": [
-        "trade-ideas",
-        "ai",
-        "world-shifts"
-      ]
-    },
-    {
-      "id": "irl-trade-2026-01-30",
-      "title": "The IRL Trade - Live Events Thesis",
-      "ticker": "LYV,DKNG,FLUT,MGM",
-      "date": "2026-01-30",
-      "type": "thesis",
-      "rating": "BULLISH",
-      "visibility": "public",
-      "summary": "Live sports/events investment thesis. People value IRL experiences, premium on live events.",
-      "file": "irl-trade-2026-01-30.md",
-      "tags": [
-        "live-events",
-        "sports",
-        "entertainment"
-      ]
-    },
-    {
-      "id": "ai-victims",
-      "title": "AI Victims Trade - Short Thesis",
-      "ticker": "ORCL,DUOL,ADBE",
-      "date": "2026-01-28",
-      "type": "thesis",
-      "rating": "BEARISH",
-      "visibility": "public",
-      "summary": "Betting against companies vulnerable to AI disruption - legacy database, language learning, creative tools.",
-      "file": "ai-victims-trade.md",
-      "tags": [
-        "short-thesis",
-        "ai-disruption"
-      ]
-    },
-    {
-      "id": "irm-short",
-      "title": "IRM Short Thesis",
-      "ticker": "IRM",
-      "date": "2026-01-28",
-      "type": "thesis",
-      "rating": "BEARISH",
-      "visibility": "public",
-      "summary": "Iron Mountain short thesis - document storage disruption.",
-      "file": "irm-short-thesis.md",
-      "tags": [
-        "short-thesis",
-        "storage"
-      ]
-    },
-    {
-      "id": "chartboi-oxy-2026-02-03",
-      "title": "ChartBoi OXY Technical Analysis",
-      "ticker": "OXY",
-      "date": "2026-02-03",
-      "type": "technical",
-      "rating": "NEUTRAL",
-      "visibility": "public",
-      "summary": "Technical chart analysis for OXY positioning.",
-      "file": "chartboi-oxy-analysis-2026-02-03.md",
-      "tags": [
-        "technical",
-        "oil-gas"
+        "travel",
+        "OTA",
+        "AI-disruption",
+        "value",
+        "FCF"
       ]
     }
   ]
