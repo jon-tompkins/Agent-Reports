@@ -244,6 +244,14 @@ Launched as Zoom's global investment arm, **Zoom Ventures** represents a signifi
 
 ---
 
+## Charts
+
+![ZM Daily](../charts/ZM-daily-2y.png)
+
+![ZM Weekly](../charts/ZM-weekly-5y.png)
+
+---
+
 ## Conclusion
 
 **Investment Thesis:** Zoom represents a high-quality business trading at reasonable valuations with significant hidden value from strategic investments. The Anthropic investment alone provides substantial upside optionality, while the core business transitions from pure pandemic beneficiary to diversified communications platform.
