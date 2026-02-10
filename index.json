@@ -1,0 +1,217 @@
+{
+  "reports": [
+    {
+      "id": "pton-deep-dive-2026-02-09",
+      "title": "PTON (Peloton Interactive) Deep Dive Analysis",
+      "date": "2026-02-09",
+      "path": "reports/pton-deep-dive-2026-02-09.md",
+      "category": "investment-research",
+      "tags": [
+        "connected-fitness",
+        "turnaround-story",
+        "subscription-model",
+        "AI-technology",
+        "consumer-discretionary",
+        "pandemic-recovery",
+        "debt-refinancing"
+      ],
+      "description": "Comprehensive turnaround analysis of Peloton Interactive covering AI-powered product strategy, subscription business stabilization, competitive position vs Apple Fitness+ and NordicTrack, and determining if PTON is a genuine recovery story or value trap.",
+      "visibility": "public",
+      "summary": "Peloton trades at 0.8x P/S following dramatic pandemic decline, showing stabilization with $380M trailing FCF and 2.73M subscribers. New AI Cross Training Series and cost-cutting creating turnaround optionality despite debt burden. Rating: HOLD/Weak BUY with $8.50-10.00 target as cautious turnaround story pending execution.",
+      "author": "Subagent Research",
+      "word_count": 5800,
+      "last_updated": "2026-02-09T21:18:00Z"
+    },
+    {
+      "id": "short-candidates-2026-02-07",
+      "title": "Short/Hedge Opportunities Research Report",
+      "date": "2026-02-07",
+      "path": "reports/short-candidates-2026-02-07.md",
+      "category": "investment-research",
+      "tags": [
+        "short-selling",
+        "hedge-opportunities",
+        "AI-disruption",
+        "accounting-irregularities",
+        "high-valuations"
+      ],
+      "description": "Comprehensive analysis of 6 potential short candidates with market caps >$5B, focusing on companies vulnerable to accounting issues, AI disruption, and extreme valuations. Includes detailed financial metrics, bear thesis, and catalyst timelines.",
+      "visibility": "private",
+      "summary": "Research identifies 6 high-risk companies including Palantir (P/E 378x), Tesla (accounting red flags), and software companies facing AI disruption. Total addressable shorting universe represents >$2T in market cap with multiple catalyst events expected in Q1 2026.",
+      "author": "Subagent Research",
+      "word_count": 2800,
+      "last_updated": "2026-02-07T12:00:00Z"
+    },
+    {
+      "id": "cvx-deep-dive-2026-02-07",
+      "title": "CVX (Chevron Corporation) Deep Dive Analysis",
+      "date": "2026-02-07",
+      "path": "reports/cvx-deep-dive-2026-02-07.md",
+      "category": "investment-research",
+      "tags": [
+        "energy",
+        "oil-gas",
+        "integrated-major",
+        "dividend",
+        "guyana",
+        "hess-acquisition"
+      ],
+      "description": "Comprehensive deep dive on Chevron Corporation covering the Hess acquisition, Guyana growth catalyst, Q4 2025 results, oil price outlook, and investment thesis with full financial analysis.",
+      "visibility": "public",
+      "summary": "Chevron is a high-quality integrated energy major with strong Guyana growth via the $53B Hess acquisition. Trading near 52-week highs with 3.94% dividend yield. Rating: HOLD/Accumulate on weakness below $165. Oil price headwinds ($56/bbl forecast) pressure near-term but long-term thesis intact.",
+      "author": "Subagent Research",
+      "word_count": 3100,
+      "last_updated": "2026-02-07T19:50:00Z"
+    },
+    {
+      "id": "ura-deep-dive-2026-02-07",
+      "title": "URA (Global X Uranium ETF) Deep Dive Analysis",
+      "date": "2026-02-07",
+      "path": "reports/ura-deep-dive-2026-02-07.md",
+      "category": "investment-research",
+      "tags": [
+        "uranium",
+        "nuclear-energy",
+        "ETF",
+        "AI-power-demand",
+        "SMRs",
+        "cameco",
+        "energy-transition"
+      ],
+      "description": "Comprehensive deep dive on Global X Uranium ETF covering nuclear renaissance, AI data center power demands, uranium supply-demand fundamentals, and SMR deployment catalysts.",
+      "visibility": "public",
+      "summary": "URA provides diversified exposure to uranium mining at critical inflection point. ETF up 54% from 2025 lows on AI power demand, policy support, and uranium supply tightening. Rating: BUY with $62-68 target driven by structural supply deficit and nuclear renaissance.",
+      "author": "Subagent Research",
+      "word_count": 4200,
+      "last_updated": "2026-02-07T21:45:00Z"
+    },
+    {
+      "id": "dnn-deep-dive-2026-02-07",
+      "title": "DNN (Denison Mines Corp.) Deep Dive Analysis",
+      "date": "2026-02-07",
+      "path": "reports/dnn-deep-dive-2026-02-07.md",
+      "category": "investment-research",
+      "tags": [
+        "uranium",
+        "mining",
+        "ISR-technology",
+        "phoenix-project",
+        "wheeler-river",
+        "athabasca-basin",
+        "nuclear-energy"
+      ],
+      "description": "Comprehensive analysis of Denison Mines as Canada's next major uranium producer with construction-ready Phoenix ISR project, strong balance sheet, and strategic Athabasca Basin assets.",
+      "visibility": "public",
+      "summary": "Denison stands at transformational inflection point with $600M Phoenix ISR project construction-ready, targeting mid-2028 first production. Over $700M cash provides full funding while McClean Lake JV restart provides immediate cash flow. Rating: BUY with $5.00-5.50 target on permit approval catalyst.",
+      "author": "Subagent Research",
+      "word_count": 4500,
+      "last_updated": "2026-02-07T21:50:00Z"
+    },
+    {
+      "id": "uuuu-deep-dive-2026-02-07",
+      "title": "UUUU (Energy Fuels Inc.) Deep Dive Analysis",
+      "date": "2026-02-07",
+      "path": "reports/uuuu-deep-dive-2026-02-07.md",
+      "category": "investment-research",
+      "tags": [
+        "uranium",
+        "rare-earth-elements",
+        "critical-materials",
+        "white-mesa-mill",
+        "national-security",
+        "supply-chain",
+        "strategic-monopoly"
+      ],
+      "description": "Comprehensive analysis of Energy Fuels as America's strategic critical materials champion with monopolistic uranium mill and transformational $410M rare earth expansion targeting 45% US market share.",
+      "visibility": "public",
+      "summary": "Energy Fuels uniquely positioned with only US conventional uranium mill plus world-class REE expansion. $410M Phase 2 creates $3.7B NPV targeting 45% of US rare earth demand. Strong financials with $298M working capital. Rating: BUY with $28-32 target on strategic monopoly value.",
+      "author": "Subagent Research",
+      "word_count": 4800,
+      "last_updated": "2026-02-07T22:00:00Z"
+    },
+    {
+      "id": "aes-deep-dive-2026-02-07",
+      "title": "AES (AES Corporation) Deep Dive Analysis",
+      "date": "2026-02-07",
+      "path": "reports/aes-deep-dive-2026-02-07.md",
+      "category": "investment-research",
+      "tags": [
+        "AI-infrastructure",
+        "data-centers",
+        "renewable-energy",
+        "hyperscalers",
+        "power-infrastructure",
+        "utility",
+        "energy-transition"
+      ],
+      "description": "Comprehensive analysis of AES Corporation as the premier AI data center power infrastructure play with 12.3GW contracted backlog, hyperscaler partnerships, and Virginia market dominance.",
+      "visibility": "public",
+      "summary": "AES positioned at epicenter of AI data center power boom with 32.7GW operational capacity, 12.3GW signed PPA backlog, and established Microsoft/Google/Meta partnerships. Strong Q3 2025 results with $830M EBITDA. Rating: BUY with $21-24 target on infrastructure megatrend.",
+      "author": "Subagent Research",
+      "word_count": 5100,
+      "last_updated": "2026-02-07T22:15:00Z"
+    },
+    {
+      "id": "et-deep-dive-2026-02-07",
+      "title": "ET (Energy Transfer LP) Deep Dive Analysis",
+      "date": "2026-02-07",
+      "path": "reports/et-deep-dive-2026-02-07.md",
+      "category": "investment-research",
+      "tags": [
+        "energy-infrastructure",
+        "pipelines",
+        "natural-gas",
+        "data-centers",
+        "permian-basin",
+        "distribution-yield",
+        "midstream"
+      ],
+      "description": "Comprehensive analysis of Energy Transfer as North America's premier energy infrastructure backbone with 140,000 miles of pipeline, Oracle data center partnerships, and aggressive 2026 growth capex targeting AI power demand.",
+      "visibility": "public",
+      "summary": "Energy Transfer operates irreplaceable 140,000-mile pipeline network connecting all major US production basins. Strong Q3 2025 with $3.84B EBITDA, Oracle 900 MMcf/d data center contracts, and $5.0-5.5B 2026 capex. 7.4% distribution yield well covered. Rating: BUY with $21-23 target on AI infrastructure demand.",
+      "author": "Subagent Research",
+      "word_count": 5200,
+      "last_updated": "2026-02-07T22:30:00Z"
+    },
+    {
+      "id": "bep-deep-dive-2026-02-07",
+      "title": "BEP (Brookfield Renewable Partners) Deep Dive Analysis",
+      "date": "2026-02-07",
+      "path": "reports/bep-deep-dive-2026-02-07.md",
+      "category": "investment-research",
+      "tags": [
+        "renewable-energy",
+        "nuclear-renaissance",
+        "westinghouse",
+        "hydroelectric",
+        "google-partnership",
+        "AI-power-demand",
+        "global-infrastructure"
+      ],
+      "description": "Comprehensive analysis of Brookfield Renewable Partners as world's largest renewable platform with record 2025 results, Google 3GW hydro framework, Westinghouse nuclear partnership, and 84GW development pipeline targeting AI data center demand.",
+      "visibility": "public",
+      "summary": "Brookfield Renewable Partners delivered record 2025 FFO $1.33B (+10%), 5% distribution increase, and transformational Google 3GW hydro partnership. Westinghouse nuclear renaissance positioning and 84GW development pipeline targeting 10GW/year commissioning. Rating: BUY with $36-40 target on AI infrastructure catalysts.",
+      "author": "Subagent Research",
+      "word_count": 5500,
+      "last_updated": "2026-02-07T22:45:00Z"
+    },
+    {
+      "id": "expe-2026-02-10",
+      "title": "Expedia Group Deep Dive",
+      "ticker": "EXPE",
+      "date": "2026-02-10",
+      "type": "deep-dive",
+      "rating": "neutral",
+      "visibility": "public",
+      "summary": "Value play with AI disruption risk. 13x forward P/E, 10% FCF yield. Partnering with ChatGPT rather than fighting it. Q4 earnings Feb 12.",
+      "file": "reports/EXPE-deep-dive-2026-02-10.md",
+      "tags": [
+        "travel",
+        "OTA",
+        "AI-disruption",
+        "value",
+        "FCF"
+      ]
+    }
+  ]
+}
