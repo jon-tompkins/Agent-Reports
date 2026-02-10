@@ -1,6 +1,124 @@
 {
   "reports": [
     {
+      "id": "expe-2026-02-10",
+      "title": "Expedia Group Deep Dive",
+      "ticker": "EXPE",
+      "date": "2026-02-10",
+      "type": "deep-dive",
+      "rating": "neutral",
+      "visibility": "public",
+      "summary": "Value play with AI disruption risk. 13x forward P/E, 10% FCF yield. Partnering with ChatGPT rather than fighting it. Q4 earnings Feb 12.",
+      "file": "reports/EXPE-deep-dive-2026-02-10.md",
+      "tags": [
+        "travel",
+        "OTA",
+        "AI-disruption",
+        "value",
+        "FCF"
+      ]
+    },
+    {
+      "id": "AXTI-deep-dive-2026-02-10",
+      "title": "AXTI (AXT Inc) Deep Dive",
+      "ticker": "AXTI",
+      "date": "2026-02-10",
+      "path": "reports/AXTI-deep-dive-2026-02-10.md",
+      "category": "investment-research",
+      "tags": [
+        "deep-dive",
+        "axti"
+      ],
+      "description": "Low-cap InP manufacturer riding AI data center wave, with significant China export control risk",
+      "visibility": "public",
+      "summary": "Low-cap InP manufacturer riding AI data center wave, with significant China export control risk",
+      "author": "Jai Research",
+      "last_updated": "2026-02-10T20:17:09.275Z"
+    },
+    {
+      "id": "COHR-deep-dive-2026-02-10",
+      "title": "COHR (Coherent Corp) Deep Dive",
+      "ticker": "COHR",
+      "date": "2026-02-10",
+      "path": "reports/COHR-deep-dive-2026-02-10.md",
+      "category": "investment-research",
+      "tags": [
+        "deep-dive",
+        "cohr"
+      ],
+      "description": "US-based photonics leader, nearshoring beneficiary, AI data center infrastructure play",
+      "visibility": "public",
+      "summary": "US-based photonics leader, nearshoring beneficiary, AI data center infrastructure play",
+      "author": "Jai Research",
+      "last_updated": "2026-02-10T20:17:09.275Z"
+    },
+    {
+      "id": "EXPE-deep-dive-2026-02-10",
+      "title": "Expedia Group (EXPE) Deep Dive",
+      "ticker": "",
+      "date": "2026-02-10",
+      "path": "reports/EXPE-deep-dive-2026-02-10.md",
+      "category": "investment-research",
+      "tags": [
+        "deep-dive"
+      ],
+      "description": "- **Sector:** Consumer Discretionary / Travel Services",
+      "visibility": "public",
+      "summary": "- **Sector:** Consumer Discretionary / Travel Services",
+      "author": "Jai Research",
+      "last_updated": "2026-02-10T20:17:09.275Z"
+    },
+    {
+      "id": "POET-deep-dive-2026-02-10",
+      "title": "POET Technologies Deep Dive",
+      "ticker": "POET",
+      "date": "2026-02-10",
+      "path": "reports/POET-deep-dive-2026-02-10.md",
+      "category": "investment-research",
+      "tags": [
+        "deep-dive",
+        "poet"
+      ],
+      "description": "Low-cap moonshot with breakthrough optical interposer technology, high dilution risk",
+      "visibility": "public",
+      "summary": "Low-cap moonshot with breakthrough optical interposer technology, high dilution risk",
+      "author": "Jai Research",
+      "last_updated": "2026-02-10T20:17:09.276Z"
+    },
+    {
+      "id": "RPID-deep-dive-2026-02-10",
+      "title": "Rapid Micro Biosystems (RPID) Deep Dive",
+      "ticker": "",
+      "date": "2026-02-10",
+      "path": "reports/RPID-deep-dive-2026-02-10.md",
+      "category": "investment-research",
+      "tags": [
+        "deep-dive",
+        "short-thesis"
+      ],
+      "description": "- **Founded:** 2006 (as Genomic Profiling Systems, Inc.)",
+      "visibility": "public",
+      "summary": "- **Founded:** 2006 (as Genomic Profiling Systems, Inc.)",
+      "author": "Jai Research",
+      "last_updated": "2026-02-10T20:17:09.276Z"
+    },
+    {
+      "id": "ZM-deep-dive-2026-02-10",
+      "title": "Zoom Video Communications (ZM) - Deep Dive Research Report",
+      "ticker": "",
+      "date": "2026-02-10",
+      "path": "reports/ZM-deep-dive-2026-02-10.md",
+      "category": "investment-research",
+      "tags": [
+        "deep-dive"
+      ],
+      "description": "**Investment Thesis:** Zoom represents a high-quality business trading at reasonable valuations with significant hidden value from strategic investments. The Anthropic investment alone provides substantial upside optionality, while the core business transitions from pure pandemic beneficiary to diversified communications platform.",
+      "visibility": "public",
+      "summary": "**Investment Thesis:** Zoom represents a high-quality business trading at reasonable valuations with significant hidden value from strategic investments. The Anthropic investment alone provides substantial upside optionality, while the core business transitions from pure pandemic beneficiary to diversified communications platform. Rating: ** From 4",
+      "author": "Jai Research",
+      "last_updated": "2026-02-10T20:17:09.276Z"
+    },
+    {
       "id": "pton-deep-dive-2026-02-09",
       "title": "PTON (Peloton Interactive) Deep Dive Analysis",
       "date": "2026-02-09",
@@ -196,22 +314,299 @@
       "last_updated": "2026-02-07T22:45:00Z"
     },
     {
-      "id": "expe-2026-02-10",
-      "title": "Expedia Group Deep Dive",
-      "ticker": "EXPE",
-      "date": "2026-02-10",
-      "type": "deep-dive",
-      "rating": "neutral",
+      "id": "crypto-unwind-theory-2026-02-07",
+      "title": "Crypto Unwind Theory Analysis",
+      "ticker": "",
+      "date": "2026-02-07",
+      "path": "reports/crypto-unwind-theory-2026-02-07.md",
+      "category": "investment-research",
+      "tags": [],
+      "description": "The core theory—that a Hong Kong-based entity running JPY carry trade funding into leveraged IBIT options blew up and caused the Feb 5, 2026 crash—is **plausible and gaining mainstream acceptance**. However, the specific dates and figures in the claim contain significant errors. The theory has been ",
       "visibility": "public",
-      "summary": "Value play with AI disruption risk. 13x forward P/E, 10% FCF yield. Partnering with ChatGPT rather than fighting it. Q4 earnings Feb 12.",
-      "file": "reports/EXPE-deep-dive-2026-02-10.md",
+      "summary": "The core theory—that a Hong Kong-based entity running JPY carry trade funding into leveraged IBIT options blew up and caused the Feb 5, 2026 crash—is **plausible and gaining mainstream acceptance**. However, the specific dates and figures in the claim contain significant errors. The theory has been  Rating: ** **PLAUSIBLE** (with significant factual corrections needed)",
+      "author": "Jai Research",
+      "last_updated": "2026-02-10T20:17:09.285Z"
+    },
+    {
+      "id": "smci-deep-dive-2026-02-07",
+      "title": "SMCI (Super Micro Computer) - Deep Dive Analysis",
+      "ticker": "SMCI",
+      "date": "2026-02-07",
+      "path": "reports/smci-deep-dive-2026-02-07.md",
+      "category": "investment-research",
       "tags": [
-        "travel",
-        "OTA",
-        "AI-disruption",
-        "value",
-        "FCF"
-      ]
+        "deep-dive",
+        "short-thesis",
+        "smci"
+      ],
+      "description": "Super Micro Computer is a Silicon Valley-based server manufacturer that rode the AI wave to spectacular gains before a cascade of governance failures brought the stock crashing back to earth. The company was **previously delisted in 2018** for accounting violations, settled with the SEC for $17.5 mi",
+      "visibility": "public",
+      "summary": "Super Micro Computer is a Silicon Valley-based server manufacturer that rode the AI wave to spectacular gains before a cascade of governance failures brought the stock crashing back to earth. The company was **previously delisted in 2018** for accounting violations, settled with the SEC for $17.5 mi Rating: AVOID / SPECULATIVE SHORT**",
+      "author": "Jai Research",
+      "last_updated": "2026-02-10T20:17:09.293Z"
+    },
+    {
+      "id": "aptv-deep-dive-2026-02-06",
+      "title": "APTV (Aptiv PLC) - Deep Dive Analysis",
+      "ticker": "APTV",
+      "date": "2026-02-06",
+      "path": "reports/aptv-deep-dive-2026-02-06.md",
+      "category": "investment-research",
+      "tags": [
+        "deep-dive",
+        "aptv"
+      ],
+      "description": "## Investment Thesis: Framework Alignment",
+      "visibility": "public",
+      "summary": "## Investment Thesis: Framework Alignment Rating: SPECULATIVE BUY**",
+      "author": "Jai Research",
+      "last_updated": "2026-02-10T20:17:09.278Z"
+    },
+    {
+      "id": "cvna-deep-dive-2026-02-06",
+      "title": "CVNA (Carvana) - Deep Dive Analysis",
+      "ticker": "CVNA",
+      "date": "2026-02-06",
+      "path": "reports/cvna-deep-dive-2026-02-06.md",
+      "category": "investment-research",
+      "tags": [
+        "deep-dive",
+        "short-thesis",
+        "cvna"
+      ],
+      "description": "Carvana is a high-flying used car e-commerce platform that has rebounded spectacularly from near-bankruptcy in 2022-2023 (+3,100% over 3 years). However, the company faces serious questions about its loan portfolio quality, with **44% of cars financed since 2022 being underwater** (loan > car value)",
+      "visibility": "public",
+      "summary": "Carvana is a high-flying used car e-commerce platform that has rebounded spectacularly from near-bankruptcy in 2022-2023 (+3,100% over 3 years). However, the company faces serious questions about its loan portfolio quality, with **44% of cars financed since 2022 being underwater** (loan > car value) Rating: AVOID / POTENTIAL SHORT**",
+      "author": "Jai Research",
+      "last_updated": "2026-02-10T20:17:09.286Z"
+    },
+    {
+      "id": "nne-deep-dive-2026-02-06",
+      "title": "NNE (Nano Nuclear Energy) - Deep Dive Analysis",
+      "ticker": "NNE",
+      "date": "2026-02-06",
+      "path": "reports/nne-deep-dive-2026-02-06.md",
+      "category": "investment-research",
+      "tags": [
+        "deep-dive",
+        "nne"
+      ],
+      "description": "## Investment Thesis: Framework Alignment",
+      "visibility": "public",
+      "summary": "## Investment Thesis: Framework Alignment Rating: SPECULATIVE / SMALL POSITION ONLY**",
+      "author": "Jai Research",
+      "last_updated": "2026-02-10T20:17:09.290Z"
+    },
+    {
+      "id": "oxy-deep-dive-2026-02-06",
+      "title": "OXY (Occidental Petroleum) - Deep Dive Analysis",
+      "ticker": "OXY",
+      "date": "2026-02-06",
+      "path": "reports/oxy-deep-dive-2026-02-06.md",
+      "category": "investment-research",
+      "tags": [
+        "deep-dive",
+        "oxy"
+      ],
+      "description": "## Investment Thesis: Framework Alignment",
+      "visibility": "public",
+      "summary": "## Investment Thesis: Framework Alignment Rating: HOLD**",
+      "author": "Jai Research",
+      "last_updated": "2026-02-10T20:17:09.291Z"
+    },
+    {
+      "id": "xpro-deep-dive-2026-02-06",
+      "title": "XPRO (Expro Group Holdings) - Deep Dive Analysis",
+      "ticker": "XPRO",
+      "date": "2026-02-06",
+      "path": "reports/xpro-deep-dive-2026-02-06.md",
+      "category": "investment-research",
+      "tags": [
+        "deep-dive",
+        "xpro"
+      ],
+      "description": "## Investment Thesis: Framework Alignment",
+      "visibility": "public",
+      "summary": "## Investment Thesis: Framework Alignment Rating: HOLD/ACCUMULATE**",
+      "author": "Jai Research",
+      "last_updated": "2026-02-10T20:17:09.294Z"
+    },
+    {
+      "id": "chet-quantum-shorts-2026-02-05",
+      "title": "Overbought Quantum Stocks: Short Position Candidates",
+      "ticker": "",
+      "date": "2026-02-05",
+      "path": "reports/chet-quantum-shorts-2026-02-05.md",
+      "category": "investment-research",
+      "tags": [
+        "deep-dive",
+        "short-thesis"
+      ],
+      "description": "Pure-play quantum computing stocks experienced massive speculative run-ups in 2025, with some gaining over 500%. Despite minimal commercial progress, these companies trade at extreme valuations while burning through cash and posting significant losses. The AI/quantum hype has created a potential sho",
+      "visibility": "public",
+      "summary": "Pure-play quantum computing stocks experienced massive speculative run-ups in 2025, with some gaining over 500%. Despite minimal commercial progress, these companies trade at extreme valuations while burning through cash and posting significant losses. The AI/quantum hype has created a potential sho",
+      "author": "Jai Research",
+      "last_updated": "2026-02-10T20:17:09.280Z"
+    },
+    {
+      "id": "chet-trade-ideas-2026-02-05",
+      "title": "Chet's Trading Ideas Research Report",
+      "ticker": "",
+      "date": "2026-02-05",
+      "path": "reports/chet-trade-ideas-2026-02-05.md",
+      "category": "investment-research",
+      "tags": [
+        "short-thesis"
+      ],
+      "description": "**Investment Thesis:**",
+      "visibility": "public",
+      "summary": "**Investment Thesis:**",
+      "author": "Jai Research",
+      "last_updated": "2026-02-10T20:17:09.282Z"
+    },
+    {
+      "id": "chet-updated-analysis-2026-02-05",
+      "title": "Comprehensive Trading Analysis - February 5, 2026",
+      "ticker": "",
+      "date": "2026-02-05",
+      "path": "reports/chet-updated-analysis-2026-02-05.md",
+      "category": "investment-research",
+      "tags": [
+        "short-thesis"
+      ],
+      "description": "-  Data engineering powerhouse for AI training. Services tech giants with data processing for AI model training. Direct beneficiary of AI infrastructure boom with growing recurring revenue base.",
+      "visibility": "public",
+      "summary": "-  Data engineering powerhouse for AI training. Services tech giants with data processing for AI model training. Direct beneficiary of AI infrastructure boom with growing recurring revenue base.",
+      "author": "Jai Research",
+      "last_updated": "2026-02-10T20:17:09.283Z"
+    },
+    {
+      "id": "fnma-fmcc-brief-2026-02-05",
+      "title": "Fannie Mae & Freddie Mac: The 17-Year Bet",
+      "ticker": "",
+      "date": "2026-02-05",
+      "path": "reports/fnma-fmcc-brief-2026-02-05.md",
+      "category": "investment-research",
+      "tags": [],
+      "description": "Fannie Mae (FNMA) and Freddie Mac (FMCC) have been in government conservatorship since **September 2008**. That's 17+ years. These two companies back roughly **$7 trillion** in mortgages—nearly half of all US home loans.",
+      "visibility": "public",
+      "summary": "Fannie Mae (FNMA) and Freddie Mac (FMCC) have been in government conservatorship since **September 2008**. That's 17+ years. These two companies back roughly **$7 trillion** in mortgages—nearly half of all US home loans.",
+      "author": "Jai Research",
+      "last_updated": "2026-02-10T20:17:09.286Z"
+    },
+    {
+      "id": "fnma-fmcc-exit-analysis-2026-02-05",
+      "title": "FNMA/FMCC Conservatorship Exit Analysis",
+      "ticker": "",
+      "date": "2026-02-05",
+      "path": "reports/fnma-fmcc-exit-analysis-2026-02-05.md",
+      "category": "investment-research",
+      "tags": [
+        "short-thesis"
+      ],
+      "description": "## Investment Thesis: Is This Worth It?",
+      "visibility": "public",
+      "summary": "## Investment Thesis: Is This Worth It?",
+      "author": "Jai Research",
+      "last_updated": "2026-02-10T20:17:09.287Z"
+    },
+    {
+      "id": "quantum-technical-check-2026-02-05",
+      "title": "Quantum Stocks Technical Analysis - February 5, 2026",
+      "ticker": "",
+      "date": "2026-02-05",
+      "path": "reports/quantum-technical-check-2026-02-05.md",
+      "category": "investment-research",
+      "tags": [
+        "short-thesis"
+      ],
+      "description": "*Estimated based on recent price action and technical analysis references",
+      "visibility": "public",
+      "summary": "*Estimated based on recent price action and technical analysis references",
+      "author": "Jai Research",
+      "last_updated": "2026-02-10T20:17:09.292Z"
+    },
+    {
+      "id": "chartboi-oxy-analysis-2026-02-03",
+      "title": "ChartBoi Technical Analysis Report: Occidental Petroleum Corp (OXY)",
+      "ticker": "",
+      "date": "2026-02-03",
+      "path": "reports/chartboi-oxy-analysis-2026-02-03.md",
+      "category": "investment-research",
+      "tags": [],
+      "description": "**Key Thesis:**",
+      "visibility": "public",
+      "summary": "**Key Thesis:**",
+      "author": "Jai Research",
+      "last_updated": "2026-02-10T20:17:09.279Z"
+    },
+    {
+      "id": "ai-victims-trade",
+      "title": "AI Victims Trade Thesis Research",
+      "ticker": "AI",
+      "date": "2026-02-01",
+      "path": "reports/ai-victims-trade.md",
+      "category": "investment-research",
+      "tags": [
+        "short-thesis",
+        "ai"
+      ],
+      "description": "Large-cap companies (>$10B market cap) with liquid options that are likely to become LESS relevant as AI adoption increases. These are potential short/put candidates.",
+      "visibility": "public",
+      "summary": "Large-cap companies (>$10B market cap) with liquid options that are likely to become LESS relevant as AI adoption increases. These are potential short/put candidates.",
+      "author": "Jai Research",
+      "last_updated": "2026-02-10T20:17:09.278Z"
+    },
+    {
+      "id": "irm-short-thesis",
+      "title": "IRM (Iron Mountain) Short Thesis Research",
+      "ticker": "IRM",
+      "date": "2026-02-01",
+      "path": "reports/irm-short-thesis.md",
+      "category": "investment-research",
+      "tags": [
+        "deep-dive",
+        "short-thesis",
+        "irm"
+      ],
+      "description": "Deep dive analysis on Iron Mountain as a short candidate - examining AI disruption risks, business trends, and trade setup.",
+      "visibility": "public",
+      "summary": "Deep dive analysis on Iron Mountain as a short candidate - examining AI disruption risks, business trends, and trade setup.",
+      "author": "Jai Research",
+      "last_updated": "2026-02-10T20:17:09.289Z"
+    },
+    {
+      "id": "irl-trade-2026-01-30",
+      "title": "The IRL Trade: Live Sports & Events Investment Thesis",
+      "ticker": "",
+      "date": "2026-01-30",
+      "path": "reports/irl-trade-2026-01-30.md",
+      "category": "investment-research",
+      "tags": [
+        "deep-dive",
+        "short-thesis"
+      ],
+      "description": "Secular tailwinds driving increased capital flows into live sports and experiences",
+      "visibility": "public",
+      "summary": "Secular tailwinds driving increased capital flows into live sports and experiences",
+      "author": "Jai Research",
+      "last_updated": "2026-02-10T20:17:09.289Z"
+    },
+    {
+      "id": "chet-trade-ideas-2025-01-19",
+      "title": "Trading Ideas Research Report",
+      "ticker": "",
+      "date": "2025-01-19",
+      "path": "reports/chet-trade-ideas-2025-01-19.md",
+      "category": "investment-research",
+      "tags": [
+        "short-thesis"
+      ],
+      "description": "This report identifies 5 LONG and 5 SHORT opportunities aligned with the 5 world shift themes:",
+      "visibility": "public",
+      "summary": "This report identifies 5 LONG and 5 SHORT opportunities aligned with the 5 world shift themes:",
+      "author": "Jai Research",
+      "last_updated": "2026-02-10T20:17:09.281Z"
     }
   ]
 }
