@@ -1,22 +1,25 @@
 {
   "reports": [
     {
-      "id": "expe-2026-02-10",
-      "title": "Expedia Group Deep Dive",
+      "id": "EXPE-deep-dive-2026-02-10",
+      "title": "EXPE Deep Dive - Expedia Group Inc",
       "ticker": "EXPE",
       "date": "2026-02-10",
-      "type": "deep-dive",
-      "rating": "neutral",
-      "visibility": "public",
-      "summary": "Value play with AI disruption risk. 13x forward P/E, 10% FCF yield. Partnering with ChatGPT rather than fighting it. Q4 earnings Feb 12.",
-      "file": "reports/EXPE-deep-dive-2026-02-10.md",
+      "path": "reports/EXPE-deep-dive-2026-02-10.md",
+      "category": "investment-research",
       "tags": [
         "travel",
         "OTA",
-        "AI-disruption",
         "value",
-        "FCF"
-      ]
+        "earnings-play",
+        "deep-dive"
+      ],
+      "description": "Comprehensive deep dive on Expedia Group covering valuation gap vs peers, platform consolidation, earnings catalyst, and technical setup.",
+      "visibility": "public",
+      "summary": "EXPE trades at 13x forward P/E vs BKNG at 20x+ despite similar growth. FCF machine generating $2.56B annually with P/FCF under 10x. Down 22% from ATH with earnings Feb 12. Rating: BUY with $290 target (24% upside).",
+      "rating": "BUY",
+      "author": "Jai Research",
+      "last_updated": "2026-02-10T20:47:00Z"
     },
     {
       "id": "AXTI-deep-dive-2026-02-10",
@@ -49,22 +52,6 @@
       "description": "US-based photonics leader, nearshoring beneficiary, AI data center infrastructure play",
       "visibility": "public",
       "summary": "US-based photonics leader, nearshoring beneficiary, AI data center infrastructure play",
-      "author": "Jai Research",
-      "last_updated": "2026-02-10T20:17:09.275Z"
-    },
-    {
-      "id": "EXPE-deep-dive-2026-02-10",
-      "title": "Expedia Group (EXPE) Deep Dive",
-      "ticker": "",
-      "date": "2026-02-10",
-      "path": "reports/EXPE-deep-dive-2026-02-10.md",
-      "category": "investment-research",
-      "tags": [
-        "deep-dive"
-      ],
-      "description": "- **Sector:** Consumer Discretionary / Travel Services",
-      "visibility": "public",
-      "summary": "- **Sector:** Consumer Discretionary / Travel Services",
       "author": "Jai Research",
       "last_updated": "2026-02-10T20:17:09.275Z"
     },

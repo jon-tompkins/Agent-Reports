@@ -1,273 +1,252 @@
-# Expedia Group (EXPE) Deep Dive
-*February 10, 2026*
-
-## Company Overview
-
-**Expedia Group, Inc.** (NASDAQ: EXPE)
-- **HQ:** Seattle, Washington
-- **Founded:** 1996 (spun from Microsoft)
-- **IPO:** 2005
-- **Sector:** Consumer Discretionary / Travel Services
-- **Market Cap:** $29.7B
-- **Employees:** 16,500
-
-Expedia is one of the world's largest online travel agencies (OTAs), operating a portfolio of brands including Expedia.com, Hotels.com, Vrbo, Orbitz, Travelocity, Hotwire, and trivago.
+# EXPE Deep Dive - Expedia Group Inc
+**Date:** 2026-02-10  
+**Rating:** BUY  
+**Price Target:** $290 (24% upside)  
+**Current Price:** $234.43  
+**Risk Level:** Medium
 
 ---
 
-## Investment Thesis
+## 1. Company Overview
 
-### Bull Case 🐂
+| Field | Value |
+|-------|-------|
+| Headquarters | Seattle, Washington |
+| Founded | 1996 |
+| Sector / Industry | Consumer Discretionary / Travel Services |
+| Market Cap | $29.0B |
+| Enterprise Value | $29.8B |
+| Employees | 16,500 |
+| CEO | Ariane Gorin (since 2024) |
 
-1. **Profitable Cash Machine** — $3B FCF (TTM), ~21% FCF margin
-2. **Cheap Valuation** — 13x forward P/E, 0.6 PEG ratio
-3. **Margin Expansion** — Operating margins up from 10% (2022) to 14% (2025)
-4. **Share Buybacks** — Aggressively retiring shares (-8% YoY)
-5. **AI Adaptation** — Partnering with ChatGPT rather than fighting it
-6. **Travel Demand Resilient** — Post-pandemic normalization continues
-
-### Bear Case 🐻
-
-1. **AI Disruption Risk** — Google, ChatGPT could disintermediate OTAs
-2. **High Debt Load** — $6.5B debt, 4.85x Debt/Equity
-3. **Google Dependency** — Significant ad spend on Google search
-4. **Competition** — Booking.com dominates internationally; Airbnb in alternatives
-5. **Negative Working Capital** — Current ratio 0.74
-6. **Macro Sensitivity** — Recession would hurt discretionary travel
+**One-liner:** World's second-largest online travel agency operating Expedia, Hotels.com, Vrbo, Orbitz, Travelocity, and metasearch engine Trivago.
 
 ---
 
-## The AI Disruption Question
+## 2. Investment Thesis
 
-### The Threat
-Per HBR (Jan 2026): *"Gen AI Is Threatening the Platforms That Dominate Online Travel"*
+### Bull Case
+- **Valuation gap vs peers:** Trading at 13x forward P/E vs BKNG at 20x+ despite similar growth
+- **FCF machine:** $2.56B levered free cash flow, P/FCF under 10x
+- **Platform consolidation paying off:** Unified tech stack driving margin expansion
+- **Affirm BNPL partnership:** New payment flexibility should drive conversion
+- **Travel demand resilient:** Revenge travel still has legs, especially international
 
-The risk is **disintermediation**:
-- AI assistants (ChatGPT, Google Gemini) could become the new booking interface
-- Users ask AI to "book me a flight to Paris" rather than visiting Expedia
-- Airlines/hotels could go direct via AI partnerships
-- Google's agentic AI could execute bookings end-to-end
-
-### Expedia's Response
-**Adaptation over resistance:**
-- Partnered with OpenAI — Expedia is inside ChatGPT
-- Building own AI tools (travel assistant, recommendations)
-- Positioning as the backend "fulfillment layer" for AI agents
-- Vrbo/vacation rentals less vulnerable to AI booking
-
-**Strategic Insight:** Expedia isn't fighting ChatGPT — they're becoming its travel API. This is smart. If AI agents become the new interface, Expedia wants to be the execution layer, not the disrupted middleman.
+### Bear Case
+- **High leverage:** Debt/Equity at 250%, limits flexibility
+- **Airbnb disruption:** Vrbo losing share in alternative accommodations
+- **Google threat:** Direct hotel bookings via Google Travel eroding OTA moat
+- **Macro sensitivity:** Travel is first discretionary cut in recession
+- **Down 22% from ATH:** Momentum broken, falling knife risk
 
 ---
 
-## Financial Analysis
+## 3. Financial Summary
 
-### Income Statement (TTM Sep 2025)
+### Income Statement (TTM + 2yr history)
 
-| Metric | TTM | FY24 | FY23 | FY22 |
-|--------|-----|------|------|------|
-| **Revenue** | $14.4B | $13.7B | $12.8B | $11.7B |
-| Revenue Growth | 7.3% | 6.6% | 10.0% | 35.7% |
-| **Gross Margin** | 90% | 89% | 88% | 86% |
-| **Operating Income** | $2.0B | $1.7B | $1.5B | $1.2B |
-| **Operating Margin** | 13.7% | 12.2% | 11.4% | 10.2% |
-| **Net Income** | $1.4B | $1.2B | $0.8B | $0.4B |
-| **EPS (Diluted)** | $10.37 | $8.95 | $5.31 | $2.17 |
-| EPS Growth | 36% | 69% | 145% | — |
+| Metric | TTM (Sep 2025) | FY 2024 | FY 2023 |
+|--------|----------------|---------|---------|
+| Revenue | $14.37B | $13.69B | $12.84B |
+| Revenue Growth % | 7.3% | 6.6% | 10.1% |
+| Gross Profit | $12.04B | $11.38B | $10.65B |
+| Gross Margin % | 83.8% | 83.1% | 83.0% |
+| Operating Income | $1.87B | $1.62B | $1.26B |
+| Operating Margin % | 13.0% | 11.8% | 9.8% |
+| Net Income | $1.39B | $1.23B | $797M |
+| EPS | $10.39 | $8.95 | $5.63 |
 
-**Key Observations:**
-- ✅ Revenue growing steadily (7% YoY)
-- ✅ Operating margin expansion (+350bps in 3 years)
-- ✅ EPS compounding rapidly (4x since 2022)
-- ✅ 90% gross margin (asset-light model)
+### Balance Sheet
 
-### Balance Sheet (Sep 2025)
+| Metric | Value |
+|--------|-------|
+| Cash & Equivalents | $6.17B |
+| Total Debt | ~$7.5B |
+| Net Cash (Debt) | ($1.3B) |
+| Current Ratio | 0.74 |
+| Debt/Equity | 250% |
 
-| Metric | Sep '25 | Dec '24 | Dec '23 |
-|--------|---------|---------|---------|
-| Cash & ST Investments | $6.2B | $4.5B | $4.3B |
-| Total Debt | $6.5B | $6.6B | $6.6B |
-| **Net Debt** | $0.3B | $2.1B | $2.4B |
-| Shareholders' Equity | $2.6B | $2.8B | $2.8B |
-| Book Value/Share | $10.87 | $12.09 | $11.19 |
+### Cash Flow (TTM)
 
-**Key Observations:**
-- ✅ Nearly debt-neutral ($6.2B cash vs $6.5B debt)
-- ⚠️ High leverage: Debt/Equity 4.85x
-- ⚠️ Negative working capital (-$4.4B) — normal for travel (deferred revenue)
-
-### Cash Flow
-
-| Metric | TTM | FY24 | FY23 |
-|--------|-----|------|------|
-| **Free Cash Flow** | $3.0B | $2.3B | $1.8B |
-| FCF Margin | 20.9% | 17.0% | 14.4% |
-| FCF/Share | $22.40 | $16.89 | $12.28 |
-
-**FCF Yield:** ~10% (at $30B market cap) — very attractive
+| Metric | Value |
+|--------|-------|
+| Operating Cash Flow | ~$3.2B |
+| CapEx | ~$640M |
+| Free Cash Flow | $2.56B |
+| FCF Margin % | 17.8% |
 
 ---
 
-## Valuation
+## 4. Valuation
 
-### Current Metrics
+### Current Multiples
 
-| Metric | EXPE | BKNG | ABNB |
-|--------|------|------|------|
-| Market Cap | $30B | $139B | $74B |
-| P/E (TTM) | 23x | 25x | 35x |
-| **P/E (Fwd)** | **13x** | 19x | 28x |
-| P/S | 2.1x | 6.5x | 6.8x |
-| **PEG** | **0.6** | 1.2 | 1.5 |
-| EV/EBITDA | 10.9x | 14.5x | 20x |
-| FCF Yield | 10% | 5% | 3% |
+| Multiple | EXPE | Sector Avg | vs Sector |
+|----------|------|------------|-----------|
+| P/E (TTM) | 22.6x | 25x | -10% |
+| P/E (Fwd) | 13.1x | 18x | -27% |
+| EV/Revenue | 2.07x | 3.5x | -41% |
+| EV/EBITDA | 10.9x | 14x | -22% |
+| P/FCF | 9.9x | 15x | -34% |
+| P/B | 22.3x | 8x | +179% |
 
-**EXPE is the cheapest of the big 3 OTAs** by almost every metric.
+### Peer Comparison
 
-### Why the Discount?
-1. Slower growth than Airbnb
-2. AI disruption fears
-3. Less international exposure than Booking
-4. Brand portfolio complexity
+| Company | Ticker | Market Cap | P/E (Fwd) | EV/Rev | Growth % |
+|---------|--------|------------|-----------|--------|----------|
+| Expedia | EXPE | $29B | 13.1x | 2.1x | 7% |
+| Booking Holdings | BKNG | $139B | 20.5x | 7.2x | 9% |
+| Airbnb | ABNB | $74B | 28x | 6.8x | 12% |
+| Trip.com | TCOM | $38B | 15x | 5.2x | 20% |
 
-### Price Targets
-- Analyst Consensus: **$293** (+21% upside)
-- High: $350 | Low: $200
-- Current: $242.72
+**Takeaway:** EXPE is the cheapest large-cap OTA on forward earnings and EV/Revenue. Either it's a value trap or the market is missing something.
 
 ---
 
-## Competitive Position
+## 5. Competitive Position
 
-### Market Share (Online Travel)
+**Market Position:** #2 global OTA behind Booking Holdings
 
-| Player | Focus | Strengths |
-|--------|-------|-----------|
-| **Booking.com** | International hotels | #1 globally, strong in Europe |
-| **Expedia Group** | US-centric, diversified | Vrbo, brand portfolio |
-| **Airbnb** | Alternative accommodations | Brand, unique inventory |
-| **Trip.com** | Asia | China/APAC dominance |
-| **Google** | Meta-search → booking | AI threat, direct links |
+**Key Competitors:**
+- Booking Holdings (BKNG) — Larger, more international, higher margins
+- Airbnb (ABNB) — Dominant in alternative accommodations, eating Vrbo's lunch
+- Trip.com (TCOM) — Asia leader, expanding globally
+- Google Travel — The 800-lb gorilla threatening all OTAs
 
-### Expedia's Moat
-1. **Brand Portfolio** — Multiple entry points (Expedia, Hotels.com, Vrbo, Orbitz)
-2. **Supply Relationships** — Decades of hotel/airline contracts
-3. **Vrbo** — Vacation rentals differentiated from Airbnb
-4. **Loyalty Programs** — One Key unifies rewards across brands
-5. **Scale** — Can afford AI/tech investments
+**Moat / Competitive Advantages:**
+- Brand portfolio covering all segments (luxury to budget)
+- Massive supply relationships (millions of properties)
+- B2B white-label business provides diversification
+- Loyalty programs across brands
 
-### Weaknesses
-1. Google dependency (ad spend)
-2. Less international penetration than Booking
-3. Brand confusion (too many sub-brands?)
-4. Slower to innovate than Airbnb
+**Threats:**
+- Direct booking via Google continues to grow
+- Hotels pushing direct bookings to avoid OTA commissions
+- Airbnb network effects in experiences and unique stays
 
 ---
 
-## Recent Developments
+## 6. Recent Developments / Catalysts
 
-### Q3 2025 Earnings (Nov 2025)
-- Beat on revenue and EPS
-- Gross bookings +7%
-- Vrbo showed improved metrics
-- Stock rallied 18% post-earnings
+### Last Earnings (Q3 2025)
+- Revenue: $4.41B (+8.7% YoY) — beat estimates
+- EPS: $6.13 — beat by $0.08
+- Gross bookings: $29.3B (+7%)
+- Vrbo bookings stabilizing after multi-quarter decline
 
-### 2026 Guidance (from Q3 call)
-- "Continued margin expansion at a moderated pace"
-- Share buybacks to continue
-- AI integration across platforms
+### Recent News
+- **Affirm Partnership (Jan 2026):** BNPL integration across all brands
+- **Cost restructuring:** Continued platform consolidation savings
+- **Buybacks:** Aggressive share repurchases ($1.5B+ in 2025)
 
-### Upcoming Catalyst: Q4 2025 Earnings
-**Date:** February 12, 2026 (after market close)
-
-Consensus estimates:
-- EPS: $3.35 (vs $2.58 prior year)
-- Revenue: ~$3.3B
-
----
-
-## Technical Analysis
-
-### Key Levels
-- **Current Price:** $242.72
-- **52-Week High:** $303.80 (-20%)
-- **52-Week Low:** $130.01 (+87%)
-- **200-Day SMA:** $217 (price +12% above)
-- **50-Day SMA:** $274 (price -11% below)
-
-### Recent Action
-- Stock dropped ~18% in January 2026 on AI disruption fears
-- Pulled back from $303 high
-- RSI at 39 — approaching oversold
+### Upcoming Catalysts
+- **Q4 2025 Earnings: Feb 12, 2026** ⚠️ TOMORROW
+- Expected EPS: $3.35-3.44 (+41% YoY)
+- Expected Revenue: $3.4B
+- Summer travel booking guidance will be key
 
 ---
 
-## Charts
+## 7. Social Chatter / Sentiment
 
-![EXPE Daily](../charts/EXPE-daily-2y.png)
+| Source | Sentiment | Key Themes |
+|--------|-----------|------------|
+| Twitter/X | Mixed | Earnings play, valuation debate |
+| r/wallstreetbets | N/A | Not actively discussed |
+| r/stocks | Mixed | Value trap concerns, Airbnb comparison |
+| StockTwits | Mixed | Earnings anticipation, technical levels |
 
-![EXPE Weekly](../charts/EXPE-weekly-5y.png)
+**Notable mentions:**
+- "EXPE at 13x forward while BKNG gets 20x? Makes no sense" — common bull take
+- "Vrbo is dying, Airbnb owns this space" — bear thesis
+- Earnings volatility expected given 41% EPS growth expectation
 
----
-
-## Risk Factors
-
-### High Risk ⚠️
-1. **AI Disintermediation** — ChatGPT/Google could bypass OTAs
-2. **Google Traffic Dependency** — Rising CAC if Google prioritizes own products
-3. **Recession** — Discretionary travel first to get cut
-
-### Medium Risk
-4. **Competition** — Booking, Airbnb, direct hotel bookings
-5. **Debt Load** — $6.5B debt constrains flexibility
-6. **Regulatory** — EU DMA could affect data practices
-
-### Low Risk
-7. **Currency** — International exposure creates FX volatility
-8. **Vrbo Execution** — Turnaround still in progress
+**Retail vs Institutional divergence:** Institutions hold 96.5% — this is an institutional stock. Retail largely ignoring it despite value metrics.
 
 ---
 
-## Investment Summary
+## 8. Charts
 
-### The Good ✅
-1. **Cheap valuation** — 13x forward P/E, 10% FCF yield
-2. **Cash generation** — $3B FCF, 21% FCF margin
-3. **Margin expansion** — Operating leverage improving
-4. **AI adaptation** — Partnering with ChatGPT, not fighting it
-5. **Buybacks** — Share count declining 8%/year
+![EXPE Daily 2Y](../charts/EXPE-daily-2y.png)
 
-### The Concerns ⚠️
-1. **AI disruption** — Real existential question for OTA model
-2. **Google risk** — What if Google goes direct?
-3. **Debt** — $6.5B limits strategic flexibility
-4. **Growth slowing** — 7% revenue growth vs 30%+ at Airbnb
-
-### The Verdict
-
-**Value play with AI optionality risk.** 
-
-Expedia is a profitable, cash-generating business trading at a significant discount to peers. The market is pricing in AI disruption fear. If Expedia successfully becomes the "backend for AI travel" (ChatGPT partnership), the stock re-rates higher. If AI disintermediates OTAs, the thesis breaks.
-
-**Asymmetric Setup:**
-- Bull case: AI partner strategy works, stock re-rates to 18-20x = $300-350
-- Base case: Business continues, 13x forward P/E = $240-250 (current)
-- Bear case: AI disruption accelerates = $150-180
-
-**Catalyst:** Q4 earnings Feb 12. Watch for AI strategy commentary.
+![EXPE Weekly 5Y](../charts/EXPE-weekly-5y.png)
 
 ---
 
-## Bottom Line
+## 9. Technical Analysis
 
-EXPE is a **contrarian value buy** for investors who believe:
-1. OTAs won't be fully disintermediated by AI
-2. Expedia's "backend partner" strategy can work
-3. Travel demand remains resilient
+| Level | Price | Notes |
+|-------|-------|-------|
+| Resistance 1 | $260 | Recent support turned resistance |
+| Resistance 2 | $275 | 50 DMA zone |
+| **Current Price** | **$234** | |
+| Support 1 | $220 | 200 DMA area |
+| Support 2 | $200 | Psychological + prior consolidation |
+| 50 DMA | $274 | Trading well below |
+| 200 DMA | $217 | Key support to hold |
+| 200 WMA | ~$160 | Long-term floor |
 
-At 13x forward earnings and 10% FCF yield, a lot of pessimism is priced in. The question is whether that pessimism is justified.
-
-**Risk/Reward:** Attractive for value investors comfortable with AI disruption risk.
+**Trend:** Downtrend (short-term) — Down 22% from Jan ATH of $304  
+**Relative Strength:** Lagging market — Underperforming SPY by 15%+ YTD  
+**RSI(14):** 38.6 — Approaching oversold
 
 ---
 
-*Report generated February 10, 2026. Q4 earnings on Feb 12 — update after results.*
+## 10. Risk Factors
+
+| Risk | Level | Notes |
+|------|-------|-------|
+| Execution Risk | Medium | Platform integration ongoing |
+| Financial Risk | Medium-High | 250% D/E ratio, limited flexibility |
+| Competitive Risk | High | Airbnb + Google pressuring from both sides |
+| Regulatory Risk | Low | No major regulatory overhang |
+| Macro/Sector Risk | Medium | Travel discretionary, recession sensitive |
+| Valuation Risk | Low | Already cheap on most metrics |
+
+---
+
+## 11. Investment Summary / Bottom Line
+
+### Rating Justification
+
+EXPE is a classic value-with-a-catalyst setup. The stock has been beaten down 22% from its January high, now trading at just 13x forward earnings — a 35% discount to peer Booking Holdings. The market is pricing in Vrbo deterioration and Google disruption fears, but ignoring the $2.5B+ annual free cash flow, aggressive buybacks, and margin expansion from platform consolidation.
+
+The key question is whether cheap is cheap enough. With earnings tomorrow (Feb 12), this is a high-volatility entry point. A beat-and-raise could send shares back toward $275+. A miss or weak guidance could test $200. Given the valuation cushion and strong FCF, I lean bullish but acknowledge the timing risk.
+
+For patient investors, EXPE offers compelling risk/reward at current levels. The forward P/E of 13x with 20%+ EPS growth expected implies a PEG ratio of 0.6 — textbook value territory.
+
+### Trade Suggestion
+
+- **Entry:** $225 - $240 range (current levels or post-earnings dip)
+- **Stop Loss:** $195 (-17%) — below 200 WMA support
+- **Target 1:** $275 (17% upside) — 50 DMA reclaim
+- **Target 2:** $310 (32% upside) — new ATH attempt
+- **Position Size:** Medium — earnings risk warrants sizing down
+- **Time Horizon:** 3-9 months
+
+**Earnings play option:** If holding through Feb 12, consider hedging with puts or sizing smaller. Post-earnings clarity may offer better entry.
+
+---
+
+## 12. References / Sources
+
+**Company Filings:**
+- [EXPE SEC Filings (10-K, 10-Q)](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=EXPE)
+- [Expedia Investor Relations](https://www.expediagroup.com/investors/)
+
+**News & Analysis:**
+- [Morningstar: AI Not a Big Bad Wolf for Online Travel](https://www.morningstar.com/)
+- [Wedbush Maintains Neutral, Lowers PT to $260 (Feb 2026)](https://finance.yahoo.com/quote/EXPE/)
+
+**Data Sources:**
+- [Yahoo Finance - EXPE](https://finance.yahoo.com/quote/EXPE/)
+- [Finviz - EXPE](https://finviz.com/quote.ashx?t=EXPE)
+- [MacroTrends - EXPE Revenue History](https://www.macrotrends.net/stocks/charts/EXPE/expedia/revenue)
+
+**Social/Sentiment:**
+- [StockTwits - EXPE](https://stocktwits.com/symbol/EXPE)
+- [Twitter/X Search: $EXPE](https://twitter.com/search?q=%24EXPE)
+
+---
+
+*Disclaimer: This report is for informational purposes only and does not constitute investment advice. Always do your own research before making investment decisions.*
