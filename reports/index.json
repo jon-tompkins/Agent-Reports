@@ -1,6 +1,28 @@
 {
   "reports": [
     {
+      "id": "LAC-deep-dive-2026-02-11",
+      "title": "LAC Deep Dive - Lithium Americas Corp",
+      "ticker": "LAC",
+      "date": "2026-02-11",
+      "path": "reports/LAC-deep-dive-2026-02-11.md",
+      "category": "investment-research",
+      "tags": [
+        "lithium",
+        "critical-minerals",
+        "EV-supply-chain",
+        "pre-revenue",
+        "thacker-pass",
+        "deep-dive"
+      ],
+      "description": "Comprehensive deep dive on Lithium Americas covering Thacker Pass development, DOE loan backing, GM partnership, lithium market outlook, and investment thesis.",
+      "visibility": "public",
+      "summary": "LAC is building Thacker Pass, the largest US lithium deposit, backed by $2.26B DOE loan and GM partnership. Pre-revenue with -$647M FCF burn. Trading at 2.5x book, -54% from highs. Rating: HOLD with $6.50 target (34% upside). Thesis intact but needs lithium cycle to turn.",
+      "rating": "HOLD",
+      "author": "Jai Research",
+      "last_updated": "2026-02-11T16:00:00Z"
+    },
+    {
       "id": "EXPE-deep-dive-2026-02-10",
       "title": "EXPE Deep Dive - Expedia Group Inc",
       "ticker": "EXPE",
