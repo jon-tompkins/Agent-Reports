@@ -1,6 +1,28 @@
 {
   "reports": [
     {
+      "id": "ET-deep-dive-2026-02-11",
+      "title": "ET Deep Dive - Energy Transfer LP",
+      "ticker": "ET",
+      "date": "2026-02-11",
+      "path": "reports/ET-deep-dive-2026-02-11.md",
+      "category": "investment-research",
+      "tags": [
+        "midstream",
+        "natural-gas",
+        "AI-data-centers",
+        "dividend",
+        "infrastructure",
+        "deep-dive"
+      ],
+      "description": "Comprehensive deep dive on Energy Transfer covering AI data center catalyst, Oracle contracts, dividend safety, and valuation vs peers.",
+      "visibility": "public",
+      "summary": "ET is North America's largest midstream operator (140k+ miles pipeline) trading at discount to peers. Major AI data center catalyst: Oracle 2.3GW deal + Fermi + Entergy contracts. 7.3% dividend yield, 11.9x forward P/E. Rating: BUY with $22 target (21% upside). Earnings Feb 17.",
+      "rating": "BUY",
+      "author": "Jai Research",
+      "last_updated": "2026-02-11T18:21:00Z"
+    },
+    {
       "id": "LAC-deep-dive-2026-02-11",
       "title": "LAC Deep Dive - Lithium Americas Corp",
       "ticker": "LAC",
