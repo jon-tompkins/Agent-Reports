@@ -166,6 +166,12 @@
 
 ---
 
+## Charts
+
+![HOOD 1-Year Price Chart](../charts/HOOD-price-2026-02-12.png)
+
+---
+
 ## Technical Analysis
 
 | Level | Price | Notes |
