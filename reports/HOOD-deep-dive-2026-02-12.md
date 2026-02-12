@@ -168,7 +168,8 @@
 
 ## Charts
 
-![HOOD 1-Year Price Chart](../charts/HOOD-price-2026-02-12.png)
+![HOOD Daily 2Y](../charts/HOOD-daily-2y.png)
+![HOOD Weekly 5Y](../charts/HOOD-weekly-5y.png)
 
 ---
 
