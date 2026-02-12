@@ -235,6 +235,30 @@
         "value",
         "FCF"
       ]
+    },
+    {
+      "id": "AMD-deep-dive-2026-02-12",
+      "title": "AMD Deep Dive - Advanced Micro Devices, Inc.",
+      "ticker": "AMD",
+      "date": "2026-02-12",
+      "path": "reports/AMD-deep-dive-2026-02-12.md",
+      "category": "investment-research",
+      "tags": [
+        "semiconductors",
+        "AI-accelerators",
+        "data-center",
+        "CPUs",
+        "GPUs",
+        "short-candidate",
+        "valuation-risk",
+        "deep-dive"
+      ],
+      "description": "Comprehensive short thesis on AMD covering Q4 2025 earnings beat, valuation concerns at 80x P/E, NVIDIA competitive moat risk, and technical breakdown analysis.",
+      "visibility": "public",
+      "summary": "AMD trades at 80x P/E despite Q4 beat ($10.3B revenue, $1.53 EPS). Data center growth strong (39% YoY) but sequential Q1 guide declining. NVIDIA's CUDA moat limits AI upside while valuation assumes perfection. Technical breakdown below key MAs. Rating: SELL with $165 target (20% downside).",
+      "rating": "SELL",
+      "author": "Jai Research",
+      "last_updated": "2026-02-12T20:12:00Z"
     }
   ]
 }
