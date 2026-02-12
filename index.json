@@ -1,6 +1,29 @@
 {
   "reports": [
     {
+      "id": "HOOD-deep-dive-2026-02-12",
+      "title": "HOOD Deep Dive - Robinhood Markets, Inc.",
+      "ticker": "HOOD",
+      "date": "2026-02-12",
+      "path": "reports/HOOD-deep-dive-2026-02-12.md",
+      "category": "investment-research",
+      "tags": [
+        "fintech",
+        "crypto",
+        "trading-platform",
+        "superapp",
+        "earnings-reaction",
+        "oversold",
+        "deep-dive"
+      ],
+      "description": "Comprehensive deep dive on Robinhood covering Q4 2025 earnings miss, fintech superapp transformation, crypto revenue exposure, valuation vs peers, and technical oversold conditions.",
+      "visibility": "public",
+      "summary": "HOOD down 34% YTD after Q4 revenue miss ($1.28B vs $1.35B). Full year stellar: $4.5B revenue (+52%), $1.9B net income. RSI at 27.84 = deeply oversold. Wall Street mean PT $113.74 = 53% upside. Rating: BUY with $115 target on transformation thesis.",
+      "rating": "BUY",
+      "author": "Jai Research",
+      "last_updated": "2026-02-12T15:07:00Z"
+    },
+    {
       "id": "pton-deep-dive-2026-02-09",
       "title": "PTON (Peloton Interactive) Deep Dive Analysis",
       "date": "2026-02-09",
