@@ -24,6 +24,31 @@
       "last_updated": "2026-02-12T15:07:00Z"
     },
     {
+      "id": "MDB-deep-dive-2026-02-12",
+      "title": "MDB Deep Dive - MongoDB Inc",
+      "ticker": "MDB",
+      "date": "2026-02-12",
+      "path": "reports/MDB-deep-dive-2026-02-12.md",
+      "category": "investment-research",
+      "tags": [
+        "database",
+        "NoSQL",
+        "cloud",
+        "AI-infrastructure",
+        "SaaS",
+        "short-candidate",
+        "valuation-risk",
+        "competitive-pressure",
+        "deep-dive"
+      ],
+      "description": "Comprehensive short thesis on MongoDB covering Q4 FY2025 results, Voyage AI acquisition, valuation at 11.7x EV/Revenue vs peers, competitive pressure from cloud providers, and technical breakdown analysis.",
+      "visibility": "public",
+      "summary": "MongoDB trades at 11.7x EV/Revenue despite decelerating growth (19% vs historical 30%+). Cloud providers aggressively competing with 60% cost advantage. AI narrative priced in through Voyage AI acquisition. Technical breakdown below key MAs signals distribution. Rating: SELL with $280 target (21% downside).",
+      "rating": "SELL",
+      "author": "Subagent Research",
+      "last_updated": "2026-02-12T20:15:00Z"
+    },
+    {
       "id": "AMD-deep-dive-2026-02-12",
       "title": "AMD Deep Dive - Advanced Micro Devices, Inc.",
       "ticker": "AMD",
