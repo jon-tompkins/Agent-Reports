@@ -1,6 +1,48 @@
 {
   "reports": [
     {
+      "id": "LPTH-deep-dive-2026-02-19",
+      "title": "LPTH Deep Dive - LightPath Technologies",
+      "ticker": "LPTH",
+      "date": "2026-02-19",
+      "path": "reports/LPTH-deep-dive-2026-02-19.md",
+      "category": "investment-research",
+      "tags": [
+        "optical",
+        "infrared",
+        "defense",
+        "thermal-imaging",
+        "deep-dive"
+      ],
+      "description": "Comprehensive deep dive on LightPath Technologies covering BlackDiamond glass technology moat, G5 Infrared acquisition, defense positioning, and valuation analysis.",
+      "visibility": "public",
+      "summary": "LPTH is an optical/infrared components maker with unique BlackDiamond glass technology and US-based supply chain. Trading at 10.4x P/S (premium to peers) with $97.8M backlog and recently EBITDA positive. High-risk/high-reward defense tech play. Rating: HOLD with bullish bias, better entry around $8-10.",
+      "rating": "HOLD",
+      "author": "Jai Research",
+      "last_updated": "2026-02-19T04:50:00Z"
+    },
+    {
+      "id": "RCAT-deep-dive-2026-02-19",
+      "title": "RCAT Deep Dive - Red Cat Holdings",
+      "ticker": "RCAT",
+      "date": "2026-02-19",
+      "path": "reports/RCAT-deep-dive-2026-02-19.md",
+      "category": "investment-research",
+      "tags": [
+        "drones",
+        "defense",
+        "military",
+        "UAV",
+        "deep-dive"
+      ],
+      "description": "Comprehensive deep dive on Red Cat Holdings covering military drone positioning, Army SRR contract win over Skydio, explosive revenue growth, and cash burn concerns.",
+      "visibility": "public",
+      "summary": "RCAT is a US-based military drone maker (Teal Drones, FlightWave) that won the Army SRR contract over Skydio. 153% revenue growth to $38-41M but burning $52M/yr cash vs $9.6M on hand. High-risk speculative play on defense drone adoption. Rating: SPECULATIVE with $12-18 fair value range.",
+      "rating": "SPECULATIVE",
+      "author": "Jai Research",
+      "last_updated": "2026-02-19T05:58:00Z"
+    },
+    {
       "id": "HOOD-deep-dive-2026-02-12",
       "title": "HOOD Deep Dive - Robinhood Markets, Inc.",
       "ticker": "HOOD",
