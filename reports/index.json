@@ -1,6 +1,162 @@
 {
   "reports": [
     {
+      "id": "iran-defense-plays-2026-03-03",
+      "title": "Iran Conflict Defense Plays",
+      "date": "2026-03-03",
+      "path": "reports/iran-defense-plays.md",
+      "type": "scan",
+      "category": "investment-research",
+      "tags": [
+        "defense",
+        "geopolitical",
+        "drones",
+        "missiles"
+      ],
+      "description": "Defense stocks positioned for Iran conflict escalation. Comparing KTOS, RTX, LHX, AXON, MPTI.",
+      "visibility": "public",
+      "summary": "Top picks: KTOS (best upside - counter-drone), RTX (best value), LHX (quality). Skip AXON for Iran play.",
+      "author": "Jai Research",
+      "last_updated": "2026-03-04T21:25:35.135161Z"
+    },
+    {
+      "id": "mpti-deep-dive-2026",
+      "title": "M-Tron Industries (MPTI) Deep Dive",
+      "ticker": "MPTI",
+      "date": "2026-03-02",
+      "path": "reports/mpti-deep-dive.md",
+      "type": "deep-dive",
+      "category": "investment-research",
+      "tags": [
+        "defense",
+        "frequency-control",
+        "small-cap"
+      ],
+      "description": "Deep dive on M-Tron Industries frequency control and timing devices.",
+      "visibility": "public",
+      "summary": "Small-cap defense contractor analysis.",
+      "author": "Jai Research",
+      "last_updated": "2026-03-04T21:25:35.135176Z"
+    },
+    {
+      "id": "put-candidates-analysis-2026-03",
+      "title": "Put Candidates Analysis",
+      "date": "2026-03-01",
+      "path": "reports/put-candidates-analysis.md",
+      "type": "scan",
+      "category": "investment-research",
+      "tags": [
+        "options",
+        "puts",
+        "short-thesis"
+      ],
+      "description": "Analysis of potential put option candidates based on technical and fundamental factors.",
+      "visibility": "public",
+      "summary": "Screening for overvalued names with catalyst risk and liquid options markets.",
+      "author": "Jai Research",
+      "last_updated": "2026-03-04T21:25:35.135163Z"
+    },
+    {
+      "id": "be-short-thesis-2026",
+      "title": "Bloom Energy (BE) Short Thesis",
+      "ticker": "BE",
+      "date": "2026-02-28",
+      "path": "reports/be-short-thesis.md",
+      "type": "deep-dive",
+      "category": "investment-research",
+      "tags": [
+        "energy",
+        "fuel-cells",
+        "short-thesis"
+      ],
+      "description": "Short thesis on Bloom Energy covering valuation and competitive concerns.",
+      "visibility": "public",
+      "summary": "Bear case analysis for Bloom Energy.",
+      "rating": "SELL",
+      "author": "Jai Research",
+      "last_updated": "2026-03-04T21:25:35.135178Z"
+    },
+    {
+      "id": "q4-13f-analysis-2026-02-25",
+      "title": "Q4 2025 13F Analysis: AI & Situational Awareness Thesis",
+      "date": "2026-02-25",
+      "path": "reports/q4-13f-analysis.md",
+      "type": "scan",
+      "category": "investment-research",
+      "tags": [
+        "13f",
+        "institutional",
+        "ai-infrastructure",
+        "smart-money"
+      ],
+      "description": "Analysis of Q4 2025 13F filings for institutional positioning in AI names. Top picks: TSM, CEG, GEV, AVGO, VST.",
+      "visibility": "public",
+      "summary": "Elite hedge funds (Coatue, Tiger Global, Lone Pine) loading AI infrastructure plays. Top conviction: TSM (semiconductor), CEG/VST (nuclear power), GEV (power infrastructure), AVGO (custom AI chips).",
+      "author": "Jai Research",
+      "last_updated": "2026-03-04T21:25:35.135135Z"
+    },
+    {
+      "id": "sotu-analysis-2026-02-25",
+      "title": "State of the Union 2026 - Investment Analysis",
+      "date": "2026-02-25",
+      "path": "reports/sotu-analysis.md",
+      "type": "scan",
+      "category": "investment-research",
+      "tags": [
+        "macro",
+        "policy",
+        "energy",
+        "defense",
+        "healthcare"
+      ],
+      "description": "Investment implications from 2026 State of the Union address covering energy, defense, healthcare, and housing policy shifts.",
+      "visibility": "public",
+      "summary": "Key plays: Energy bullish (drill baby drill), Defense surge ($1.5T budget), Healthcare disruption (direct payments), AI datacenter power requirements, Housing ban on institutional buyers.",
+      "author": "Jai Research",
+      "last_updated": "2026-03-04T21:25:35.135156Z"
+    },
+    {
+      "id": "TAKOF-deep-dive-2026",
+      "title": "Drone Delivery Canada (TAKOF) Deep Dive",
+      "ticker": "TAKOF",
+      "date": "2026-02-22",
+      "path": "reports/TAKOF-deep-dive.md",
+      "type": "deep-dive",
+      "category": "investment-research",
+      "tags": [
+        "drones",
+        "delivery",
+        "canada",
+        "speculative"
+      ],
+      "description": "Deep dive on Drone Delivery Canada operations and outlook.",
+      "visibility": "public",
+      "summary": "Canadian drone delivery company analysis.",
+      "author": "Jai Research",
+      "last_updated": "2026-03-04T21:25:35.135180Z"
+    },
+    {
+      "id": "rivn-deep-dive-2026-02",
+      "title": "Rivian (RIVN) Deep Dive Research Report",
+      "ticker": "RIVN",
+      "date": "2026-02-20",
+      "path": "reports/rivn-deep-dive.md",
+      "type": "deep-dive",
+      "category": "investment-research",
+      "tags": [
+        "ev",
+        "automotive",
+        "growth",
+        "r2-platform"
+      ],
+      "description": "Comprehensive analysis of Rivian covering R2 platform launch, VW partnership, DOE loan, and production ramp.",
+      "visibility": "public",
+      "summary": "RIVN at inflection point after first gross profit ($170M Q4). R2 mass-market launch H1 2026. $5.8B VW deal + $6.6B DOE loan fund growth. High execution risk.",
+      "rating": "SPECULATIVE",
+      "author": "Jai Research",
+      "last_updated": "2026-03-04T21:25:35.135168Z"
+    },
+    {
       "id": "LPTH-deep-dive-2026-02-19",
       "title": "LPTH Deep Dive - LightPath Technologies",
       "ticker": "LPTH",
@@ -19,7 +175,8 @@
       "summary": "LPTH is an optical/infrared components maker with unique BlackDiamond glass technology and US-based supply chain. Trading at 10.4x P/S (premium to peers) with $97.8M backlog and recently EBITDA positive. High-risk/high-reward defense tech play. Rating: HOLD with bullish bias, better entry around $8-10.",
       "rating": "HOLD",
       "author": "Jai Research",
-      "last_updated": "2026-02-19T04:50:00Z"
+      "last_updated": "2026-02-19T04:50:00Z",
+      "type": "deep-dive"
     },
     {
       "id": "RCAT-deep-dive-2026-02-19",
@@ -40,7 +197,66 @@
       "summary": "RCAT is a US-based military drone maker (Teal Drones, FlightWave) that won the Army SRR contract over Skydio. 153% revenue growth to $38-41M but burning $52M/yr cash vs $9.6M on hand. High-risk speculative play on defense drone adoption. Rating: SPECULATIVE with $12-18 fair value range.",
       "rating": "SPECULATIVE",
       "author": "Jai Research",
-      "last_updated": "2026-02-19T05:58:00Z"
+      "last_updated": "2026-02-19T05:58:00Z",
+      "type": "deep-dive"
+    },
+    {
+      "id": "krc-deep-dive-2026",
+      "title": "Kilroy Realty (KRC) Deep Dive",
+      "ticker": "KRC",
+      "date": "2026-02-18",
+      "path": "reports/krc-deep-dive.md",
+      "type": "deep-dive",
+      "category": "investment-research",
+      "tags": [
+        "reit",
+        "office",
+        "real-estate"
+      ],
+      "description": "Deep dive on Kilroy Realty office REIT.",
+      "visibility": "public",
+      "summary": "West Coast office REIT analysis.",
+      "author": "Jai Research",
+      "last_updated": "2026-03-04T21:25:35.135172Z"
+    },
+    {
+      "id": "HYMC-deep-dive-2026",
+      "title": "Hycroft Mining (HYMC) Deep Dive",
+      "ticker": "HYMC",
+      "date": "2026-02-16",
+      "path": "reports/HYMC-deep-dive.md",
+      "type": "deep-dive",
+      "category": "investment-research",
+      "tags": [
+        "mining",
+        "gold",
+        "silver",
+        "speculative"
+      ],
+      "description": "Deep dive on Hycroft Mining gold/silver operations.",
+      "visibility": "public",
+      "summary": "Speculative mining play analysis.",
+      "author": "Jai Research",
+      "last_updated": "2026-03-04T21:25:35.135174Z"
+    },
+    {
+      "id": "jpm-deep-dive-2026",
+      "title": "JPMorgan Chase (JPM) Deep Dive",
+      "ticker": "JPM",
+      "date": "2026-02-15",
+      "path": "reports/jpm-deep-dive.md",
+      "type": "deep-dive",
+      "category": "investment-research",
+      "tags": [
+        "banks",
+        "financials",
+        "dividend"
+      ],
+      "description": "Deep dive on JPMorgan Chase covering banking fundamentals and outlook.",
+      "visibility": "public",
+      "summary": "Analysis of America's largest bank.",
+      "author": "Jai Research",
+      "last_updated": "2026-03-04T21:25:35.135170Z"
     },
     {
       "id": "HOOD-deep-dive-2026-02-12",
@@ -63,7 +279,8 @@
       "summary": "HOOD down 34% YTD after Q4 revenue miss ($1.28B vs $1.35B). Full year stellar: $4.5B revenue (+52%), $1.9B net income. RSI at 27.84 = deeply oversold. Wall Street mean PT $113.74 = 53% upside. Rating: BUY with $115 target on transformation thesis.",
       "rating": "BUY",
       "author": "Jai Research",
-      "last_updated": "2026-02-12T15:07:00Z"
+      "last_updated": "2026-02-12T15:07:00Z",
+      "type": "deep-dive"
     },
     {
       "id": "MDB-deep-dive-2026-02-12",
@@ -88,7 +305,8 @@
       "summary": "MongoDB trades at 11.7x EV/Revenue despite decelerating growth (19% vs historical 30%+). Cloud providers aggressively competing with 60% cost advantage. AI narrative priced in through Voyage AI acquisition. Technical breakdown below key MAs signals distribution. Rating: SELL with $280 target (21% downside).",
       "rating": "SELL",
       "author": "Subagent Research",
-      "last_updated": "2026-02-12T20:15:00Z"
+      "last_updated": "2026-02-12T20:15:00Z",
+      "type": "deep-dive"
     },
     {
       "id": "AMD-deep-dive-2026-02-12",
@@ -112,7 +330,8 @@
       "summary": "AMD trades at 80x P/E despite Q4 beat ($10.3B revenue, $1.53 EPS). Data center growth strong (39% YoY) but sequential Q1 guide declining. NVIDIA's CUDA moat limits AI upside while valuation assumes perfection. Technical breakdown below key MAs. Rating: SELL with $165 target (20% downside).",
       "rating": "SELL",
       "author": "Jai Research",
-      "last_updated": "2026-02-12T20:12:00Z"
+      "last_updated": "2026-02-12T20:12:00Z",
+      "type": "deep-dive"
     },
     {
       "id": "ET-deep-dive-2026-02-11",
@@ -134,7 +353,8 @@
       "summary": "ET is North America's largest midstream operator (140k+ miles pipeline) trading at discount to peers. Major AI data center catalyst: Oracle 2.3GW deal + Fermi + Entergy contracts. 7.3% dividend yield, 11.9x forward P/E. Rating: BUY with $22 target (21% upside). Earnings Feb 17.",
       "rating": "BUY",
       "author": "Jai Research",
-      "last_updated": "2026-02-11T18:21:00Z"
+      "last_updated": "2026-02-11T18:21:00Z",
+      "type": "deep-dive"
     },
     {
       "id": "LAC-deep-dive-2026-02-11",
@@ -156,7 +376,8 @@
       "summary": "LAC is building Thacker Pass, the largest US lithium deposit, backed by $2.26B DOE loan and GM partnership. Pre-revenue with -$647M FCF burn. Trading at 2.5x book, -54% from highs. Rating: HOLD with $6.50 target (34% upside). Thesis intact but needs lithium cycle to turn.",
       "rating": "HOLD",
       "author": "Jai Research",
-      "last_updated": "2026-02-11T16:00:00Z"
+      "last_updated": "2026-02-11T16:00:00Z",
+      "type": "deep-dive"
     },
     {
       "id": "EXPE-deep-dive-2026-02-10",
@@ -177,7 +398,8 @@
       "summary": "EXPE trades at 13x forward P/E vs BKNG at 20x+ despite similar growth. FCF machine generating $2.56B annually with P/FCF under 10x. Down 22% from ATH with earnings Feb 12. Rating: BUY with $290 target (24% upside).",
       "rating": "BUY",
       "author": "Jai Research",
-      "last_updated": "2026-02-10T20:47:00Z"
+      "last_updated": "2026-02-10T20:47:00Z",
+      "type": "deep-dive"
     },
     {
       "id": "AXTI-deep-dive-2026-02-10",
@@ -194,7 +416,8 @@
       "visibility": "public",
       "summary": "Low-cap InP manufacturer riding AI data center wave, with significant China export control risk",
       "author": "Jai Research",
-      "last_updated": "2026-02-10T20:17:09.275Z"
+      "last_updated": "2026-02-10T20:17:09.275Z",
+      "type": "deep-dive"
     },
     {
       "id": "COHR-deep-dive-2026-02-10",
@@ -211,7 +434,8 @@
       "visibility": "public",
       "summary": "US-based photonics leader, nearshoring beneficiary, AI data center infrastructure play",
       "author": "Jai Research",
-      "last_updated": "2026-02-10T20:17:09.275Z"
+      "last_updated": "2026-02-10T20:17:09.275Z",
+      "type": "deep-dive"
     },
     {
       "id": "POET-deep-dive-2026-02-10",
@@ -228,7 +452,8 @@
       "visibility": "public",
       "summary": "Low-cap moonshot with breakthrough optical interposer technology, high dilution risk",
       "author": "Jai Research",
-      "last_updated": "2026-02-10T20:17:09.276Z"
+      "last_updated": "2026-02-10T20:17:09.276Z",
+      "type": "deep-dive"
     },
     {
       "id": "RPID-deep-dive-2026-02-10",
@@ -245,7 +470,8 @@
       "visibility": "public",
       "summary": "- **Founded:** 2006 (as Genomic Profiling Systems, Inc.)",
       "author": "Jai Research",
-      "last_updated": "2026-02-10T20:17:09.276Z"
+      "last_updated": "2026-02-10T20:17:09.276Z",
+      "type": "deep-dive"
     },
     {
       "id": "ZM-deep-dive-2026-02-10",
@@ -261,7 +487,8 @@
       "visibility": "public",
       "summary": "**Investment Thesis:** Zoom represents a high-quality business trading at reasonable valuations with significant hidden value from strategic investments. The Anthropic investment alone provides substantial upside optionality, while the core business transitions from pure pandemic beneficiary to diversified communications platform. Rating: ** From 4",
       "author": "Jai Research",
-      "last_updated": "2026-02-10T20:17:09.276Z"
+      "last_updated": "2026-02-10T20:17:09.276Z",
+      "type": "deep-dive"
     },
     {
       "id": "pton-deep-dive-2026-02-09",
@@ -283,7 +510,8 @@
       "summary": "Peloton trades at 0.8x P/S following dramatic pandemic decline, showing stabilization with $380M trailing FCF and 2.73M subscribers. New AI Cross Training Series and cost-cutting creating turnaround optionality despite debt burden. Rating: HOLD/Weak BUY with $8.50-10.00 target as cautious turnaround story pending execution.",
       "author": "Subagent Research",
       "word_count": 5800,
-      "last_updated": "2026-02-09T21:18:00Z"
+      "last_updated": "2026-02-09T21:18:00Z",
+      "type": "deep-dive"
     },
     {
       "id": "short-candidates-2026-02-07",
@@ -303,7 +531,8 @@
       "summary": "Research identifies 6 high-risk companies including Palantir (P/E 378x), Tesla (accounting red flags), and software companies facing AI disruption. Total addressable shorting universe represents >$2T in market cap with multiple catalyst events expected in Q1 2026.",
       "author": "Subagent Research",
       "word_count": 2800,
-      "last_updated": "2026-02-07T12:00:00Z"
+      "last_updated": "2026-02-07T12:00:00Z",
+      "type": "scan"
     },
     {
       "id": "cvx-deep-dive-2026-02-07",
@@ -324,7 +553,8 @@
       "summary": "Chevron is a high-quality integrated energy major with strong Guyana growth via the $53B Hess acquisition. Trading near 52-week highs with 3.94% dividend yield. Rating: HOLD/Accumulate on weakness below $165. Oil price headwinds ($56/bbl forecast) pressure near-term but long-term thesis intact.",
       "author": "Subagent Research",
       "word_count": 3100,
-      "last_updated": "2026-02-07T19:50:00Z"
+      "last_updated": "2026-02-07T19:50:00Z",
+      "type": "deep-dive"
     },
     {
       "id": "ura-deep-dive-2026-02-07",
@@ -346,7 +576,8 @@
       "summary": "URA provides diversified exposure to uranium mining at critical inflection point. ETF up 54% from 2025 lows on AI power demand, policy support, and uranium supply tightening. Rating: BUY with $62-68 target driven by structural supply deficit and nuclear renaissance.",
       "author": "Subagent Research",
       "word_count": 4200,
-      "last_updated": "2026-02-07T21:45:00Z"
+      "last_updated": "2026-02-07T21:45:00Z",
+      "type": "deep-dive"
     },
     {
       "id": "dnn-deep-dive-2026-02-07",
@@ -368,7 +599,8 @@
       "summary": "Denison stands at transformational inflection point with $600M Phoenix ISR project construction-ready, targeting mid-2028 first production. Over $700M cash provides full funding while McClean Lake JV restart provides immediate cash flow. Rating: BUY with $5.00-5.50 target on permit approval catalyst.",
       "author": "Subagent Research",
       "word_count": 4500,
-      "last_updated": "2026-02-07T21:50:00Z"
+      "last_updated": "2026-02-07T21:50:00Z",
+      "type": "deep-dive"
     },
     {
       "id": "uuuu-deep-dive-2026-02-07",
@@ -390,7 +622,8 @@
       "summary": "Energy Fuels uniquely positioned with only US conventional uranium mill plus world-class REE expansion. $410M Phase 2 creates $3.7B NPV targeting 45% of US rare earth demand. Strong financials with $298M working capital. Rating: BUY with $28-32 target on strategic monopoly value.",
       "author": "Subagent Research",
       "word_count": 4800,
-      "last_updated": "2026-02-07T22:00:00Z"
+      "last_updated": "2026-02-07T22:00:00Z",
+      "type": "deep-dive"
     },
     {
       "id": "aes-deep-dive-2026-02-07",
@@ -412,7 +645,8 @@
       "summary": "AES positioned at epicenter of AI data center power boom with 32.7GW operational capacity, 12.3GW signed PPA backlog, and established Microsoft/Google/Meta partnerships. Strong Q3 2025 results with $830M EBITDA. Rating: BUY with $21-24 target on infrastructure megatrend.",
       "author": "Subagent Research",
       "word_count": 5100,
-      "last_updated": "2026-02-07T22:15:00Z"
+      "last_updated": "2026-02-07T22:15:00Z",
+      "type": "deep-dive"
     },
     {
       "id": "et-deep-dive-2026-02-07",
@@ -434,7 +668,8 @@
       "summary": "Energy Transfer operates irreplaceable 140,000-mile pipeline network connecting all major US production basins. Strong Q3 2025 with $3.84B EBITDA, Oracle 900 MMcf/d data center contracts, and $5.0-5.5B 2026 capex. 7.4% distribution yield well covered. Rating: BUY with $21-23 target on AI infrastructure demand.",
       "author": "Subagent Research",
       "word_count": 5200,
-      "last_updated": "2026-02-07T22:30:00Z"
+      "last_updated": "2026-02-07T22:30:00Z",
+      "type": "deep-dive"
     },
     {
       "id": "bep-deep-dive-2026-02-07",
@@ -456,7 +691,8 @@
       "summary": "Brookfield Renewable Partners delivered record 2025 FFO $1.33B (+10%), 5% distribution increase, and transformational Google 3GW hydro partnership. Westinghouse nuclear renaissance positioning and 84GW development pipeline targeting 10GW/year commissioning. Rating: BUY with $36-40 target on AI infrastructure catalysts.",
       "author": "Subagent Research",
       "word_count": 5500,
-      "last_updated": "2026-02-07T22:45:00Z"
+      "last_updated": "2026-02-07T22:45:00Z",
+      "type": "deep-dive"
     },
     {
       "id": "crypto-unwind-theory-2026-02-07",
@@ -466,11 +702,12 @@
       "path": "reports/crypto-unwind-theory-2026-02-07.md",
       "category": "investment-research",
       "tags": [],
-      "description": "The core theory—that a Hong Kong-based entity running JPY carry trade funding into leveraged IBIT options blew up and caused the Feb 5, 2026 crash—is **plausible and gaining mainstream acceptance**. However, the specific dates and figures in the claim contain significant errors. The theory has been ",
+      "description": "The core theory\u2014that a Hong Kong-based entity running JPY carry trade funding into leveraged IBIT options blew up and caused the Feb 5, 2026 crash\u2014is **plausible and gaining mainstream acceptance**. However, the specific dates and figures in the claim contain significant errors. The theory has been ",
       "visibility": "public",
-      "summary": "The core theory—that a Hong Kong-based entity running JPY carry trade funding into leveraged IBIT options blew up and caused the Feb 5, 2026 crash—is **plausible and gaining mainstream acceptance**. However, the specific dates and figures in the claim contain significant errors. The theory has been  Rating: ** **PLAUSIBLE** (with significant factual corrections needed)",
+      "summary": "The core theory\u2014that a Hong Kong-based entity running JPY carry trade funding into leveraged IBIT options blew up and caused the Feb 5, 2026 crash\u2014is **plausible and gaining mainstream acceptance**. However, the specific dates and figures in the claim contain significant errors. The theory has been  Rating: ** **PLAUSIBLE** (with significant factual corrections needed)",
       "author": "Jai Research",
-      "last_updated": "2026-02-10T20:17:09.285Z"
+      "last_updated": "2026-02-10T20:17:09.285Z",
+      "type": "scan"
     },
     {
       "id": "smci-deep-dive-2026-02-07",
@@ -488,7 +725,8 @@
       "visibility": "public",
       "summary": "Super Micro Computer is a Silicon Valley-based server manufacturer that rode the AI wave to spectacular gains before a cascade of governance failures brought the stock crashing back to earth. The company was **previously delisted in 2018** for accounting violations, settled with the SEC for $17.5 mi Rating: AVOID / SPECULATIVE SHORT**",
       "author": "Jai Research",
-      "last_updated": "2026-02-10T20:17:09.293Z"
+      "last_updated": "2026-02-10T20:17:09.293Z",
+      "type": "deep-dive"
     },
     {
       "id": "aptv-deep-dive-2026-02-06",
@@ -505,7 +743,8 @@
       "visibility": "public",
       "summary": "## Investment Thesis: Framework Alignment Rating: SPECULATIVE BUY**",
       "author": "Jai Research",
-      "last_updated": "2026-02-10T20:17:09.278Z"
+      "last_updated": "2026-02-10T20:17:09.278Z",
+      "type": "deep-dive"
     },
     {
       "id": "cvna-deep-dive-2026-02-06",
@@ -523,7 +762,8 @@
       "visibility": "public",
       "summary": "Carvana is a high-flying used car e-commerce platform that has rebounded spectacularly from near-bankruptcy in 2022-2023 (+3,100% over 3 years). However, the company faces serious questions about its loan portfolio quality, with **44% of cars financed since 2022 being underwater** (loan > car value) Rating: AVOID / POTENTIAL SHORT**",
       "author": "Jai Research",
-      "last_updated": "2026-02-10T20:17:09.286Z"
+      "last_updated": "2026-02-10T20:17:09.286Z",
+      "type": "deep-dive"
     },
     {
       "id": "nne-deep-dive-2026-02-06",
@@ -540,7 +780,8 @@
       "visibility": "public",
       "summary": "## Investment Thesis: Framework Alignment Rating: SPECULATIVE / SMALL POSITION ONLY**",
       "author": "Jai Research",
-      "last_updated": "2026-02-10T20:17:09.290Z"
+      "last_updated": "2026-02-10T20:17:09.290Z",
+      "type": "deep-dive"
     },
     {
       "id": "oxy-deep-dive-2026-02-06",
@@ -557,7 +798,8 @@
       "visibility": "public",
       "summary": "## Investment Thesis: Framework Alignment Rating: HOLD**",
       "author": "Jai Research",
-      "last_updated": "2026-02-10T20:17:09.291Z"
+      "last_updated": "2026-02-10T20:17:09.291Z",
+      "type": "deep-dive"
     },
     {
       "id": "xpro-deep-dive-2026-02-06",
@@ -574,7 +816,8 @@
       "visibility": "public",
       "summary": "## Investment Thesis: Framework Alignment Rating: HOLD/ACCUMULATE**",
       "author": "Jai Research",
-      "last_updated": "2026-02-10T20:17:09.294Z"
+      "last_updated": "2026-02-10T20:17:09.294Z",
+      "type": "deep-dive"
     },
     {
       "id": "chet-quantum-shorts-2026-02-05",
@@ -591,7 +834,8 @@
       "visibility": "public",
       "summary": "Pure-play quantum computing stocks experienced massive speculative run-ups in 2025, with some gaining over 500%. Despite minimal commercial progress, these companies trade at extreme valuations while burning through cash and posting significant losses. The AI/quantum hype has created a potential sho",
       "author": "Jai Research",
-      "last_updated": "2026-02-10T20:17:09.280Z"
+      "last_updated": "2026-02-10T20:17:09.280Z",
+      "type": "scan"
     },
     {
       "id": "chet-trade-ideas-2026-02-05",
@@ -607,7 +851,8 @@
       "visibility": "public",
       "summary": "**Investment Thesis:**",
       "author": "Jai Research",
-      "last_updated": "2026-02-10T20:17:09.282Z"
+      "last_updated": "2026-02-10T20:17:09.282Z",
+      "type": "scan"
     },
     {
       "id": "chet-updated-analysis-2026-02-05",
@@ -623,7 +868,8 @@
       "visibility": "public",
       "summary": "-  Data engineering powerhouse for AI training. Services tech giants with data processing for AI model training. Direct beneficiary of AI infrastructure boom with growing recurring revenue base.",
       "author": "Jai Research",
-      "last_updated": "2026-02-10T20:17:09.283Z"
+      "last_updated": "2026-02-10T20:17:09.283Z",
+      "type": "scan"
     },
     {
       "id": "fnma-fmcc-brief-2026-02-05",
@@ -633,11 +879,12 @@
       "path": "reports/fnma-fmcc-brief-2026-02-05.md",
       "category": "investment-research",
       "tags": [],
-      "description": "Fannie Mae (FNMA) and Freddie Mac (FMCC) have been in government conservatorship since **September 2008**. That's 17+ years. These two companies back roughly **$7 trillion** in mortgages—nearly half of all US home loans.",
+      "description": "Fannie Mae (FNMA) and Freddie Mac (FMCC) have been in government conservatorship since **September 2008**. That's 17+ years. These two companies back roughly **$7 trillion** in mortgages\u2014nearly half of all US home loans.",
       "visibility": "public",
-      "summary": "Fannie Mae (FNMA) and Freddie Mac (FMCC) have been in government conservatorship since **September 2008**. That's 17+ years. These two companies back roughly **$7 trillion** in mortgages—nearly half of all US home loans.",
+      "summary": "Fannie Mae (FNMA) and Freddie Mac (FMCC) have been in government conservatorship since **September 2008**. That's 17+ years. These two companies back roughly **$7 trillion** in mortgages\u2014nearly half of all US home loans.",
       "author": "Jai Research",
-      "last_updated": "2026-02-10T20:17:09.286Z"
+      "last_updated": "2026-02-10T20:17:09.286Z",
+      "type": "scan"
     },
     {
       "id": "fnma-fmcc-exit-analysis-2026-02-05",
@@ -653,7 +900,8 @@
       "visibility": "public",
       "summary": "## Investment Thesis: Is This Worth It?",
       "author": "Jai Research",
-      "last_updated": "2026-02-10T20:17:09.287Z"
+      "last_updated": "2026-02-10T20:17:09.287Z",
+      "type": "scan"
     },
     {
       "id": "quantum-technical-check-2026-02-05",
@@ -669,7 +917,8 @@
       "visibility": "public",
       "summary": "*Estimated based on recent price action and technical analysis references",
       "author": "Jai Research",
-      "last_updated": "2026-02-10T20:17:09.292Z"
+      "last_updated": "2026-02-10T20:17:09.292Z",
+      "type": "scan"
     },
     {
       "id": "chartboi-oxy-analysis-2026-02-03",
@@ -683,7 +932,8 @@
       "visibility": "public",
       "summary": "**Key Thesis:**",
       "author": "Jai Research",
-      "last_updated": "2026-02-10T20:17:09.279Z"
+      "last_updated": "2026-02-10T20:17:09.279Z",
+      "type": "scan"
     },
     {
       "id": "ai-victims-trade",
@@ -700,7 +950,8 @@
       "visibility": "public",
       "summary": "Large-cap companies (>$10B market cap) with liquid options that are likely to become LESS relevant as AI adoption increases. These are potential short/put candidates.",
       "author": "Jai Research",
-      "last_updated": "2026-02-10T20:17:09.278Z"
+      "last_updated": "2026-02-10T20:17:09.278Z",
+      "type": "scan"
     },
     {
       "id": "irm-short-thesis",
@@ -718,7 +969,8 @@
       "visibility": "public",
       "summary": "Deep dive analysis on Iron Mountain as a short candidate - examining AI disruption risks, business trends, and trade setup.",
       "author": "Jai Research",
-      "last_updated": "2026-02-10T20:17:09.289Z"
+      "last_updated": "2026-02-10T20:17:09.289Z",
+      "type": "deep-dive"
     },
     {
       "id": "irl-trade-2026-01-30",
@@ -735,7 +987,8 @@
       "visibility": "public",
       "summary": "Secular tailwinds driving increased capital flows into live sports and experiences",
       "author": "Jai Research",
-      "last_updated": "2026-02-10T20:17:09.289Z"
+      "last_updated": "2026-02-10T20:17:09.289Z",
+      "type": "scan"
     },
     {
       "id": "chet-trade-ideas-2025-01-19",
@@ -751,7 +1004,8 @@
       "visibility": "public",
       "summary": "This report identifies 5 LONG and 5 SHORT opportunities aligned with the 5 world shift themes:",
       "author": "Jai Research",
-      "last_updated": "2026-02-10T20:17:09.281Z"
+      "last_updated": "2026-02-10T20:17:09.281Z",
+      "type": "scan"
     }
   ]
 }
