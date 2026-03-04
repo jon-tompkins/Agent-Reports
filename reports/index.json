@@ -1,8 +1,27 @@
 {
   "reports": [
     {
+      "id": "scout-retrospective-2026-03",
+      "title": "Scout Retrospective \u2014 March 2026",
+      "date": "2026-03-04",
+      "path": "reports/scout-retrospective-2026-03.md",
+      "type": "scan",
+      "category": "investment-research",
+      "tags": [
+        "retrospective",
+        "performance",
+        "track-record",
+        "lessons-learned"
+      ],
+      "description": "Monthly performance review of Scout research calls. Tracking wins, losses, and process improvements.",
+      "visibility": "public",
+      "summary": "Feb-Mar review: 63% win rate on rated calls. Best: BE short (+6%). Worst: MDB short (-10%). Key lesson: avoid shorting AI momentum names.",
+      "author": "Jai Research",
+      "last_updated": "2026-03-04T22:25:00Z"
+    },
+    {
       "id": "eos-crypto-deep-dive-2026-03-04",
-      "title": "EOS Blockchain Platform Deep Dive", 
+      "title": "EOS Blockchain Platform Deep Dive",
       "ticker": "EOS",
       "date": "2026-03-04",
       "path": "reports/eos-deep-dive-2026-03-04.md",
@@ -16,7 +35,7 @@
         "smart-contracts"
       ],
       "description": "Deep dive on EOS blockchain platform - high-performance L1 with DPoS consensus and sub-second finality.",
-      "visibility": "public", 
+      "visibility": "public",
       "summary": "EOS is a technically superior blockchain platform trading at distressed valuations. Sub-second finality and EVM compatibility offer advantages but adoption remains minimal. Extreme contrarian play - SPECULATIVE rating.",
       "rating": "SPECULATIVE",
       "author": "Jai Research",
