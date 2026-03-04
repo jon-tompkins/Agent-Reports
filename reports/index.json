@@ -2,7 +2,7 @@
   "reports": [
     {
       "id": "scout-retrospective-2026-03",
-      "title": "Scout Retrospective \u2014 March 2026",
+      "title": "Scout Retrospective — March 2026",
       "date": "2026-03-04",
       "path": "reports/scout-retrospective-2026-03.md",
       "type": "scan",
@@ -18,28 +18,6 @@
       "summary": "Feb-Mar review: 63% win rate on rated calls. Best: BE short (+6%). Worst: MDB short (-10%). Key lesson: avoid shorting AI momentum names.",
       "author": "Jai Research",
       "last_updated": "2026-03-04T22:25:00Z"
-    },
-    {
-      "id": "eos-crypto-deep-dive-2026-03-04",
-      "title": "EOS Blockchain Platform Deep Dive",
-      "ticker": "EOS",
-      "date": "2026-03-04",
-      "path": "reports/eos-deep-dive-2026-03-04.md",
-      "type": "deep-dive",
-      "category": "investment-research",
-      "tags": [
-        "cryptocurrency",
-        "blockchain",
-        "layer-1",
-        "defi",
-        "smart-contracts"
-      ],
-      "description": "Deep dive on EOS blockchain platform - high-performance L1 with DPoS consensus and sub-second finality.",
-      "visibility": "public",
-      "summary": "EOS is a technically superior blockchain platform trading at distressed valuations. Sub-second finality and EVM compatibility offer advantages but adoption remains minimal. Extreme contrarian play - SPECULATIVE rating.",
-      "rating": "SPECULATIVE",
-      "author": "Jai Research",
-      "last_updated": "2026-03-04T22:00:52Z"
     },
     {
       "id": "eos-deep-dive-2026-03-04",
@@ -765,9 +743,9 @@
       "path": "reports/crypto-unwind-theory-2026-02-07.md",
       "category": "investment-research",
       "tags": [],
-      "description": "The core theory\u2014that a Hong Kong-based entity running JPY carry trade funding into leveraged IBIT options blew up and caused the Feb 5, 2026 crash\u2014is **plausible and gaining mainstream acceptance**. However, the specific dates and figures in the claim contain significant errors. The theory has been ",
+      "description": "The core theory—that a Hong Kong-based entity running JPY carry trade funding into leveraged IBIT options blew up and caused the Feb 5, 2026 crash—is **plausible and gaining mainstream acceptance**. However, the specific dates and figures in the claim contain significant errors. The theory has been ",
       "visibility": "public",
-      "summary": "The core theory\u2014that a Hong Kong-based entity running JPY carry trade funding into leveraged IBIT options blew up and caused the Feb 5, 2026 crash\u2014is **plausible and gaining mainstream acceptance**. However, the specific dates and figures in the claim contain significant errors. The theory has been  Rating: ** **PLAUSIBLE** (with significant factual corrections needed)",
+      "summary": "The core theory—that a Hong Kong-based entity running JPY carry trade funding into leveraged IBIT options blew up and caused the Feb 5, 2026 crash—is **plausible and gaining mainstream acceptance**. However, the specific dates and figures in the claim contain significant errors. The theory has been  Rating: ** **PLAUSIBLE** (with significant factual corrections needed)",
       "author": "Jai Research",
       "last_updated": "2026-02-10T20:17:09.285Z",
       "type": "scan"
@@ -942,9 +920,9 @@
       "path": "reports/fnma-fmcc-brief-2026-02-05.md",
       "category": "investment-research",
       "tags": [],
-      "description": "Fannie Mae (FNMA) and Freddie Mac (FMCC) have been in government conservatorship since **September 2008**. That's 17+ years. These two companies back roughly **$7 trillion** in mortgages\u2014nearly half of all US home loans.",
+      "description": "Fannie Mae (FNMA) and Freddie Mac (FMCC) have been in government conservatorship since **September 2008**. That's 17+ years. These two companies back roughly **$7 trillion** in mortgages—nearly half of all US home loans.",
       "visibility": "public",
-      "summary": "Fannie Mae (FNMA) and Freddie Mac (FMCC) have been in government conservatorship since **September 2008**. That's 17+ years. These two companies back roughly **$7 trillion** in mortgages\u2014nearly half of all US home loans.",
+      "summary": "Fannie Mae (FNMA) and Freddie Mac (FMCC) have been in government conservatorship since **September 2008**. That's 17+ years. These two companies back roughly **$7 trillion** in mortgages—nearly half of all US home loans.",
       "author": "Jai Research",
       "last_updated": "2026-02-10T20:17:09.286Z",
       "type": "scan"
