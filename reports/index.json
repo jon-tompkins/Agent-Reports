@@ -1,6 +1,28 @@
 {
   "reports": [
     {
+      "id": "eos-deep-dive-2026-03-04",
+      "title": "Eos Energy Enterprises (EOSE) Deep Dive",
+      "ticker": "EOSE",
+      "date": "2026-03-04",
+      "path": "reports/eos-deep-dive-2026-03-04.md",
+      "type": "deep-dive",
+      "category": "investment-research",
+      "tags": [
+        "energy-storage",
+        "batteries",
+        "zinc",
+        "clean-energy",
+        "high-growth"
+      ],
+      "description": "Deep dive on Eos Energy Enterprises - zinc-based battery storage leader with 7x revenue growth and massive backlog.",
+      "visibility": "public",
+      "summary": "EOSE is America's leading zinc battery maker for utility-scale storage. 7x revenue growth in 2025, guiding 00-400M in 2026. Strong cash position ($624M) after $1B raise. High-risk/high-reward clean energy play.",
+      "rating": "SPECULATIVE BUY",
+      "author": "Jai Research",
+      "last_updated": "2026-03-04T22:00:00Z"
+    },
+    {
       "id": "iran-defense-plays-2026-03-03",
       "title": "Iran Conflict Defense Plays",
       "date": "2026-03-03",
