@@ -11,7 +11,9 @@ Use this template for all equity research deep dives. Be objective in analysis, 
 # [SYMBOL] Deep Dive - [Company Name]
 **Date:** YYYY-MM-DD  
 **Rating:** [STRONG BUY | BUY | HOLD | SELL | STRONG SELL]  
+**Confidence:** [1-5] (see definitions below)
 **Price Target:** $XX (XX% upside/downside)  
+**Invalidation:** $XX (stop loss — thesis is wrong below this level)
 **Current Price:** $XX  
 **Risk Level:** [Low | Medium | High | Speculative]
 ```
@@ -211,3 +213,15 @@ Link to all sources used in the analysis:
 | **Medium** | Mid cap or growth stage, some execution risk |
 | **High** | Small cap, unprofitable, high volatility, binary outcomes |
 | **Speculative** | Micro cap, pre-revenue, or turnaround with significant uncertainty |
+
+## Confidence Level Definitions
+
+| Level | Meaning |
+|-------|---------|
+| **5** | Very high conviction — clear thesis, strong catalysts, high-quality data |
+| **4** | High conviction — solid thesis with minor uncertainties |
+| **3** | Moderate conviction — thesis is reasonable but gaps in data or mixed signals |
+| **2** | Low conviction — speculative, limited information, or conflicting indicators |
+| **1** | Very low conviction — essentially a gamble, thesis is weak or untestable |
+
+**Invalidation Price:** The price level where the investment thesis is considered broken. If price hits this level, exit the position regardless of other factors. Used for tracking and accountability.
