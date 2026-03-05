@@ -1,6 +1,27 @@
 {
   "reports": [
     {
+      "id": "BAC-deep-dive-2026-03-05",
+      "title": "BAC Deep Dive - Bank of America",
+      "ticker": "BAC",
+      "date": "2026-03-05",
+      "path": "reports/BAC-deep-dive-2026-03-05.md",
+      "category": "investment-research",
+      "tags": [
+        "financials",
+        "banks",
+        "large-cap",
+        "value",
+        "deep-dive"
+      ],
+      "description": "Trading team consensus analysis on Bank of America covering fundamentals, technicals, and valuation.",
+      "visibility": "public",
+      "summary": "BAC trading at 10x forward earnings with PEG 0.71. 9% monthly pullback on sector fears pushed RSI near oversold. Team consensus: TRADE with medium conviction. Entry $47-49.50, stop $44.50, target $55.",
+      "rating": "BUY",
+      "author": "Trading Team (Scout + Jeb + Ant)",
+      "last_updated": "2026-03-05T19:30:00Z"
+    },
+    {
       "id": "HOOD-deep-dive-2026-02-12",
       "title": "HOOD Deep Dive - Robinhood Markets, Inc.",
       "ticker": "HOOD",
