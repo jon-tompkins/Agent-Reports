@@ -1,6 +1,29 @@
 {
   "reports": [
     {
+      "id": "AAPL-deep-dive-2026-03-07",
+      "title": "AAPL Deep Dive - Apple Inc.",
+      "ticker": "AAPL",
+      "date": "2026-03-07",
+      "path": "reports/AAPL-deep-dive-2026-03-07.md",
+      "type": "deep-dive",
+      "category": "investment-research",
+      "tags": [
+        "mega-cap",
+        "technology",
+        "services",
+        "iPhone",
+        "AI",
+        "deep-dive"
+      ],
+      "description": "Full trading team analysis on Apple covering Services growth, iPhone 17 cycle, AI catalysts, and valuation.",
+      "visibility": "public",
+      "summary": "BUY $300 target. Scout: Services flywheel + AI catalyst. Jeb: Grade B (good business, fair valuation, prefer $230 entry). Ant: Grade 3 (neutral timing, wait for $250 test).",
+      "rating": "BUY",
+      "author": "Trading Team (Scout + Jeb + Ant)",
+      "last_updated": "2026-03-07T01:25:00Z"
+    },
+    {
       "id": "scout-retrospective-2026-03",
       "title": "Scout Retrospective — March 2026",
       "date": "2026-03-04",
