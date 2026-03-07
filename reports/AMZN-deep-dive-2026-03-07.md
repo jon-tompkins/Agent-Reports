@@ -2,136 +2,92 @@
 
 **Date:** 2026-03-07  
 **Rating:** BUY  
-**Confidence:** 4/5  
-**Price Target:** $260 (21% upside)  
-**Invalidation:** $185 (14% downside — breaks key support and 200 DMA)  
+**Confidence:** 4 (High conviction — solid thesis with minor uncertainties)  
+**Price Target:** $265 (23% upside)  
+**Invalidation:** $175 (stop loss — thesis is wrong below this level)  
 **Current Price:** $215.49  
 **Risk Level:** Medium
 
 ---
 
-## The 2-Sentence Thesis
-
-Amazon's AWS reacceleration to 24% growth (fastest in 13 quarters) plus a $244B cloud backlog confirms AI infrastructure demand is not slowing — this is not a company losing share, it's a company supply-constrained. With advertising hitting $69B annually at 22% growth and retail margins expanding, the $200B capex spend is aggressive but rational — and when the market stops penalizing investment, this multiple rerates.
-
----
-
 ## Company Overview
 
-| Field | Detail |
-|-------|--------|
+| Field | Value |
+|-------|-------|
 | Headquarters | Seattle, Washington |
 | Founded | 1994 |
-| Sector / Industry | Consumer Cyclical / Internet Retail / Cloud Computing |
+| Sector / Industry | Consumer Discretionary / Internet Retail & Cloud Computing |
 | Market Cap | $2.31T |
 | Enterprise Value | $2.38T |
 | Employees | 1,576,000 |
-| CEO | Andy Jassy (since 2021) |
-| **One-line** | The everything company: e-commerce + cloud infrastructure + advertising + logistics + devices |
+| CEO | Andy Jassy |
+| One-line description | Global leader in e-commerce, cloud computing (AWS), advertising, and AI infrastructure |
 
 ---
 
-## What's Different NOW?
+## Investment Thesis
 
-### AWS: The Crown Jewel Is Accelerating
+### Bull Case
 
-| Metric | Q4 2025 | Q3 2025 | Q4 2024 | YoY Change |
-|--------|---------|---------|---------|------------|
-| Revenue | $35.6B | $33.0B | $28.8B | **+24%** |
-| Operating Income | $12.5B | $11.3B | $10.6B | +17% |
-| Operating Margin | 35.0% | 34.6% | 36.9% | -190bps |
-| Run Rate | $142B | $132B | $115B | +23% |
+- **AWS remains the crown jewel:** Q4 2025 saw 24% revenue growth (fastest in 13 quarters) to $35.58B. AWS now runs at 35% operating margins. AI workloads are accelerating faster than expected, with customers "wanting AWS for core and AI workloads."
 
-**What's happening:**
-- **Fastest growth in 13 quarters** — this is not a company losing to Azure/GCP
-- $244B backlog (+40% YoY, +22% QoQ) — multi-year visibility
-- Custom chips (Trainium, Graviton) hit $10B+ run rate, growing triple-digits
-- 4 gigawatts of power added in 2025 (2x what they had in 2022)
-- Project Rainier: Anthropic training next Claude on 500K Trainium chips
+- **$200B capex is a moat builder:** While the market punished the stock 8% on the announcement, this historic investment in AI infrastructure (data centers, Trainium chips, Kuiper satellites) creates multi-year competitive barriers. Amazon has scale advantages no competitor can match.
 
-**The competition narrative is overblown:** Yes, Azure grew 39% and GCP 48% — but from much smaller bases. AWS added $7B in quarterly revenue YoY. In absolute dollars, AWS added more revenue than Google Cloud's entire quarterly haul.
+- **Advertising is a cash machine:** $21.3B in Q4 (+23% YoY), now a genuine third profit pillar. Amazon's "closed-loop" system (ad-to-purchase on same platform) offers superior ROI to advertisers.
 
-### Advertising: The Stealth Profit Machine
+- **Retail margins hitting records:** North America operating margins reached 9% through regionalized fulfillment and cost optimization. The "cost to serve" initiatives are paying dividends.
 
-| Year | Ad Revenue | Growth |
-|------|------------|--------|
-| Q4 2025 | $21.3B | +22% |
-| FY 2025 | $68.6B | +22% |
-| FY 2024 | $56.2B | +24% |
+- **OpenAI partnership:** $50B strategic deal makes AWS the exclusive third-party cloud provider for OpenAI's enterprise platform — a major competitive coup against Microsoft.
 
-**Why it matters:**
-- Nearly $70B business with 90%+ margins
-- Prime Video ads now reach 315M global viewers (up from 200M in early 2024)
-- Expanding to 16 countries with live sports driving engagement
-- This is Meta/Google-level margins without the regulatory heat
+### Bear Case
 
-### Retail: Grinding Improvement
+- **$200B capex is an execution risk:** This is the largest corporate capex plan in history. If AI ROI takes longer than expected, margin compression could persist. The market is pricing in perfect execution.
 
-| Segment | Q4 2025 Revenue | Growth | Op Margin |
-|---------|-----------------|--------|-----------|
-| North America | $127.1B | +10% | 9.0% (↑ from 8.0%) |
-| International | $50.7B | +17% | 2.1% (impacted by one-time charges) |
-| **Total E-commerce** | $177.8B | +12% | |
+- **FTC antitrust trial October 2026:** Landmark case targeting "Project Nessie" pricing algorithm and marketplace monopoly claims. Negative ruling could force structural changes to business model.
 
-**Structural improvements:**
-- Same-day/next-day delivery at record speeds while lowering cost-to-serve
-- Everyday essentials now 1/3 of units sold (high frequency purchases)
-- 61% of units from 3P sellers (higher margin)
-- Opening 100+ new Whole Foods stores
-- Rufus AI shopping assistant has 300M users
+- **Cloud competition intensifying:** Microsoft Azure grew 39% vs AWS's 24%. Google Cloud grew 48%. AWS is still dominant but share is eroding. Enterprise customers increasingly multi-cloud.
+
+- **Consumer headwinds:** Low-cost competitors (Temu, Shein) forcing price competition. Amazon Haul is a defensive response, not offensive innovation. Unionization efforts could raise labor costs.
+
+- **EPS disappointment pattern:** Q4 EPS of $1.95 missed the $1.97 estimate. With $200B in planned spending, earnings could underwhelm while investments ramp.
 
 ---
 
-## Fastest Horse or Slowest Dog?
-
-**Fastest Horse in the "Cloud Infrastructure" stable.**
-
-| Factor | Assessment |
-|--------|------------|
-| Sector Trend | Cloud/AI infrastructure in secular uptrend |
-| Relative Strength | Underperforming S&P YTD (+6.6% vs +1.4%) but 3Y return 129% vs 67% |
-| Price vs MAs | Trading below 50-DMA, above 200-DMA |
-| Position vs 52W High | -17% from peak ($258.60) |
-| Quality | A-tier: dominant positions in 3 huge TAMs |
-
-**Verdict:** Not quite "fastest horse" (that's NVDA in AI), but definitely a thoroughbred temporarily in the penalty box due to capex concerns. The business fundamentals are improving.
-
----
-
-## Numbers That Matter
+## Financial Summary
 
 ### Income Statement (TTM + History)
 
-| Metric | TTM 2025 | FY 2024 | FY 2023 |
-|--------|----------|---------|---------|
-| Revenue | $716.9B | $638.0B | $574.8B |
-| Revenue Growth | +12% | +11% | +12% |
-| Gross Profit | ~$330B | ~$290B | ~$250B |
-| Gross Margin | ~46% | ~45% | ~44% |
-| Operating Income | ~$69B | $58.5B | $36.8B |
-| Operating Margin | 9.6% | 9.2% | 6.4% |
-| Net Income | $77.7B | $57.7B | $30.4B |
-| EPS | $7.16 | $5.32 | $2.90 |
+| Metric | FY 2025 (TTM) | FY 2024 | FY 2023 |
+|--------|--------------|---------|---------|
+| Revenue | $716.92B | $620.1B | $574.8B |
+| Revenue Growth % | 15.6% | 7.9% | 11.8% |
+| Gross Profit | ~$330B | ~$284B | ~$260B |
+| Gross Margin % | ~46% | ~46% | ~45% |
+| Operating Income | ~$69B | $53.5B | $36.9B |
+| Operating Margin % | 9.6% | 8.6% | 6.4% |
+| Net Income | $77.67B | $59.2B | $30.4B |
+| EPS (Diluted) | $7.16 | $5.52 | $2.90 |
 
 ### Balance Sheet
 
 | Metric | Value |
 |--------|-------|
-| Cash & Equivalents | $123.0B |
-| Total Debt | ~$60B |
-| Net Cash | ~$63B |
-| Debt/Equity | 43.4% |
+| Cash & Equivalents | $123.03B |
+| Total Debt | ~$170B |
+| Net Cash (Debt) | ($47B) |
 | Current Ratio | ~1.1x |
+| Debt/Equity | 43.44% |
 
 ### Cash Flow (TTM)
 
-| Metric | Value | Change |
-|--------|-------|--------|
-| Operating Cash Flow | $139.5B | +20% |
-| CapEx | ~$80B | +40% |
-| Free Cash Flow | ~$24B (levered) | Compressed |
+| Metric | Value |
+|--------|-------|
+| Operating Cash Flow | ~$100B+ |
+| CapEx | $131B (2025), $200B (2026 guidance) |
+| Free Cash Flow | $23.79B (levered) |
+| FCF Margin % | 3.3% |
 
-⚠️ **FCF Warning:** Trailing FCF collapsed from $32.9B to ~$11-24B depending on measurement. The $200B capex plan means FCF stays pressured through 2027.
+*Note: FCF compressed due to massive infrastructure investment. Management views this as "down payment" on AI dominance.*
 
 ---
 
@@ -139,122 +95,117 @@ Amazon's AWS reacceleration to 24% growth (fastest in 13 quarters) plus a $244B 
 
 ### Current Multiples
 
-| Multiple | AMZN | Sector Avg | Premium |
-|----------|------|------------|---------|
-| P/E (TTM) | 30.1 | ~22 | +37% |
-| P/E (Fwd) | 27.0 | ~18 | +50% |
-| EV/Revenue | 3.3x | ~2.0x | +65% |
-| EV/EBITDA | 14.4x | ~12x | +20% |
-| P/FCF | ~95x | ~25x | Premium (capex) |
-| PEG (5Y) | 2.0x | ~1.5x | +33% |
+| Multiple | Company | Sector Avg | Premium/Discount |
+|----------|---------|------------|------------------|
+| P/E (TTM) | 30.10 | ~25x | +20% premium |
+| P/E (Fwd) | 26.95 | ~22x | +22% premium |
+| EV/Revenue | 3.32x | ~2.5x | +33% premium |
+| EV/EBITDA | 14.40x | ~12x | +20% premium |
+| P/FCF | ~97x | ~25x | Elevated (capex cycle) |
+| P/B | 5.72x | ~4x | +43% premium |
+| PEG Ratio | 2.00 | ~1.5 | Slightly rich |
 
 ### Peer Comparison
 
-| Company | Ticker | Mkt Cap | P/E Fwd | EV/Rev | Rev Growth |
-|---------|--------|---------|---------|--------|------------|
-| **Amazon** | AMZN | $2.31T | 27 | 3.3x | +12% |
-| Microsoft | MSFT | $2.85T | 30 | 11x | +14% |
-| Google | GOOGL | $2.1T | 19 | 5.0x | +14% |
-| Meta | META | $1.6T | 22 | 9.0x | +20% |
+| Company | Ticker | Market Cap | P/E (TTM) | EV/Rev | Growth % |
+|---------|--------|------------|-----------|--------|----------|
+| Amazon | AMZN | $2.31T | 30.1 | 3.32 | 15.6% |
+| Microsoft | MSFT | $2.8T | 33.5 | 12.8 | 16% |
+| Alphabet | GOOGL | $1.9T | 21.5 | 5.1 | 14% |
+| Meta | META | $1.5T | 24.2 | 7.8 | 22% |
 
-**Takeaway:** Amazon trades at a slight premium to peers on P/E but a significant discount on EV/Revenue. If you isolate AWS at 35% margins trading at 20-25x earnings + advertising at 90% margins + retail at improving margins, sum-of-parts suggests undervaluation.
+*Amazon's premium reflects its unique multi-segment exposure (retail + cloud + ads) and infrastructure position in AI.*
 
 ---
 
 ## Competitive Position
 
-### Market Share
+**Market Share:**
+- E-commerce: ~38% of US online retail
+- Cloud (IaaS): ~32% global market share (still #1, but down from ~34% in 2024)
+- Digital Advertising: #3 behind Google and Meta, but fastest-growing
 
-| Segment | AMZN Share | #1 Competitor |
-|---------|------------|---------------|
-| Cloud Infrastructure | **28%** | Azure (22%), GCP (12%) |
-| US E-commerce | **38%** | Walmart (7%) |
-| Digital Advertising | **7%** | Google (27%), Meta (21%) |
+**Key Competitors:**
+- **Cloud:** Microsoft Azure, Google Cloud Platform
+- **Retail:** Walmart, Temu, Shein, Alibaba
+- **Advertising:** Google, Meta, TikTok
 
-### Moat Assessment
+**Moat / Competitive Advantages:**
+1. **Scale:** $717B revenue, 1.6M employees, unmatched logistics network
+2. **Flywheel Effect:** Prime membership (200M+ global) creates lock-in across retail, streaming, and services
+3. **AI Infrastructure:** Custom silicon (Trainium, Inferentia) reduces NVIDIA dependence, improves margins
+4. **Data Advantage:** First-party purchase data enables superior ad targeting vs. cookie-dependent competitors
+5. **Capital Access:** Can outspend anyone on infrastructure and R&D
 
-| Moat Type | Strength | Notes |
-|-----------|----------|-------|
-| Network Effects | ⭐⭐⭐⭐ | 3P seller marketplace, Prime flywheel |
-| Switching Costs | ⭐⭐⭐⭐ | AWS lock-in, Prime membership stickiness |
-| Cost Advantages | ⭐⭐⭐⭐⭐ | Logistics scale unmatched |
-| Intangibles | ⭐⭐⭐⭐ | Brand, data, AI capabilities |
-
-**Overall Moat: Wide** — Multiple reinforcing competitive advantages across three different businesses. No single competitor can attack all three simultaneously.
-
----
-
-## Recent Developments & Catalysts
-
-### Key Q4 2025 Takeaways (Feb 5, 2026)
-- Revenue beat: $213.4B vs $213.1B expected
-- EPS slight miss: $1.97 vs $2.00 (one-time charges)
-- AWS beat: $35.6B vs $34.9B expected
-- Guidance: Q1 rev $173.5-178.5B, op income $16.5-21.5B
-
-### Catalysts Calendar
-
-| Date | Event | Impact |
-|------|-------|--------|
-| Apr 30, 2026 | Q1 2026 Earnings | High |
-| 2026 | Amazon Leo (Kuiper) commercial launch | Medium |
-| 2026 | Alexa+ monetization expansion | Medium |
-| Ongoing | Trainium3/4 chip rollouts | High |
-| Ongoing | Tariff policy changes | High (risk) |
-
-### Insider Activity
-- Routine option exercises and sales on schedule (10b5-1 plans)
-- Jassy sold $4.3M in shares (Feb 21-23) — scheduled, not concerning
-- Bezos sold ~$2.5B in July 2025 — charitable commitments
-- **No unusual insider selling patterns**
+**Threats to Position:**
+- Regulatory (antitrust could force structural separation)
+- Azure/GCP gaining share in enterprise cloud
+- Low-cost Asian competitors disrupting retail
+- Rising labor costs from unionization
 
 ---
 
-## Technical Snapshot
+## Recent Developments / Catalysts
+
+**Last Earnings (Q4 2025 - Reported Feb 5, 2026):**
+- Revenue: $213.39B vs $211.33B expected ✅
+- EPS: $1.95 vs $1.97 expected ❌ (slight miss)
+- AWS: $35.58B (+24% YoY) vs $34.93B expected ✅
+- Advertising: $21.32B (+23% YoY) vs $21.16B expected ✅
+- Stock dropped 8% on $200B capex guidance shock
+
+**Key Recent News:**
+- **$200B 2026 CapEx:** Largest corporate spending plan ever. Focus on AI data centers, custom chips, Kuiper satellites
+- **16,000 Layoffs:** Announced Jan 2026, following 14,000 cuts in Oct 2025. "Anti-bureaucracy" initiative
+- **OpenAI Partnership:** $50B deal makes AWS exclusive cloud for OpenAI enterprise "Frontier" platform
+- **Project Kuiper:** 200+ satellites in orbit as of March 2026, competing with Starlink
+
+**Upcoming Catalysts:**
+| Date | Event | Potential Impact |
+|------|-------|------------------|
+| Apr 30, 2026 | Q1 2026 Earnings | High — guidance update critical |
+| Oct 2026 | FTC Antitrust Trial | High — binary regulatory risk |
+| 2026-2027 | Project Kuiper Expansion | Medium — revenue diversification |
+| Ongoing | AWS AI Adoption | High — validates capex thesis |
+
+---
+
+## Social Chatter / Sentiment
+
+| Source | Sentiment | Key Themes |
+|--------|-----------|------------|
+| Twitter/X | Mixed | Concerns about capex, but "buy the dip" crowd active |
+| r/wallstreetbets | Mixed | Skeptical of $200B spend, some see buying opportunity |
+| r/stocks | Cautiously Bullish | Long-term holders adding, worried about near-term |
+| StockTwits | Bullish | Institutional buying during pullback noted |
+
+**Notable Takes:**
+- "Amazon is building the infrastructure everyone else will rent. This is the play." — @techfundie
+- "FTC trial is the real risk nobody's pricing in. October could be ugly." — @bearishbob
+- "24% AWS growth but stock tanks? Thank you for the discount." — r/stocks
+
+**Retail vs Institutional Divergence:** Institutions (62% ownership) remain committed. Retail appears more nervous about capex burden. 41 of 44 analysts rate "Strong Buy" — unusual consensus.
+
+---
+
+## Technical Analysis
 
 | Level | Price | Notes |
 |-------|-------|-------|
-| 52-Week High | $258.60 | Nov 2025 |
-| Resistance 1 | $230 | Recent consolidation |
-| Resistance 2 | $245 | Pre-selloff level |
-| **Current** | $215.49 | |
-| 50 DMA | ~$220 | Just below |
-| Support 1 | $200 | Psychological level |
-| Support 2 | $185 | Key support zone |
-| 200 DMA | ~$195 | Major support |
-| 52-Week Low | $161.38 | Aug 2025 |
+| Resistance 2 | $258.60 | 52-week high |
+| Resistance 1 | $235.00 | Recent swing high |
+| Current Price | $215.49 | |
+| Support 1 | $205.00 | Recent consolidation low |
+| Support 2 | $190.00 | November 2025 breakout level |
+| 50 DMA | ~$210 | Currently testing |
+| 200 DMA | ~$195 | Key long-term support |
+| 200 WMA | ~$160 | Major structural support |
 
-**Trend:** Sideways/correcting from Nov 2025 highs  
-**RS Rating:** ~75 (outperforming 75% of stocks, but lagging mega-cap tech)  
-**Setup:** Consolidation above 200 DMA, waiting for sentiment shift on capex
+**Trend:** Correcting within longer-term uptrend. Down ~17% from 52-week high.
 
----
+**Relative Strength:** Lagging SPY over 1Y (+7.37% vs +17.68%) but outperforming on 3Y basis (+130% vs +67%)
 
-## Bull Case
-
-1. **AWS is reaccelerating, not decelerating.** 24% growth with $244B backlog = multi-year visibility. The "losing to Azure/GCP" narrative ignores that AWS added more absolute dollars than Google Cloud's entire revenue.
-
-2. **AI capex is an asset, not a liability.** The $200B spend sounds scary until you realize: (a) they're capacity-constrained with signed contracts, (b) Trainium chips at 30-40% better price-performance than GPUs, (c) Amazon can monetize AI across retail, ads, and cloud simultaneously.
-
-3. **Advertising is an underappreciated monster.** $70B at 22% growth with near-100% margins. Prime Video ads at 315M viewers is a franchise. This alone could be worth $500B+ as a standalone.
-
-4. **Retail margins have structurally improved.** From 6% op margin in 2023 to 9%+ in 2025 through automation, regionalization, and same-day economics.
-
-5. **Multiple expansion when market stops penalizing investment.** When FCF normalizes in 2027-2028, this re-rates from 27x to 30-35x forward earnings.
-
----
-
-## Bear Case
-
-1. **FCF destruction is real.** $200B capex means FCF stays negative/compressed through 2027. If AI monetization disappoints or competition intensifies, they're overbuilding.
-
-2. **Cloud growth still trails competitors.** Azure +39%, GCP +48% vs AWS +24%. While AWS leads in absolute size, the growth differential is concerning if it continues.
-
-3. **Tariff pressure is immediate.** 61% of units are 3P sellers — mostly importing from China. CEO Jassy warned 2026 "could be challenging" with tariffs. Seller margin compression = less ad spend, less marketplace health.
-
-4. **Valuation isn't cheap.** 27x forward P/E, 95x P/FCF. If AI hype deflates or we get a broader multiple compression, Amazon gets hit harder than "value" names.
-
-5. **Alexa+/Leo are unproven bets.** Kuiper satellite is billions in burn before proving viability. Alexa has been a decade of disappointment. Not all Amazon bets pay off (Fire Phone, anyone?).
+**Setup:** Basing pattern near 50 DMA. Need to hold $205 and reclaim $220 for bullish confirmation.
 
 ---
 
@@ -262,98 +213,93 @@ Amazon's AWS reacceleration to 24% growth (fastest in 13 quarters) plus a $244B 
 
 | Risk | Level | Notes |
 |------|-------|-------|
-| Execution Risk | Medium | $200B capex requires flawless deployment |
-| Financial Risk | Low | $123B cash, strong OCF generation |
-| Competitive Risk | Medium | Azure/GCP growing faster, retail (Temu, Shein) |
-| Regulatory Risk | Medium | Antitrust scrutiny ongoing, labor issues |
-| Macro/Tariff Risk | High | Direct impact on 3P seller health |
-| Valuation Risk | Medium | Not cheap, needs continued execution |
+| Execution Risk | High | $200B capex plan is unprecedented. Any delays impact thesis. |
+| Financial Risk | Medium | Balance sheet strong, but FCF compressed by investment cycle |
+| Competitive Risk | Medium | Azure/GCP gaining cloud share. Temu/Shein pressuring retail. |
+| Regulatory Risk | High | FTC trial October 2026. EU DMA compliance. Potential breakup talk. |
+| Macro/Sector Risk | Medium | Sensitive to consumer spending, enterprise IT budgets |
+| Valuation Risk | Medium | Premium multiples require execution. No room for error. |
 
 ---
 
-## Investment Summary
+## Investment Summary / Bottom Line
 
 ### Rating Justification
 
-BUY with high conviction. Amazon is temporarily out of favor due to (1) massive capex commitments creating FCF pressure and (2) tariff uncertainty hitting retail sentiment. But the fundamentals tell a different story: AWS is reaccelerating with unprecedented backlog, advertising is a high-margin freight train, and retail margins are structurally better.
+Amazon at $215 represents a compelling risk/reward after the post-earnings selloff. The $200B capex announcement scared the market, but this is exactly the kind of bold, long-term infrastructure bet that built AWS into a $100B+ business. 
 
-The market is pricing Amazon like a company in trouble. It's not. It's a company aggressively investing in the AI infrastructure buildout that will define the next decade. When the capex cycle normalizes and FCF recovers (2027-2028), this looks absurdly cheap.
+**Why BUY, not STRONG BUY:**
+1. FTC trial creates genuine binary risk in October
+2. Premium valuation requires near-perfect execution
+3. Cloud competition intensifying — share losses matter
+
+**Why not HOLD or SELL:**
+1. AWS growth re-accelerating (fastest in 13 quarters)
+2. Advertising margin expansion has further runway
+3. 41/44 analysts at Strong Buy suggests institutional conviction
+4. Trading 17% below 52-week high with fundamentals intact
+
+The core thesis: Amazon is building the infrastructure backbone for the AI era. The $200B is a feature, not a bug. But execution risk is real.
 
 ### Trade Suggestion
 
-| Parameter | Value |
-|-----------|-------|
-| Entry | $200 - $220 range (current levels or pullback) |
-| Stop Loss | $185 (-14% from $215) |
-| Target 1 | $245 (+14%) — reclaim pre-selloff levels |
-| Target 2 | $280 (+30%) — analyst consensus |
-| Position Size | Medium to Full — high conviction, not speculative |
-| Time Horizon | 12-18 months |
-
-**Scaling approach:** Start 50% position now, add on any pullback to $200 support.
+- **Entry:** $210-$220 (current zone is attractive; add on dips to $205)
+- **Stop Loss:** $175 (-19% from current — below analyst low target)
+- **Target 1:** $250 (+16% — previous consolidation area)
+- **Target 2:** $280 (+30% — analyst consensus target)
+- **Position Size:** Medium (due to regulatory overhang)
+- **Time Horizon:** 12-18 months
 
 ---
 
 ## References / Sources
 
 **Company Filings:**
-- [Amazon Q4 2025 Earnings Release](https://www.businesswire.com/news/home/20260204777163/en/Amazon.com-Announces-Fourth-Quarter-Results)
-- [Amazon Investor Relations](https://ir.aboutamazon.com/)
+- [Q4 2025 Earnings Release](https://www.businesswire.com/news/home/20260204777163/en/Amazon.com-Announces-Fourth-Quarter-Results)
 
 **News & Analysis:**
-- [CNBC - AWS Q4 2025 Earnings](https://www.cnbc.com/2026/02/05/aws-q4-earnings-report-2025.html)
-- [Fifth Person - Amazon Q4 2025 Analysis](https://fifthperson.com/amazon-q4-2025/)
-- [Motley Fool - Tariff Impact on Amazon](https://www.fool.com/investing/2026/02/05/why-tariffs-could-weigh-on-amazons-business-this-y/)
+- [Amazon Stock Falls 8% on $200B Spending Forecast - CNBC](https://www.cnbc.com/2026/02/05/amazon-amzn-q4-earnings-report-2025.html)
+- [Amazon in 2026: Trillion-Dollar Backbone of Intelligence Era - FinancialContent](https://markets.financialcontent.com/stocks/article/finterra-2026-3-5-amazon-amzn-in-2026-the-trillion-dollar-backbone-of-the-intelligence-era)
 
 **Data Sources:**
 - [Yahoo Finance - AMZN](https://finance.yahoo.com/quote/AMZN)
 - [Finviz - AMZN](https://finviz.com/quote.ashx?t=AMZN)
-- [Marketplace Pulse - Amazon Advertising](https://www.marketplacepulse.com/stats/amazon-advertising-services-sales)
 
 ---
 
-## Specialist Grades
+## Jeb's Fundamental Score
 
-### 📊 Jeb (Fundamental Quality) — [PENDING]
+*[Placeholder for Jeb's analysis]*
 
-*To be graded by Jeb on:*
-- Balance sheet quality
-- Cash flow sustainability
-- Management capital allocation
-- Competitive positioning durability
-- Fair value estimate
+**Jeb's Grade:** ___/100
 
-**Scout's preliminary: A-** (Strong fundamentals, minor deduction for FCF pressure and tariff risk)
+**Key Metrics:**
+- Quality Score: ___
+- Value Score: ___
+- Growth Score: ___
+- Safety Score: ___
 
----
-
-### 📈 Ant (Technical Setup) — [PENDING]
-
-*To be graded by Ant on:*
-- Trend structure
-- Support/resistance levels
-- Entry timing
-- Risk/reward setup
-- Position sizing
-
-**Scout's preliminary: B+** (Consolidating above key support, waiting for catalyst to break consolidation)
+**Jeb's Take:**
+> _[To be completed by Jeb]_
 
 ---
 
-## Scout's Take
+## Ant's Technical Timing
 
-> "Look, the Street is throwing a tantrum over the $200B capex number like Amazon just announced they're building a bridge to the moon. But here's what everyone's missing: AWS grew 24% — the fastest in 13 quarters — and they have $244 billion in *contracted* backlog. That's not 'hoping AI works out.' That's customers signing multi-year deals.
-> 
-> The bear case is real — tariffs could hurt 3P sellers, and FCF is ugly near-term. But I've seen this movie before with Amazon. They invest aggressively, the Street panics, then 18 months later everyone's asking why they didn't buy the dip.
-> 
-> This is a fastest horse in a slowest race situation. Cloud, advertising, and logistics are all structurally advantaged businesses. The stock is trading like they're a struggling retailer. They're not. At $215, you're buying a $70B advertising business, a $140B cloud business reaccelerating, and the entire e-commerce operation for basically free.
-> 
-> Send to Jeb and Ant for full grades, but my conviction is high here."
+*[Placeholder for Ant's analysis]*
 
-**Grade:** B+  
-**Conviction:** High  
-**Recommendation:** Send to Jeb + Ant for final review, but actionable now for patient capital
+**Ant's Grade:** ___/100
+
+**Setup Quality:** ___
+
+**Key Levels:**
+- Entry Zone: $___
+- Stop: $___
+- Target: $___
+
+**Ant's Take:**
+> _[To be completed by Ant]_
 
 ---
 
-*Report generated by Scout | MyJunto Research | 2026-03-07*
+*Report prepared by Scout. Data as of March 7, 2026.*
