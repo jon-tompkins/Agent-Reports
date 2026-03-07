@@ -1,6 +1,29 @@
 {
   "reports": [
     {
+      "id": "TSLA-deep-dive-2026-03-07",
+      "title": "TSLA Deep Dive - Tesla, Inc.",
+      "ticker": "TSLA",
+      "date": "2026-03-07",
+      "path": "reports/TSLA-deep-dive-2026-03-07.md",
+      "type": "deep-dive",
+      "category": "investment-research",
+      "tags": [
+        "mega-cap",
+        "EV",
+        "AI",
+        "autonomy",
+        "high-risk",
+        "deep-dive"
+      ],
+      "description": "Full team analysis on Tesla covering FSD/robotaxi thesis, margin compression, and binary valuation.",
+      "visibility": "public",
+      "summary": "HOLD. Scout: 364x P/E bet on autonomy/AI optionality. Jeb: Grade D (great balance sheet, insane valuation). Ant: Grade 2 (poor timing, wait for $360 or $450 breakout).",
+      "rating": "HOLD",
+      "author": "Trading Team (Scout + Jeb + Ant)",
+      "last_updated": "2026-03-07T01:45:00Z"
+    },
+    {
       "id": "AAPL-deep-dive-2026-03-07",
       "title": "AAPL Deep Dive - Apple Inc.",
       "ticker": "AAPL",
