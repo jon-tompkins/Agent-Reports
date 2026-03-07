@@ -1,6 +1,28 @@
 {
   "reports": [
     {
+      "id": "AAPL-deep-dive-2026-03-07",
+      "title": "AAPL Deep Dive - Apple Inc.",
+      "ticker": "AAPL",
+      "date": "2026-03-07",
+      "path": "reports/AAPL-deep-dive-2026-03-07.md",
+      "category": "investment-research",
+      "tags": [
+        "mega-cap",
+        "technology",
+        "services",
+        "iPhone",
+        "AI",
+        "deep-dive"
+      ],
+      "description": "Full trading team analysis on Apple covering Services growth, iPhone 17 cycle, AI catalysts, and valuation with Scout + Jeb + Ant perspectives.",
+      "visibility": "public",
+      "summary": "AAPL at $257 trading at 32.6x P/E. Scout rates BUY with $300 target. Jeb grades B (Conviction 3) - exceptional business but fair-to-rich valuation, prefers $230-235 entry. Ant grades 3 (Neutral) - wait for $250 test or 50 DMA reclaim.",
+      "rating": "BUY",
+      "author": "Trading Team (Scout + Jeb + Ant)",
+      "last_updated": "2026-03-07T01:25:00Z"
+    },
+    {
       "id": "BAC-deep-dive-2026-03-05",
       "title": "BAC Deep Dive - Bank of America",
       "ticker": "BAC",
