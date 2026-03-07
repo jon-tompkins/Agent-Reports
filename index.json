@@ -1,6 +1,52 @@
 {
   "reports": [
     {
+      "id": "AMZN-deep-dive-2026-03-07",
+      "title": "AMZN Deep Dive - Amazon.com, Inc.",
+      "ticker": "AMZN",
+      "date": "2026-03-07",
+      "path": "reports/AMZN-deep-dive-2026-03-07.md",
+      "category": "investment-research",
+      "tags": [
+        "mega-cap",
+        "technology",
+        "AWS",
+        "AI",
+        "e-commerce",
+        "cloud",
+        "deep-dive"
+      ],
+      "description": "Full trading team analysis on Amazon covering AWS reacceleration, $200B capex commitment, AI infrastructure buildout, and retail margin expansion.",
+      "visibility": "public",
+      "summary": "Amazon is the AI era infrastructure backbone — AWS growth reaccelerated to 24% (fastest in 13 quarters) while retail margins hit record 9%. The $200B capex commitment scared the market (-8%), but this is the company betting massively on AI dominance. Rating: BUY with $280 target (30% upside).",
+      "rating": "BUY",
+      "author": "Trading Team (Scout + Jeb + Ant)",
+      "last_updated": "2026-03-07T19:00:00Z"
+    },
+    {
+      "id": "TSLA-deep-dive-2026-03-07",
+      "title": "TSLA Deep Dive - Tesla, Inc.",
+      "ticker": "TSLA",
+      "date": "2026-03-07",
+      "path": "reports/TSLA-deep-dive-2026-03-07.md",
+      "category": "investment-research",
+      "tags": [
+        "mega-cap",
+        "EV",
+        "autonomy",
+        "robotics",
+        "AI",
+        "FSD",
+        "deep-dive"
+      ],
+      "description": "Full trading team analysis on Tesla covering autonomy bet, FSD progress, Optimus robots, EV margin compression, and binary outcome scenarios.",
+      "visibility": "public",
+      "summary": "Tesla is a $1.5T bet that autonomy (robotaxis + FSD) and AI (Optimus) will dwarf the legacy EV business. Trading at 364x TTM earnings means you're betting Elon delivers on the sci-fi vision within 2-3 years. Rating: HOLD with $380-$450 wide target range reflecting binary outcomes.",
+      "rating": "HOLD",
+      "author": "Trading Team (Scout + Jeb + Ant)",
+      "last_updated": "2026-03-07T19:00:00Z"
+    },
+    {
       "id": "AAPL-deep-dive-2026-03-07",
       "title": "AAPL Deep Dive - Apple Inc.",
       "ticker": "AAPL",
