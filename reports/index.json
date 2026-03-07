@@ -1,6 +1,29 @@
 {
   "reports": [
     {
+      "id": "AMZN-deep-dive-2026-03-07",
+      "title": "AMZN Deep Dive - Amazon.com, Inc.",
+      "ticker": "AMZN",
+      "date": "2026-03-07",
+      "path": "reports/AMZN-deep-dive-2026-03-07.md",
+      "type": "deep-dive",
+      "category": "investment-research",
+      "tags": [
+        "mega-cap",
+        "cloud",
+        "AWS",
+        "AI",
+        "retail",
+        "deep-dive"
+      ],
+      "description": "Analysis of Amazon covering AWS reacceleration, $200B capex commitment, and AI infrastructure thesis.",
+      "visibility": "public",
+      "summary": "BUY $280 target. AWS 24% growth (fastest in 13 quarters), $200B capex bet on AI. Stock -8% on capex news = buying opportunity.",
+      "rating": "BUY",
+      "author": "Trading Team (Scout)",
+      "last_updated": "2026-03-07T01:55:00Z"
+    },
+    {
       "id": "TSLA-deep-dive-2026-03-07",
       "title": "TSLA Deep Dive - Tesla, Inc.",
       "ticker": "TSLA",
