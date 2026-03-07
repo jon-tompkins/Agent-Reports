@@ -291,23 +291,69 @@ The $50 question: Would you pay $1.5 trillion for this business today, knowing m
 
 ---
 
-## Jeb's Grade (Fundamental)
-*[PLACEHOLDER — awaiting Jeb's analysis]*
+## Jeb's Fundamental Grade
 
-**Key questions for Jeb:**
-- What's the implied revenue for Energy segment to justify even half this valuation?
-- Path to 20%+ operating margins?
-- Realistic FSD revenue timeline?
+**Business Quality: B-**
+
+Tesla is a real business — not a meme. $95B revenue, $44B cash, debt/equity of 0.18. The balance sheet is fortress-strong, and they've built genuine competitive advantages: vertical integration, manufacturing innovation, data moat from billions of FSD miles. That's impressive.
+
+But the cracks are showing. Gross margins compressed from 25%+ to 18%. Operating margin at 5% — barely. EPS down 47% YoY. The core auto business is mature and facing commoditization. BYD is eating their lunch globally while selling at half the price. The supercharger network — once a true moat — is now industry standard via NACS adoption. Scout's right: the moat is eroding.
+
+**Valuation Opinion: Untouchable**
+
+Here's where I get blunt. At $1.5T market cap and $4B net income, you're paying 364x earnings. That's not investing — that's paying for science fiction.
+
+Let me do the math Scout hinted at: Tesla would need to generate ~$40B annual net income (10x current) just to trade at 37x P/E — still a premium multiple. That requires either robotaxis at massive scale or Optimus generating real revenue. Neither exists today outside Elon's tweets.
+
+On current fundamentals — actual cash flows, actual business — this is a $100-150B company. Call it $30-40/share. You're paying 10x that for optionality on businesses that may never materialize.
+
+**Key Risks (Value Lens):**
+1. **Valuation compression** — 364x leaves zero margin for error. One missed quarter and this drops 30%.
+2. **Margin deterioration** — 5% operating margin on a "tech" company is auto-sector economics.
+3. **Key person concentration** — Musk running 5 companies isn't a feature, it's a risk.
+4. **Competition** — BYD's 5-minute charging and Waymo's actual robotaxis matter.
+
+**The Buffett Question:** Would I buy this entire business for $1.5T? Absolutely not. I'd be getting $4B in earnings and praying Elon delivers on timelines he's missed for a decade.
+
+**Grade: D | Conviction: 4/5**
+
+Good business. Terrible price. Scout's right that this is a trading vehicle, not an investment. At $350? Maybe worth a look. At $150? I'd back up the truck. At $400? I'd rather own BYD at 20x earnings or just buy the S&P and sleep soundly.
+
+Pass.
 
 ---
 
 ## Ant's Grade (Technical)
-*[PLACEHOLDER — awaiting Ant's analysis]*
 
-**Key questions for Ant:**
-- Is the 200 DMA holding or breaking?
-- Volume pattern suggesting accumulation or distribution?
-- Options flow sentiment?
+**Grade: 2/5 — Poor Timing. Wait for confirmation.**
+
+### Current Structure & Trend
+TSLA is in a clear corrective phase — lower highs since the $498 November peak, now compressed against the 200 DMA. This is a textbook "dead zone" entry: downtrend momentum meeting support, but no reversal confirmation. The 50 DMA ($427) slopes down and acts as overhead resistance. Until that reclaims, rallies are sells, not buys.
+
+### Key Levels
+
+| Level | Price | Significance |
+|-------|-------|--------------|
+| Resistance 2 | $450 | Nov rejection, psychological |
+| Resistance 1 | $420-427 | 50 DMA confluence, must reclaim |
+| **Current** | **$396.73** | |
+| 200 DMA | $392 | Critical inflection — holding by a thread |
+| Support 1 | $380 | Multiple tests, volume shelf |
+| Support 2 | $350 | Major support, better entry zone |
+| Breakdown | $300 | Structure destroyed below here |
+
+### Volume Read
+Average volume, no capitulation. That's the problem — no washout = no clean reversal. Distribution has been methodical since November, not panicked. Accumulation would show on 200 DMA tests with volume expansion. I don't see it.
+
+### Entry Zones & Stops
+**Aggressive Entry:** $350-360 (Support 2 test) — Stop at $299, target $420. Risk/reward ~2:1.  
+**Conservative Entry:** Wait for close above $427 (50 DMA reclaim) — Stop at $390, target $480.  
+**Current price ($396):** Bad entry. Stop placement awkward (below $380 = 4% risk for unclear upside).
+
+### Timing Assessment
+Scout's right that this is a trading vehicle, not an investment. But right NOW you're buying into falling knives at support with no confirmation. If you love the fundamental thesis, wait for either (1) the $350 support test for better risk/reward, or (2) strength confirmation above $427.
+
+**Bottom line:** Good stock for a trade. Bad time to start one.
 
 ---
 
