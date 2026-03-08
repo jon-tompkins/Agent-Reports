@@ -22,19 +22,29 @@ Devon Energy is a premier US shale producer positioned to benefit significantly 
 
 ### The Catalyst
 The US-Israeli strikes on Iran have effectively shut down the Strait of Hormuz:
-- **~20% of global oil supply at risk** (16 mb/d after pipeline offsets)
-- **Traffic down 80%+** with tankers refusing transit
-- Oil jumped from $73 → $79+ in days; Goldman sees $15+ upside in full closure scenario
-- Insurance withdrawal = de facto closure even without military blockade
+- **~20% of global oil/LNG supply at risk** (14+ mb/d through Hormuz daily)
+- **Traffic effectively halted** — insurance withdrawal = de facto closure
+- **WTI spiked to $90/bbl** (March 6) — best weekly performance on record (+30%)
+- Brent hit $82 (14-month high); could reach **$100-120** if disruption persists
+- Kpler: "This is a real supply disruption, not a risk premium event"
 
 ### Why DVN Benefits
 1. **100% US domestic production** — zero Hormuz exposure
 2. **Oil-weighted** (73% liquids) — direct beneficiary of price spikes
 3. **Low breakeven** ($45 WTI) — profitable even in downturn
 4. **Variable dividend** — captures upside in elevated price environment
-5. **Scale** — one of largest independent US producers
+5. **Light hedging** (~30% hedged) — full exposure to price spikes
+6. **Scale** — one of largest independent US producers
 
-As Al Jazeera noted: *"Being a net producer of energy, a rise in prices will benefit US oil producers."*
+### Current Situation (as of March 6, 2026)
+- US-Israeli strikes killed Ayatollah Khamenei and Iranian leadership
+- Iran's Revolutionary Guard: "Strait of Hormuz is closed"
+- Tanker traffic effectively halted; insurers refusing coverage
+- WTI crude: **+30% week-over-week** (record weekly gain)
+- Barclays: Brent could hit $100-120 if disruption persists
+- Trump: Operations "ahead of schedule" but negotiations possible
+
+**The key insight:** This is NOT just a risk premium — physical supply is being disrupted. DVN captures full upside while having zero direct exposure to the conflict zone.
 
 ---
 
@@ -125,30 +135,34 @@ Devon Energy is a leading independent oil and gas producer with assets across fi
 ## Valuation
 
 ### Current Multiples
-| Metric | DVN | Peer Avg | Assessment |
-|--------|-----|----------|------------|
-| P/E (TTM) | 10.7x | 11-13x | Cheap |
-| Forward P/E | 12.2x | 12-14x | Fair |
-| EV/EBITDA | 4.6x | 5-6x | **Very Cheap** |
-| P/CF | ~4.1x | 5-6x | **Very Cheap** |
-| EV/Revenue | 2.0x | 2.5-3x | Attractive |
-| P/Book | 1.78x | 1.5-2x | Fair |
+| Metric | DVN | Peer Avg | Industry Avg | Assessment |
+|--------|-----|----------|--------------|------------|
+| P/E (TTM) | 10.7x | 11-13x | 12x | Cheap |
+| Forward P/E | 12.2x | 12-14x | 13x | Fair |
+| EV/EBITDA | 4.6x | 5-6x | **11.1x** | **Very Cheap** |
+| P/CF | ~4.1x | 5-6x | 6x | **Very Cheap** |
+| EV/Revenue | 2.0x | 2.5-3x | 3x | Attractive |
+| P/Book | 1.78x | 1.5-2x | 2x | Fair |
+
+*Note: EV/EBITDA of 4.6x vs industry average of 11.1x represents 59% discount to sector.*
 
 ### Oil Price Sensitivity
-Devon's FCF varies dramatically with oil prices:
+Devon's FCF varies dramatically with oil prices (per management guidance):
 
-| WTI Price | Est. Annual FCF | FCF Yield |
-|-----------|-----------------|-----------|
-| $50/bbl | $1.5B | 5.4% |
-| $60/bbl | $2.5B | 9.1% |
-| **$70/bbl** | **$4.5B** | **16.3%** |
-| $80/bbl | $5.5B+ | 20%+ |
-| $90/bbl | $7B+ | 25%+ |
+| WTI Price | Est. Annual FCF | FCF Yield | Status |
+|-----------|-----------------|-----------|--------|
+| $45/bbl | Breakeven | 0% | Corporate B/E |
+| $50/bbl | $1.9B | 6.9% | Downside protected |
+| $60/bbl | $2.6B | 9.4% | Still profitable |
+| **$70/bbl** | **$3.3B** | **12.0%** | Base case |
+| $80/bbl | $4.5B+ | 16%+ | Strong FCF |
+| **$90/bbl** | **$6B+** | **22%+** | ← CURRENT |
+| $100/bbl | $7.5B+ | 27%+ | Bull scenario |
 
-**Current WTI:** ~$79/bbl and rising  
+**Current WTI:** ~$90/bbl (Friday Mar 6 close)  
 **Corporate Breakeven:** $45 WTI (including base dividend)
 
-At current prices, DVN generates **~20% FCF yield** — exceptional value.
+At current $90 oil, DVN generates **~22%+ FCF yield** — extraordinary value. Even at $50 WTI downside, the company remains FCF positive.
 
 ---
 
@@ -180,10 +194,11 @@ The Coterra merger may adjust the capital return framework, but management commi
 
 Devon historically maintains **light hedging** to preserve upside exposure:
 
-### Current Approach
-- Uses **swaps and costless collars** (no three-way collars)
-- Typically hedges 30-50% of near-term production
-- Philosophy: Protect downside while capturing upside
+### Q1 2025 Hedge Position
+- **Oil:** ~30% of remaining 2025 production hedged
+- **Natural Gas:** ~35% of remaining 2025 production hedged
+- **Strategy:** Swaps and costless collars (no three-way collars)
+- **Philosophy:** Protect downside while capturing commodity upside
 
 ### Q4 2025 Realized Prices
 | Commodity | Realized Price | vs Benchmark |
@@ -232,10 +247,12 @@ Devon historically maintains **light hedging** to preserve upside exposure:
 ### Price Targets
 | Metric | Price |
 |--------|-------|
-| Low | $37 |
-| Average | $45.61 |
-| Median | $44 |
-| High | $59 |
+| Low | $36.00 |
+| Average | $50.38 |
+| Median | $50.00 |
+| High | $62.00 |
+
+*Note: Average target implies 13% upside from current price; likely to rise as analysts adjust for $90 oil.*
 
 ### Recent Upgrades (Post-Iran Strikes)
 | Date | Analyst | Rating | Target |
@@ -318,11 +335,13 @@ Devon historically maintains **light hedging** to preserve upside exposure:
 
 | Scenario | Oil Price | DVN Price Target | Probability |
 |----------|-----------|-----------------|-------------|
-| **Base Case** | $75-80 | $50-55 | 40% |
-| **Bull Case** | $90-100 | $65-75 | 35% |
-| **Bear Case** | $55-65 | $35-40 | 25% |
+| **Bull Case** | $90-100+ | $60-70 | 45% |
+| **Base Case** | $75-85 | $50-55 | 35% |
+| **Bear Case** | $55-65 | $35-40 | 20% |
 
-**Expected Value:** ~$52-55 (17-24% upside)
+**Expected Value:** ~$55-58 (24-30% upside)
+
+*Note: With WTI already at $90 and Hormuz disruption ongoing, bull case probability elevated.*
 
 ---
 
