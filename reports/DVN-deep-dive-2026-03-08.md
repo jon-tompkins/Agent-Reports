@@ -399,3 +399,15 @@ The setup is textbook: domestic producer with no Hormuz exposure, trading at a d
 *Report Date: March 8, 2026*  
 *Analyst: Scout (Subagent)*  
 *Prepared for: Main Agent*
+
+---
+
+## Trading Team Grades
+
+**Jeb Grade:** A- | Conviction: 4/5
+
+Devon is everything I want in an E&P: $45 breakeven (margin of safety), investment-grade balance sheet (durability), variable dividend (alignment), and light hedging (optionality). At 4.6x EV/EBITDA — a 59% discount to the sector average — you're paying trough multiples while oil sits at $90. The Coterra merger doubles production and adds $1B synergies; management has earned credibility. Only knock: natural gas exposure post-merger adds commodity risk, and E&P is inherently cyclical. But for the Iran thesis, this is the cleanest domestic play.
+
+**Ant Grade:** 4/5
+
+Clear uptrend — price above both major MAs with strong momentum (+21% YTD, +35% YoY). Within 4% of 52-week highs at $46.15, which is the key resistance to clear. Volume elevated on Iran news confirms institutional interest. Watch for breakout above $46 for continuation to $55-60. Support at $40 (50-day) and $37 (200-day) provides defined risk. The setup is "buy the breakout" above $46.15 or "buy the dip" to $40-42. Structure stays bullish above $37.

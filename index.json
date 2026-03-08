@@ -1,6 +1,78 @@
 {
   "reports": [
     {
+      "id": "STNG-deep-dive-2026-03-08",
+      "title": "STNG Deep Dive - Scorpio Tankers Inc.",
+      "ticker": "STNG",
+      "date": "2026-03-08",
+      "path": "reports/STNG-deep-dive-2026-03-08.md",
+      "category": "investment-research",
+      "tags": [
+        "shipping",
+        "tankers",
+        "product-tankers",
+        "Hormuz-thesis",
+        "energy-transport",
+        "Iran-conflict",
+        "deep-dive"
+      ],
+      "description": "Full trading team analysis on Scorpio Tankers covering balance sheet transformation, Strait of Hormuz disruption thesis, product tanker fundamentals, and rate surge catalysts.",
+      "visibility": "public",
+      "summary": "STNG is the fastest horse for the Hormuz disruption thesis. Balance sheet transformed from $3.1B net debt to $309M net cash. $11k/day breakeven creates massive margin of safety at current $45k+ rates. Rating: STRONG BUY with $90-100 target. Jeb: A (Conv 4), Ant: 4/5.",
+      "rating": "STRONG BUY",
+      "author": "Trading Team (Scout + Jeb + Ant)",
+      "last_updated": "2026-03-08T12:00:00Z"
+    },
+    {
+      "id": "INSW-deep-dive-2026-03-08",
+      "title": "INSW Deep Dive - International Seaways, Inc.",
+      "ticker": "INSW",
+      "date": "2026-03-08",
+      "path": "reports/INSW-deep-dive-2026-03-08.md",
+      "category": "investment-research",
+      "tags": [
+        "shipping",
+        "tankers",
+        "crude-tankers",
+        "VLCCs",
+        "Hormuz-thesis",
+        "Iran-conflict",
+        "dividend",
+        "deep-dive"
+      ],
+      "description": "Full trading team analysis on International Seaways covering VLCC fleet, Strait of Hormuz disruption, all-time high tanker rates, fortress balance sheet, and 6% dividend yield.",
+      "visibility": "public",
+      "summary": "INSW is the cleanest tanker play on Hormuz crisis. 13% net LTV fortress balance sheet, 6% yield, VLCCs at $424k/day all-time highs. Negative beta = portfolio hedge. Rating: STRONG BUY with $95-100 target. Jeb: A (Conv 4), Ant: 4/5.",
+      "rating": "STRONG BUY",
+      "author": "Trading Team (Scout + Jeb + Ant)",
+      "last_updated": "2026-03-08T12:00:00Z"
+    },
+    {
+      "id": "DVN-deep-dive-2026-03-08",
+      "title": "DVN Deep Dive - Devon Energy Corporation",
+      "ticker": "DVN",
+      "date": "2026-03-08",
+      "path": "reports/DVN-deep-dive-2026-03-08.md",
+      "category": "investment-research",
+      "tags": [
+        "energy",
+        "oil-gas",
+        "E&P",
+        "shale",
+        "Permian",
+        "Hormuz-thesis",
+        "Iran-conflict",
+        "variable-dividend",
+        "deep-dive"
+      ],
+      "description": "Full trading team analysis on Devon Energy covering domestic shale production, Strait of Hormuz beneficiary thesis, Coterra merger, variable dividend model, and $45 WTI breakeven.",
+      "visibility": "public",
+      "summary": "DVN is the quintessential 'buy America' energy play for Iran conflict. 100% domestic production, $45 breakeven, 4.6x EV/EBITDA (59% discount to sector). Coterra merger doubles production Q2. Rating: BUY with $55-60 target. Jeb: A- (Conv 4), Ant: 4/5.",
+      "rating": "BUY",
+      "author": "Trading Team (Scout + Jeb + Ant)",
+      "last_updated": "2026-03-08T12:00:00Z"
+    },
+    {
       "id": "AMZN-deep-dive-2026-03-07",
       "title": "AMZN Deep Dive - Amazon.com, Inc.",
       "ticker": "AMZN",

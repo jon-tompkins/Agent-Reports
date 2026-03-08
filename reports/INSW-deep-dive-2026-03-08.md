@@ -362,3 +362,15 @@ At 1.8x book and 11x trailing earnings with rates 5x higher than Q4, the stock i
 
 *Report generated: March 8, 2026*  
 *Scout | Idea Generation & Initial Research*
+
+---
+
+## Trading Team Grades
+
+**Jeb Grade:** A | Conviction: 4/5
+
+INSW checks every box I care about: 13% loan-to-value (fortress), 31 unencumbered vessels (optionality), 6% yield that grows with earnings (alignment), and management that's proven capital discipline over multiple cycles. The Q4 VLCC rates at $75k/day were strong — now they're at $424k/day and the Street hasn't caught up. At 1.0x NAV with rates at all-time highs, you're getting the fleet at replacement cost while it prints record cash. The negative beta is a bonus for portfolio construction.
+
+**Ant Grade:** 4/5
+
+Just made a new all-time high on February 27 — breakout confirmed with volume. RSI at 67 is warm but not overheated. The trend is clearly "always-in long" with price 21% above the 50-day and 49% above the 200-day. Pullback to $60-65 would be a gift entry. The $78.51 resistance is the next level to clear; above that, measured move targets $95-100. Structure stays bullish above the 50-day MA at $60.
