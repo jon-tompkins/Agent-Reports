@@ -1,266 +1,311 @@
-# STNG Deep Dive - Scorpio Tankers Inc.
-**Date:** 2026-03-08  
-**Rating:** STRONG BUY  
-**Conviction:** 5 (Very High — clear thesis with multiple catalysts aligned)  
-**Price Target:** $115 (50% upside)  
-**Invalidation:** $55 (stop loss — thesis is wrong below this level)  
-**Current Price:** $76.85  
-**Risk Level:** Medium-High (commodity/rate exposure)
+# STNG Deep Dive — Scout Report
+
+**Company:** Scorpio Tankers Inc.  
+**Sector:** Energy / Marine Transportation  
+**Market Cap:** ~$4.1B | **Price:** $76.85 (Mar 7, 2026)  
+**52-Week Range:** $30.63 - $81.85
 
 ---
 
-## Company Overview
+## Scout's Rating
 
-| Field | Value |
-|-------|-------|
-| Headquarters | Monaco |
-| Founded | 2009 |
-| Sector / Industry | Energy / Marine Shipping |
-| Market Cap | $3.62B |
-| Enterprise Value | ~$3.29B (net cash position) |
-| Employees | ~150 (ship management outsourced) |
-| CEO | Emanuele Lauro |
-| President | Robert Bugbee |
-| One-line description | World's largest publicly-traded product tanker company, specializing in refined petroleum product transportation |
+| Metric | Rating |
+|--------|--------|
+| **Grade** | **A** |
+| **Conviction** | **High** |
+| **Recommendation** | **STRONG BUY** — Thesis-aligned play |
+| **Price Target** | $90-100 (12-month) |
 
 ---
 
-## Investment Thesis: Strait of Hormuz Crisis = Massive Day Rate Tailwind
+## Executive Summary
 
-### The Macro Setup
-The Strait of Hormuz crisis is **the most significant shipping disruption since COVID**:
-- Iran has declared the Strait "closed" and is attacking vessels
-- Marine insurers (Gard, Skuld, NorthStandard, London P&I, American Club) have **cancelled war risk coverage** for Persian Gulf vessels
-- ~20% of global oil and 19% of LNG flows pass through Hormuz
-- Shipping has ground to a **near halt** with 150+ vessels anchored
+Scorpio Tankers is the **perfect vehicle for the Strait of Hormuz disruption thesis**. The company operates the largest fleet of product tankers among pure-play public peers, with a completely transformed balance sheet that went from $3.1B net debt (2021) to **$309M+ net cash** today. The Hormuz crisis creates a once-in-a-decade setup: ton-miles are exploding, insurance chaos is removing supply, and day rates are surging.
 
-**Impact on tanker rates:**
-- VLCC rates hit **all-time high of $424,000/day** (doubled from prior week)
-- LR2 product tanker rates in Middle East Gulf: **$45,800/day** (vs $28,000 Q4 average)
-- Longer routes around Cape of Good Hope = **more ton-miles = sustained rate elevation**
-
-### Why STNG Wins
-1. **Product tanker specialist** - 90 vessels focused on refined products (gasoline, diesel, jet fuel)
-2. **Fleet positioned outside conflict zone** - Majority operates in Atlantic Basin, unaffected by Hormuz
-3. **Ton-mile demand surge** - Rerouting around Africa adds 3-4 weeks to voyages
-4. **Modern, efficient fleet** - 10.1-year average age, scrubber-fitted for fuel efficiency
-5. **Fortress balance sheet** - $309M net cash, no debt service until 2028
-6. **Trading below book value** - P/B of 0.96 despite crisis-level rate environment
-
-### Bull Case
-- **Day rates could double from here:** LR2s already at $46K/day in Q1; if Hormuz disruption persists, rates could hit $80-100K/day (2022 levels were sustained at $80K+)
-- **EPS sensitivity:** Every $10K/day rate increase = ~$3.00 additional EPS annually across the fleet
-- **At $60K/day average rates, STNG could earn $15+ EPS** vs current $7.03
-- **Buybacks accelerating:** $173M remaining authorization at attractive valuations
-- **NAV discount absurd:** Fleet replacement cost exceeds current market cap
-
-### Bear Case
-- **Hormuz resolution:** Rapid de-escalation could normalize rates within weeks
-- **Recession risk:** Global economic slowdown reduces oil product demand
-- **Rate collapse:** Product tanker rates are notoriously volatile (2020 crash example)
-- **Newbuild deliveries:** Industry orderbook of 18% could pressure rates in 2027+
-- **Chinese port fees:** Proposed regulations could affect certain vessel classes
+**Key Thesis Points:**
+- ✅ Net cash balance sheet — fortress financial position
+- ✅ Modern fleet (avg age ~10 years) positioned for regulatory changes
+- ✅ Product tankers directly benefit from Hormuz rerouting
+- ✅ Day rates already elevated, crisis accelerates further
+- ✅ $11,000/day breakeven = massive cash flow at current rates
+- ✅ Strong dividend ($0.45/quarter) with room to grow
 
 ---
 
-## Fleet Composition
+## The Business
 
-| Vessel Type | Count | DWT Range | Primary Routes | Avg Age |
-|-------------|-------|-----------|----------------|---------|
-| LR2 | 34 | 105-115K | Middle East → Asia, Atlantic | ~9 yrs |
-| MR | 42 | 45-55K | Caribbean, US Gulf, Europe | ~10 yrs |
-| Handymax | 14 | 35-40K | Regional/coastal | ~11 yrs |
-| **Total** | **90** | | | **10.1 yrs** |
+### What They Do
 
-### Newbuilding Pipeline (Deliveries 2026-2029)
-| Type | Count | Delivery | Notes |
-|------|-------|----------|-------|
-| MR | 4 | Q2 2026 - Q2 2027 | $45M per vessel, scrubber-fitted |
-| LR2 | 4 | Q3 2027 - Q4 2029 | $68.5-70.8M per vessel |
-| VLCC | 2 | H2 2028 | $128M per vessel, entry into crude tankers |
+Scorpio Tankers transports refined petroleum products (gasoline, diesel, jet fuel, naphtha) globally. They're **not** crude tankers — they carry the finished products from refineries to consumption centers.
 
-**Fleet strategy:** Selling older vessels (2014-2016 builds) at peak valuations ($35-60M), ordering modern tonnage at reasonable prices. Smart capital allocation.
+### Fleet Composition (Current)
 
----
+| Vessel Type | Count | Description |
+|-------------|-------|-------------|
+| **LR2** | 34-38 | Large Range 2 tankers, 105-115k DWT |
+| **MR** | 42-47 | Medium Range, 45-55k DWT |
+| **Handymax** | 12-14 | Smaller vessels ~40k DWT |
+| **Total** | ~90 vessels | Post recent sales |
 
-## Financial Summary
+**Average Fleet Age:** ~10.1 years (youngest in peer group after recent renewals)
 
-### Income Statement (TTM + 2yr history)
-| Metric | FY 2025 | FY 2024 | FY 2023 |
-|--------|---------|--------|--------|
-| Revenue | $938M | $1,244M | $1,341M |
-| Revenue Growth % | -24.6% | -7.3% | -14.2% |
-| Gross Profit | $613M | $894M | $1,012M |
-| Gross Margin % | 65.4% | 71.9% | 75.5% |
-| Operating Income | $355M | $765M | $705M |
-| Operating Margin % | 37.9% | 61.5% | 52.6% |
-| Net Income | $344M | $669M | $547M |
-| EPS (Diluted) | $7.03 | $13.15 | $10.03 |
+**Key Differentiators:**
+- All vessels scrubber-fitted (cheaper fuel = higher earnings)
+- Modern eco-efficient designs
+- Flexibility to trade clean or dirty (LR2s can do crude)
 
-*Note: FY 2025 was a "soft" year for product tanker rates. Q1 2026 rates already 50%+ higher.*
+### Revenue Model
 
-### Balance Sheet (Feb 2026)
-| Metric | Value |
-|--------|-------|
-| Cash & Equivalents | $937M |
-| Total Debt | $628M |
-| **Net Cash** | **$309M** |
-| Book Value | $3.2B |
-| Book Value Per Share | $65.35 |
-| Tangible Book/Share | $65.19 |
+Revenue = **Day Rate × Operating Days**
 
-**Critical insight:** STNG went from $3.1B net debt in 2021 to **$309M net cash** in 2026. Management has completely deleveraged the balance sheet, prepaying all debt through Dec 2027.
+Current spot rates:
+- **LR2:** ~$45,800/day (up 24% recently per ROIC data)
+- **MR:** ~$38,000/day
+- **Long-term charters:** $30,500-33,000/day for 5-8 year deals
 
-### Cash Flow (TTM)
-| Metric | Value |
-|--------|-------|
-| Operating Cash Flow | ~$550M |
-| CapEx | ($59M) |
-| Free Cash Flow | $491M |
-| FCF Margin % | 52.4% |
-| FCF Per Share | $10.04 |
+At these rates, with $11,000/day breakeven, every vessel generates **~$25,000-35,000/day profit**.
 
 ---
 
-## Valuation
+## Financial Snapshot
 
-### Current Multiples
-| Multiple | STNG | Sector Avg | Premium/Discount |
-|----------|------|------------|------------------|
-| P/E (TTM) | 10.9 | 8.5 | +28% premium |
-| P/E (Fwd) | 11.8 | 9.2 | +28% premium |
-| **P/NAV (P/Book)** | **0.96** | 1.1 | **-13% discount** |
-| EV/EBITDA | 6.2 | 5.8 | +7% premium |
-| P/FCF | 7.7 | 6.5 | +18% premium |
-| Dividend Yield | 2.34% | 3.5% | Below peers |
+| Metric | Current | YoY Change | Assessment |
+|--------|---------|------------|------------|
+| **Revenue (TTM)** | ~$938M | -24.6% (normalizing from peaks) | Stable |
+| **Net Income Q4 2025** | $128.1M | +87% vs Q4 2024 | Strong |
+| **Net Income FY2025** | $344.3M | -49% (fewer vessel gains) | Solid cash earnings |
+| **Adj. EBITDA Q4** | $152M | Strong | Excellent |
+| **Net Cash Position** | $309M+ | vs $3.1B NET DEBT in 2021 | **Transformed** |
+| **Total Liquidity** | $1.7B | Growing | Fortress |
+| **Cash Breakeven** | $11,000/day | Lowest in history | **Massive moat** |
 
-### The NAV Story
-| Component | Value |
-|-----------|-------|
-| Fleet market value | ~$4.5-5.0B (based on recent sale prices) |
-| Less: Debt | ($628M) |
-| Plus: Cash | $937M |
-| Less: Newbuild commitments | ($710M) |
-| **Implied NAV** | **$4.1-4.6B** |
-| Current Market Cap | $3.62B |
-| **NAV Discount** | **10-20%** |
+### Balance Sheet Transformation
 
-STNG trades at a discount to the liquidation value of its fleet, while rates are spiking.
+The single most important fundamental change:
+
+```
+2021: $3.1 BILLION net debt (leveraged to the gills)
+2026: $309+ MILLION NET CASH (completely deleveraged)
+```
+
+This is a **3.4 BILLION dollar swing** in 4 years. The company eliminated ALL scheduled bank principal amortization for 2026 and 2027.
+
+### Valuation Metrics
+
+| Metric | STNG | Assessment |
+|--------|------|------------|
+| **P/E (TTM)** | ~10-11x | Cheap for cyclical upturn |
+| **Forward P/E** | ~11.8x | Reasonable |
+| **EV/EBITDA** | ~5-6x | Very attractive |
+| **P/NAV** | ~1.0-1.3x | Trading near NAV |
+| **Book Value/Share** | ~$58-60 | Trading ~1.3x book |
+| **Dividend Yield** | ~2.4% ($1.80/year) | Growing |
+
+### Quality Score: **A**
+
+- ✅ Net cash balance sheet
+- ✅ Lowest breakeven in history
+- ✅ Youngest fleet in peer group
+- ✅ Proven management (deleveraged massively)
+- ✅ Growing dividend
+- ⚠️ Cyclical industry (inherent risk)
+
+---
+
+## Strait of Hormuz Thesis — Why STNG Benefits
+
+### The Crisis (Current Situation)
+
+**What's Happening:**
+- US/Israel strikes on Iran began Feb 28, 2026
+- Iran's IRGC declared Strait of Hormuz "closed"
+- Insurance companies **cancelled war risk coverage** for Gulf vessels
+- ~150 ships stranded around the strait
+- Multiple tankers attacked, 4 seafarers killed
+- Traffic through Hormuz effectively **ZERO**
+
+**Impact Stats:**
+- **20% of global oil supply** transits Hormuz daily
+- **~20M barrels/day** affected
+- Insurance premiums up **1000%+** in some cases
+- Brent crude spiked to $92/barrel
+
+### How This Benefits STNG
+
+**1. Ton-Mile Explosion**
+
+If oil/products can't go through Hormuz, they must go around Africa (Cape of Good Hope). This massively increases:
+- Voyage distances (+60-80% for some routes)
+- Days at sea per cargo
+- **Effective demand for vessels** (same cargo, more ship-days)
+
+**2. Supply Tightening**
+
+- Vessels avoiding the Gulf = less available capacity
+- Crude tanker rates surging = pulls LR2s into crude trades
+- Insurance withdrawal = some owners refuse to operate
+- Shadow fleet under pressure = legitimate fleet gains share
+
+**3. Rate Surge**
+
+From ROIC data (March 2, 2026):
+- VLCC rates hit **$424,000/DAY** (all-time highs)
+- LR2 rates up **24%** to $45,800/day
+- MR routes +100-530% YoY
+
+**4. STNG's Positioning**
+
+- **Western-focused fleet** — Less Hormuz-dependent than peers
+- **Product tankers** — Carry refined products that MUST reach consumers
+- **Clean operations** — Not tainted by sanctions/shadow fleet
+- **Net cash** — Can opportunistically add vessels while others struggle
 
 ### Day Rate Sensitivity Analysis
-| Average Daily TCE | Annual EPS | Implied P/E at $77 |
-|-------------------|------------|-------------------|
-| $25,000 (soft market) | $4.50 | 17.1x |
-| $30,000 (normal) | $6.50 | 11.8x |
-| **$35,000 (current Q1)** | **$8.50** | **9.1x** |
-| $45,000 (crisis rates) | $12.50 | 6.2x |
-| $60,000 (sustained crisis) | $18.00 | 4.3x |
 
-*At crisis-level rates, STNG could generate nearly $900M in annual FCF.*
+| LR2 Rate | Estimated Annual FCF/Share | Notes |
+|----------|---------------------------|-------|
+| $30,000/day | ~$5.00 | Below current, still profitable |
+| $40,000/day | ~$8.00 | Near recent averages |
+| $46,000/day | ~$10.00+ | Current spot level |
+| $60,000/day | ~$15.00+ | Crisis scenario |
+| $80,000/day | ~$20.00+ | Extended disruption |
 
-### Peer Comparison
-| Company | Ticker | Market Cap | P/E | P/NAV | Fleet | Focus |
-|---------|--------|------------|-----|-------|-------|-------|
-| **Scorpio Tankers** | **STNG** | **$3.62B** | **10.9** | **0.96** | **90** | **Product** |
-| Torm | TRMD | $2.1B | 9.5 | 1.05 | 78 | Product |
-| Ardmore Shipping | ASC | $680M | 8.2 | 0.88 | 26 | Product |
-| Hafnia | HAFNI | $3.8B | 7.8 | 1.02 | 136 | Product |
-
-STNG has the largest fleet, strongest balance sheet, and most aggressive capital return program among pure-play product tanker companies.
+At current spot rates (~$45,000 LR2, ~$38,000 MR), STNG generates **~$6-7/share** in annual earnings. If rates spike to $60,000+ for a sustained period, this could be **$12-15/share or more**.
 
 ---
 
-## Capital Returns
+## Dividend Policy & Capital Returns
 
-### Dividend
-- Current: **$0.45/quarter ($1.80 annual)**
-- Yield: **2.34%**
-- Payout ratio: 23.8% (extremely conservative)
-- 3-year growth streak (from $0.10/quarter in 2021)
+### Current Dividend
 
-### Share Buybacks
-- $173.4M remaining authorization
-- Active buyer at current valuations
-- Share count down from 64M (2022) to 47M (2026) = **27% reduction**
+- **Quarterly:** $0.45/share
+- **Annual:** $1.80/share
+- **Yield:** ~2.4%
+- **Trend:** Increased 12.5% YoY (was $0.40)
 
-### Shareholder Yield
-- Dividend: 2.34%
-- Buyback yield: 3.78%
-- **Total Shareholder Yield: 6.1%**
+### Management Commentary (Q4 Call)
 
-Management has been exceptional at returning capital while maintaining fleet quality.
+> "We are growing the dividend because we can, because we have the balance sheet, because the payout is supported by structural cash generation, not temporary conditions."
+
+### Capital Allocation Philosophy
+
+Management explicitly stated:
+- **NO large acquisitions** ("absolutely zero acquisition thoughts of other companies or competitors")
+- **NO bulk orders** ("You are not going to wake up one day and find that we have made a 10-ship order")
+- **Measured fleet renewal** — selling older vessels at high prices, buying newbuilds opportunistically
+- **Growing dividend through the cycle** — not just peak payouts
+
+This is **excellent capital discipline** for a shipping company (historically a red flag sector for capital allocation).
 
 ---
 
-## How STNG Benefits from Hormuz Disruption Specifically
+## Competitive Position
 
-### Direct Rate Impact
-1. **Longer voyages = more ton-miles:** Ships rerouting around Cape of Good Hope add 3-4 weeks to Middle East → Europe/Asia voyages
-2. **Effective supply reduction:** Same fleet serves fewer cargoes when voyages take longer
-3. **Insurance premium pass-through:** Higher insurance costs flow to charterers, not owners
-4. **Vessel scarcity:** 150+ tankers anchored in/near conflict zone unavailable for spot market
+### Moat Assessment: **Moderate**
 
-### Fleet Positioning Advantage
-- STNG's fleet operates primarily in **Atlantic Basin** (Caribbean, US Gulf, Europe, West Africa)
-- **Less direct exposure** to Hormuz than competitors with Middle East positioning
-- Can **capture arbitrage** by servicing Atlantic routes while competitors are stuck
+| Factor | Assessment |
+|--------|------------|
+| **Scale** | Largest pure-play product tanker fleet |
+| **Cost** | $11k/day breakeven = industry-leading |
+| **Fleet Quality** | Youngest peer group fleet |
+| **Balance Sheet** | Best in class (net cash) |
+| **Switching Costs** | None (commodity service) |
+| **Pricing Power** | Limited (spot market driven) |
 
-### Q1 2026 Rate Reality (vs Q4 2025)
-| Vessel Class | Q4 2025 TCE | Q1 2026 TCE (current) | Change |
-|--------------|-------------|----------------------|--------|
-| LR2 (pool/spot) | $34,364 | **$46,000** | +34% |
-| MR (pool/spot) | $24,428 | **$27,500** | +13% |
-| Handymax | $24,044 | **$25,500** | +6% |
+### Key Competitors
 
-LR2 rates have already jumped 34% in weeks. If crisis persists, $60-80K rates are achievable.
+| Company | Fleet Size | Focus | Key Difference |
+|---------|-----------|-------|----------------|
+| **STNG** | ~90 | Product tankers | Pure-play, net cash |
+| **INSW** | ~70 | Products + crude | More diversified |
+| **ARDP** | ~25 | Products | Smaller, also clean |
+| **DHT** | ~24 | Crude (VLCC) | Different segment |
+| **FRO** | ~70 | Crude | Hemen holding, crude focus |
+
+STNG's advantage: **Scale + balance sheet + fleet quality** in pure product tanker space.
 
 ---
 
 ## Risks
 
-### High Risk
-| Risk | Probability | Mitigation |
-|------|-------------|------------|
-| Rapid Hormuz resolution | 30% | Rates would normalize, but still above 2025 averages |
-| Global recession | 20% | Balanced fleet, diversified routes, low breakeven |
-| Rate collapse (oversupply) | 15% | Low orderbook (18%), newbuild deliveries stretched to 2029 |
+### 1. Rate Collapse (HIGH IMPACT, LOW PROBABILITY NOW)
 
-### Medium Risk
-| Risk | Probability | Mitigation |
-|------|-------------|------------|
-| Chinese/US port fee regulations | 40% | Potential 15-20% of fleet affected, manageable |
-| Bunker fuel price spike | 25% | Scrubber-fitted fleet can use cheaper high-sulfur fuel |
-| Single-client concentration | 10% | Pool model diversifies charterer risk |
+- If Hormuz reopens quickly, rates could normalize
+- However, even "normal" rates support strong profitability at $11k breakeven
+- **Mitigant:** Management locking in 5-8 year charters at $30k-33k/day
 
-### Low Risk
-| Risk | Probability | Mitigation |
-|------|-------------|------------|
-| Balance sheet stress | 5% | Net cash, no debt service until 2028 |
-| Management missteps | 5% | Proven capital allocators, excellent track record |
-| Environmental regulations | Ongoing | Modern fleet ahead of compliance curve |
+### 2. Oversupply from Newbuilds (MEDIUM)
+
+- Product tanker orderbook at ~19% of fleet
+- **BUT:** 21% of fleet over 20 years old (rising to 30% by 2028)
+- 80% of orders deliver after 2026
+- LR2 newbuilds increasingly trading crude (54% of LR2s now in dirty)
+- **Mitigant:** Fleet aging faster than replacement
+
+### 3. Oil Demand Destruction (LOW/MEDIUM)
+
+- Global recession could hit product demand
+- Energy transition long-term headwind
+- **Mitigant:** Near-term structural drivers strong; 2026-2028 fundamentals solid
+
+### 4. Geopolitical Resolution (MEDIUM)
+
+- If Iran conflict de-escalates rapidly, crisis premium fades
+- **Mitigant:** Structural ton-mile expansion persists regardless of Hormuz
+
+### 5. Crude/Product Market Divergence (LOW)
+
+- BIMCO forecasts diverging trends 2026-2027
+- **Mitigant:** STNG's product focus is the stronger segment currently
 
 ---
 
 ## Technical Setup
 
 ### Key Levels
-| Level | Price | Notes |
-|-------|-------|-------|
-| 52-Week High | $81.85 | Just 6.5% away |
-| Resistance | $82-85 | Analyst targets cluster here |
-| Current Price | $76.85 | |
-| 50-Day MA | ~$70 | Above, bullish |
-| 200-Day MA | $53.76 | Well above, strong uptrend |
-| Support | $70 | Previous breakout level |
-| 52-Week Low | $30.63 | March 2025 |
 
-### Technical Observations
-- **Trend:** Strong uptrend, price 43% above 200-day MA
-- **Momentum:** Trading near highs on expanding crisis-driven volume
-- **Beta:** -0.39 (negative beta = potential hedging instrument)
-- **Setup:** Consolidating near highs, potential breakout above $82
+| Level | Price | Significance |
+|-------|-------|--------------|
+| **Current** | $76.85 | Near 52-week highs |
+| **52-Week High** | $81.85 | Resistance, recent |
+| **Key Support** | $65-70 | Prior breakout zone |
+| **Deep Support** | $55-60 | Book value area |
+| **All-Time High** | $86.89 (2010) | Within reach |
 
-The negative beta is notable — STNG tends to move inversely to the broad market, making it a natural portfolio hedge during risk-off periods.
+### Trend Assessment
+
+- **Primary:** UPTREND (clear)
+- **RS Rating:** Strong (outperforming most of market)
+- **Volume:** Constructive, accumulation pattern
+- **Setup:** Breaking out to new 52-week highs on Hormuz news
+- **Target:** $85-100 near-term if crisis persists
+
+### Momentum
+
+Stock rallied ~10% on the net cash pivot and dividend raise. Crisis catalysts adding fuel. Within 5% of 52-week highs with strong momentum.
+
+---
+
+## Analyst Sentiment
+
+| Rating | Count |
+|--------|-------|
+| Strong Buy | 4 |
+| Buy | 1 |
+| Hold | 0 |
+| Sell | 0 |
+
+**Consensus:** Strong Buy  
+**Average Price Target:** $79-83  
+**Range:** $67-90  
+
+Recent PT raises:
+- Evercore ISI: $86 → $83 (still above current)
+- B. Riley: $80 → $90
+- BTIG: $80 → $85
+- BofA: $56 → $61
+
+**Note:** Analyst targets may lag the Hormuz crisis impact. Street estimates likely to rise.
 
 ---
 
@@ -268,83 +313,66 @@ The negative beta is notable — STNG tends to move inversely to the broad marke
 
 | Date | Event | Potential Impact |
 |------|-------|------------------|
-| **Now** | Hormuz crisis ongoing | Very High — driving rate surge |
-| Q1/Q2 2026 | Vessel sales close ($110M liquidity) | Medium — balance sheet strengthening |
-| Q1/Q2 2026 | Long-term LR2 charters commence | Medium — locked in $30-33K/day |
-| Q2 2026 | MR newbuild delivery #1 | Low — fleet addition |
-| May 2026 | Q1 2026 earnings | High — should show rate surge |
-| H2 2028 | VLCC deliveries | Medium — entry into crude segment |
+| **Ongoing** | Hormuz crisis | HIGH — rates + sentiment |
+| **Q1 2026** | Vessel sales closing | Cash increases |
+| **Q2 2026** | Newbuild deliveries | Fleet renewal |
+| **May 2026** | Q1 earnings | Rate updates |
+| **2026-2027** | Newbuild wave | Monitor orderbook |
 
 ---
 
-## Management & Governance
+## Bull Case
 
-### Key Executives
-- **Emanuele Lauro (CEO):** Founder, significant insider ownership, aligned incentives
-- **Robert Bugbee (President):** Shipping industry veteran, excellent track record
-- **Capital allocation:** A+ rating — deleveraged from $3.1B debt to net cash in 5 years
+1. **Hormuz disruption persists** — rates spike to $60,000-80,000/day, STNG prints $15-20/share in earnings
+2. **Fleet aging + regulatory tightening** — older vessels forced out, modern fleet gains share
+3. **Ton-mile structural growth** — refinery shifts = permanent demand expansion
+4. **Capital returns accelerate** — special dividends or buybacks with excess cash
+5. **Multiple re-rating** — market recognizes net cash transformation, P/E expands
 
-### Insider Ownership
-- Corporate insiders own ~13% of shares outstanding
-- Management has skin in the game
-
----
-
-## Scout's Rating
-
-| Category | Grade | Notes |
-|----------|-------|-------|
-| Business Quality | B+ | Cyclical but best-in-class operator |
-| Balance Sheet | A+ | Net cash, no near-term maturities |
-| Valuation | A | Trading below NAV during rate spike |
-| Momentum | A | Near 52-week highs, crisis catalyst |
-| Catalyst Quality | A+ | Hormuz disruption is real and ongoing |
-| Risk/Reward | A | 50%+ upside vs 25% downside |
-
-### Overall: **STRONG BUY**
-**Conviction: 5/5 (Very High)**
+**Bull Target:** $100-120 (crisis scenario sustained)
 
 ---
 
-## Price Target Derivation
+## Bear Case
 
-### Base Case ($95 target, 24% upside)
-- Average TCE: $35,000 (current Q1 run-rate)
-- EPS: ~$8.50
-- P/E: 11x (in-line with current)
-- = $93.50, round to $95
+1. **Rapid Hormuz resolution** — crisis premium evaporates, rates normalize to $30k/day
+2. **Newbuild wave hits** — 2027-2028 deliveries create oversupply
+3. **Global recession** — oil demand destruction hits seaborne volumes
+4. **Management discipline slips** — large acquisition destroys balance sheet (they've explicitly ruled this out)
 
-### Bull Case ($115 target, 50% upside)
-- Average TCE: $45,000 (sustained Hormuz disruption)
-- EPS: ~$12.50
-- P/E: 9x (slight compression for crisis premium)
-- = $112.50, round to $115
-
-### Bear Case ($55 target, -28% downside)
-- Rapid Hormuz resolution + recession
-- Average TCE: $22,000
-- EPS: ~$3.50
-- P/E: 8x (cycle bottom valuation)
-- = $56, round to $55
-
-**Risk/Reward:** 2:1 favorable
+**Bear Target:** $55-65 (normalized scenario)
 
 ---
 
 ## Scout's Take
 
-> "This is the clearest tanker setup I've seen since COVID. You've got a Hormuz crisis that's already spiking rates 30-40%, a company trading below book value with net cash, and management that just proved they know how to return capital. The market's treating STNG like the crisis is priced in at $77 — it's not. If this thing drags out through summer, LR2 rates could double from here. At 6x crisis earnings, this stock goes to $100+. Even if Hormuz resolves next month, rates are elevated for at least a quarter while the backlog clears. The downside is limited by book value and the cash position. This is a no-brainer."
+This is exactly what we look for: **the fastest horse in the hottest sector with the best balance sheet at a reasonable price**.
+
+STNG transformed from a leveraged shipping company to a net cash fortress. They did this through the cycle, not at the peak. Management has earned credibility. The fleet is modern, efficient, and positioned for where regulations are going.
+
+The Hormuz crisis is a near-term catalyst that could supercharge an already-strong fundamental setup. But even without the crisis, STNG generates meaningful cash at current rates with its $11k/day breakeven. That's downside protection.
+
+The setup is: **Strong fundamentals + crisis catalyst + clean balance sheet + disciplined management + attractive valuation.**
+
+I rarely see all five line up like this in shipping. The sector's reputation for destroying capital is deserved, but STNG under current management has demonstrated they're different.
+
+**Actionable:** This is a **core position** for the Iran/shipping disruption thesis. Size accordingly — the setup is high-conviction, but shipping is inherently volatile. Trail stops on any extended spike above $100.
 
 ---
 
-## Recommended Actions
+## Position Sizing Recommendation
 
-1. **Initiate position** at current levels ($75-78)
-2. **Add on breakout** above $82 (52-week high)
-3. **Stop loss** at $55 (below book value floor)
-4. **Take partial profits** at $95 (base case)
-5. **Let remainder run** toward $115 if crisis persists
+| Risk Tolerance | Position Size | Entry Strategy |
+|----------------|---------------|----------------|
+| Conservative | 3-5% | Scale in on pullbacks |
+| Moderate | 5-8% | 1/2 now, 1/2 on confirmation |
+| Aggressive | 8-12% | Full position near current |
+
+**Stop Loss:** $60 (book value, ~22% below current)  
+**First Target:** $90 (analyst high + crisis premium)  
+**Second Target:** $100+ (sustained crisis scenario)
 
 ---
 
-*Report generated by Scout | Reviewed: 2026-03-08*
+*Report generated by Scout — March 8, 2026*  
+*Data sources: Company filings, Q4 2025 earnings call, analyst reports, news, market data*
