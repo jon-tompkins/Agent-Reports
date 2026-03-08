@@ -1,347 +1,364 @@
 # INSW Deep Dive — Scout Report
 
 **Company:** International Seaways, Inc.  
-**Sector:** Energy / Marine Shipping  
+**Sector:** Energy / Oil & Gas Transportation  
 **Market Cap:** $3.58B | **Price:** $72.41 (Mar 6, 2026)  
-**52-Week Range:** $27.20 - $78.51
+**Enterprise Value:** $3.99B
 
 ---
 
-## Rating Summary
+## 🎯 Scout's Rating
 
-| Metric | Value |
-|--------|-------|
-| **Scout Rating** | A |
-| **Conviction** | HIGH |
-| **Price Target** | $95-105 |
-| **Current Upside** | 31-45% |
-| **Thesis** | Iran/Hormuz disruption is THE perfect setup for tanker stocks. INSW is best-in-class operator with perfect fleet composition, rock-solid balance sheet, and 6%+ dividend yield. Record $424k/day VLCC rates not yet reflected in earnings. |
+| Metric | Rating |
+|--------|--------|
+| **Grade** | **A** |
+| **Conviction** | **High** |
+| **Recommendation** | **Strong Buy** |
+| **Price Target** | **$95-100** |
+| **Current Yield** | 6.05% |
+| **Thesis** | Strait of Hormuz disruption = ton-mile multiplier |
 
 ---
 
 ## The Business
 
-International Seaways is one of the largest U.S.-listed tanker companies, operating a diversified fleet of 79 vessels that transport crude oil and refined petroleum products globally. The company operates through two segments:
+International Seaways is one of the largest publicly-traded tanker companies worldwide, providing energy transportation services for crude oil and petroleum products. Headquartered in NYC under CEO Lois K. Zabrocky, INSW operates a modern fleet of 70-74 vessels across two segments:
 
-**Crude Tankers (60% of fleet value):**
-- 11 VLCCs (Very Large Crude Carriers) — 2 million barrel capacity
-- 13 Suezmaxes — 1 million barrel capacity  
-- 5 Aframax/LR2s — 600-800k barrel capacity
+**Crude Tankers (~40% of fleet):**
+- 12 VLCCs (Very Large Crude Carriers) — can carry 2M barrels each
+- 13 Suezmaxes — maximum size for loaded Suez Canal transit
+- 5 Aframax/LR2 vessels
 
-**Product Carriers (40% of fleet value):**
-- 12 LR1s (including 6 newbuildings on order through Q3 2026)
-- 38 MR tankers
+**Product Carriers (~60% of fleet):**
+- 11 LR1s (including 4 newbuildings on order)
+- 31+ MR tankers (Medium Range)
 
-The business model is simple: INSW earns daily charter rates (TCE - Time Charter Equivalent) for transporting oil. In strong markets, spot rates can exceed $400k/day (current crisis). In weak markets, rates can fall to $20-30k/day. The company's breakeven is approximately $13,000/day, giving massive operating leverage to rate increases.
-
-**Revenue Model:**
-- ~60% spot market exposure (benefits from rate spikes)
-- ~40% time charters (provides income floor)
-- Tankers International VLCC Pool participation (recently consolidated control)
-- Panamax International Pool for LR1/MR tonnage
+INSW generates revenue through **pool participation** (collective fleet management for better utilization), **spot market** charters (short-term, market rate), and **time charters** (fixed-rate contracts). The company recently consolidated 100% ownership of **Tankers International**, a leading VLCC pool, and is expanding into a new Suezmax pool.
 
 ---
 
-## The Hormuz Thesis — Why This Is THE Trade
+## 📊 Financial Snapshot
 
-### The Crisis (as of March 8, 2026):
+| Metric | Current | YoY Change | Notes |
+|--------|---------|------------|-------|
+| Revenue (2025) | $843.3M | -11.4% | Q4 rebounded +37.6% |
+| Net Income | $309M | -25.8% | Still highly profitable |
+| EPS (diluted) | $6.23 | -25.7% | Q4 was $2.56 |
+| Adj. EBITDA | $475M | — | Q4 was $175M |
+| Gross Margin | 61.69% | — | Industry-leading |
+| Operating Margin | 35.79% | — | Q4 expanded to 51.6% |
+| EBITDA Margin | 49.17% | — | Exceptional |
+| FCF | $38.1M | — | Capex-heavy (fleet renewal) |
 
-The Strait of Hormuz — carrying ~20% of global oil and 19% of global LNG flows — is effectively closed after U.S.-Israeli strikes on Iran (Feb 28, 2026) and Iranian retaliation. Key developments:
+### Q4 2025 TCE Rates Achieved (Spot)
 
-1. **Insurance withdrawal:** Major P&I clubs (American Club, Gard, Skuld, NorthStandard, London P&I) have **cancelled war risk cover** for vessels in the Persian Gulf, effective March 5
-2. **IRGC threats:** Iran has officially declared the strait closed and attacked 17+ vessels since March 1
-3. **Traffic collapse:** Tanker traffic dropped from ~100% to effectively zero within days
-4. **Rate explosion:** VLCC spot rates hit **$424,000/day** — all-time record (vs. $133k average in 2025)
-5. **Rerouting:** All Middle East cargo must now go around Africa via Cape of Good Hope, adding **70% more distance** and voyage time
+| Vessel Class | Q4 2025 Rate | Q4 2024 Rate | YoY Change |
+|--------------|--------------|--------------|------------|
+| **VLCC** | $75,566/day | $35,572/day | **+112%** |
+| **Suezmax** | $52,802/day | $29,700/day | **+78%** |
+| **Aframax** | $42,201/day | $31,212/day | +35% |
+| **LR1** | $62,904/day | $37,103/day | **+70%** |
+| **MR** | $28,523/day | $21,488/day | +33% |
 
-### How INSW Specifically Benefits:
-
-| Factor | Impact on INSW |
-|--------|----------------|
-| **VLCC rates at $424k/day** | 11 VLCCs × $300k+ incremental daily = massive earnings leverage |
-| **Suezmax rates surging** | 13 Suezmaxes benefit from same dynamics |
-| **Ton-mile demand explosion** | Cape routing adds 7,500km per voyage — fleet utilization soars |
-| **Shadow fleet constraints** | Russian/Iranian shadow fleet can't access mainstream insurance — legitimate operators gain share |
-| **Duration risk premium** | Crisis could last weeks/months — rates stay elevated |
-
-### Day Rate Sensitivity Analysis:
-
-| VLCC Rate | Incremental EBITDA (annual) | EPS Impact |
-|-----------|----------------------------|------------|
-| $50k/day (base) | Baseline | ~$6.20 |
-| $150k/day (Q4 level) | +$400M | ~$8.00 |
-| **$300k/day (current)** | **+$1B+** | **~$18-20** |
-| $425k/day (peak) | +$1.5B+ | ~$30+ |
-
-**Key insight:** At current $300k+ VLCC rates, INSW could earn $18-20+ in EPS over the next 12 months. Stock trades at $72. That's less than 4x crisis-level earnings.
+### Quality Score: **A**
+- Consistent profitability across cycles
+- Industry-leading margins
+- Active fleet renewal (selling old, buying modern)
+- Pool management expertise
+- Strong capital allocation discipline
 
 ---
 
-## Financial Snapshot
+## 💰 Valuation
 
-| Metric | Current | YoY Change | vs Peers |
-|--------|---------|------------|----------|
-| Revenue (TTM) | $843M | -11% | Above avg |
-| Net Income | $309M | -26% | Strong |
-| EBITDA | $415M | - | 49% margin |
-| Operating Margin | 35.8% | - | Excellent |
-| FCF | $38M | - | Capex-heavy year |
-| Debt/EBITDA | 1.28x | - | Conservative |
-| ROIC | 12.7% | - | Good |
-| ROE | 16.0% | - | Above avg |
+| Metric | INSW | Commentary |
+|--------|------|------------|
+| P/E (TTM) | 11.62x | Cheap vs. S&P ~22x |
+| Forward P/E | 11.18x | Rates rising = upside |
+| P/B | 1.77x | Reasonable for fleet quality |
+| EV/EBITDA | 9.62x | Discount to historical tanker peaks |
+| P/NAV (est.) | ~0.9-1.0x | Trading near asset value |
+| Dividend Yield | **6.05%** | Top-tier shareholder return |
 
-### Balance Sheet Strength: A+
+**Why It's Cheap:**
+- Cyclical shipping stocks trade at depressed multiples
+- Street estimates lag reality — analysts have $64 avg PT vs. $72 price
+- Tanker rates have EXPLODED post-Hormuz crisis (not yet in estimates)
+- One SA analyst has $100 PT citing fundamentals + technicals
 
-| Metric | Value | Rating |
-|--------|-------|--------|
-| Cash | $167M | ✓ |
-| Total Debt | $576M | ✓ |
-| Net Debt | $409M | ✓ |
-| Debt/Equity | 0.29x | Excellent |
-| Current Ratio | 3.71x | Fortress |
-| Total Liquidity | $709M | ✓ |
-| Unencumbered Vessels | 32 | Major asset |
-| Fleet Market Value | >$3B | NAV support |
-
-**Why this matters:** INSW can weather any storm. No debt maturities until next decade. Massive liquidity buffer. Can buy distressed assets or return capital regardless of rate environment.
-
----
-
-## Valuation Analysis
-
-| Metric | INSW | Peer Avg | Sector |
-|--------|------|----------|--------|
-| P/E (TTM) | 11.6x | 14x | 27x |
-| Forward P/E | 11.2x | 12x | - |
-| EV/EBITDA | 9.6x | 10x | - |
-| P/B | 1.77x | 1.5x | - |
-| P/NAV (est.) | ~0.9x | 1.0x | - |
-| Dividend Yield | 6.05% | 4.9% | - |
-
-### Price-to-Book vs Historical NAV:
-
+**NAV Estimate:**
 - Book value: $40.89/share
-- Estimated fleet NAV: ~$60-65/share (based on recent vessel sales)
-- P/NAV: 0.9-1.2x (reasonable for quality operator)
-- **At crisis earnings, NAV could expand significantly** as cash accumulates
-
-### Earnings Power Analysis:
-
-| Scenario | Assumed VLCC TCE | Est. EPS | P/E at $72 |
-|----------|------------------|----------|------------|
-| Bear (normalization) | $50k | $5.00 | 14.4x |
-| Base (elevated) | $100k | $10.00 | 7.2x |
-| Bull (crisis continues) | $200k | $18.00 | 4.0x |
-| Super Bull (peak rates) | $300k+ | $25.00+ | 2.9x |
+- 31 unencumbered vessels worth multiples of book
+- Fleet market values typically 20-50% above book during tight supply
+- **Estimated NAV: $55-65/share** (conservative)
+- Trading at modest premium to NAV, justified by earnings power
 
 ---
 
-## Capital Return Program
+## 🏦 Balance Sheet Strength
 
-### Dividend Policy:
-- **Regular quarterly:** $0.12/share
-- **Supplemental (variable):** Based on earnings/FCF
-- **Q4 2025 combined:** $2.15/share (largest ever)
-- **TTM dividend:** $4.38/share (6.05% yield)
-- **Payout ratio:** ~70%
+| Metric | Value | Assessment |
+|--------|-------|------------|
+| Cash | $167M | |
+| Total Liquidity | **$724M** | Includes $557M undrawn revolver |
+| Total Debt | $576M | |
+| Net Debt | $409M | |
+| Net Loan-to-Value | **13%** | Exceptional — minimal leverage |
+| Debt/EBITDA | 1.28x | Very healthy |
+| Debt/Equity | 0.29x | Conservative |
+| Current Ratio | 3.71x | Highly liquid |
+| Unencumbered Vessels | **31 ships** | Flexibility for financing/sales |
 
-### Shareholder Returns Since 2020:
-- **Total returned:** >$1 billion
-- **Per share distributed:** $15.25+
-- **Cumulative yield on 2020 price:** >100%
+**Balance Sheet Assessment: FORTRESS**
 
-### Buyback Activity:
-- Shares outstanding: 49.43M (down 0.17% YoY)
-- $100M authorization in place
-- Opportunistic approach
-
-**Capital allocation grade: A** — Management prioritizes returns to shareholders while maintaining balance sheet strength.
-
----
-
-## Fleet Composition & Strategy
-
-| Vessel Type | Count | Avg Age | Market Position |
-|-------------|-------|---------|-----------------|
-| VLCC | 11 | ~10 yrs | Top-tier rates |
-| Suezmax | 13 | ~9 yrs | Strong demand |
-| Aframax/LR2 | 5 | ~12 yrs | Regional strength |
-| LR1 | 12 (6 NB) | - | Newbuilds 2026 |
-| MR | 38 | ~10 yrs | Workhorse |
-| **Total** | **79** | - | - |
-
-### Fleet Renewal Strategy:
-- Sold 6 older vessels (2007-built) for $85M
-- Acquired modern 2020-built VLCC with scrubbers
-- 6 LR1 newbuildings ($359M program) delivering through Q3 2026
-- All newbuilds are scrubber-fitted and LNG-ready
-
-**Strategic moat:** Modern fleet = lower breakevens, regulatory compliance, premium charterer access.
+INSW has one of the strongest balance sheets in the tanker sector:
+- 13% loan-to-value is incredibly low
+- $724M liquidity = 2+ years of operating expenses
+- Recently issued $250M Norwegian bonds at 7.125%, used to retire higher-cost debt
+- 31 unencumbered vessels = massive borrowing capacity if needed
+- Zero distress risk — can survive any downturn
 
 ---
 
-## Competitive Position
-
-### Key Peers Comparison:
-
-| Company | Ticker | Fleet Focus | Market Cap | P/E | Yield |
-|---------|--------|-------------|------------|-----|-------|
-| International Seaways | INSW | Diversified | $3.58B | 11.6x | 6.0% |
-| Frontline | FRO | VLCC/Suezmax | $4.9B | ~10x | 8%+ |
-| DHT Holdings | DHT | VLCC only | $1.8B | ~8x | 10%+ |
-| Scorpio Tankers | STNG | Product | $2.6B | ~7x | 4% |
-| Teekay Tankers | TNK | Crude | $1.9B | ~8x | 5% |
-
-### INSW Advantages:
-1. **Diversified fleet** — exposed to both crude and product rate spikes
-2. **Balance sheet strength** — best in class liquidity and leverage
-3. **Pool participation** — Tankers International gives scale benefits
-4. **Management quality** — CEO Lois Zabrocky highly regarded
-5. **U.S. listing** — easier access for institutional capital
-
-### INSW Disadvantages:
-1. **Smaller VLCC fleet than FRO/DHT** — less leverage to pure VLCC rates
-2. **Higher P/B** than some peers
-3. **Lower dividend yield** than FRO/DHT (but more stable)
-
----
-
-## Catalyst Calendar
-
-| Date | Event | Potential Impact |
-|------|-------|------------------|
-| **Mar 20, 2026** | Ex-dividend date ($2.15) | Near-term support |
-| **Mar 30, 2026** | Dividend payment | Cash flow to holders |
-| **Apr 30, 2026** | Q1 2026 earnings | **MASSIVE** — first full quarter of Hormuz rates |
-| Ongoing | Hormuz crisis duration | Rate sustainability |
-| Q2-Q3 2026 | LR1 newbuild deliveries | Fleet expansion |
-| TBD | Crisis resolution | Rate normalization risk |
-
-**The big catalyst:** Q1 2026 earnings (reporting late April) will capture most of the Hormuz rate spike. Consensus estimates are likely far too low.
-
----
-
-## Technical Snapshot
+## 💸 Capital Return Program
 
 | Metric | Value |
 |--------|-------|
-| Trend | Strong uptrend |
-| Price vs 50-DMA | +21% ($59.95) |
-| Price vs 200-DMA | +49% ($48.50) |
-| RSI (14) | 67.3 (approaching overbought) |
-| 52-Week Change | +115% |
-| All-Time High | $75.64 (Feb 27, 2026) |
-| Key Support | $65-68 (recent breakout) |
-| Key Resistance | $78 (near ATH) |
+| Q4 2025 Dividend Declared | **$2.15/share** |
+| Annualized Dividend | ~$4.38/share |
+| Yield | **6.05%** |
+| Payout Ratio | 70-87% of adj. net income |
+| Cumulative Returns Since 2020 | **>$1 BILLION** |
+| Buyback Authorization | $50M (extended to end 2026) |
+| Shareholder Yield | **6.22%** |
 
-**Setup:** After-hours trading at $74 suggests breakout to new ATH imminent. Stock has been in a powerful uptrend since Hormuz crisis began. Pullbacks to 50-DMA ($60) would be buying opportunities.
-
-**Negative beta (-0.26):** INSW tends to move opposite the broader market — a defensive characteristic that adds diversification value.
-
----
-
-## Bull Case
-
-1. **Crisis duration:** Every week Hormuz stays disrupted = $100M+ in incremental earnings
-2. **Ton-mile explosion:** Cape of Good Hope rerouting is adding 70% to voyage distances — persistent demand even if tensions ease
-3. **Shadow fleet constraints:** Mainstream insurers won't touch Russian/Iranian vessels — INSW gains market share
-4. **Dividend machine:** At current rates, supplemental dividends could be $3-5/quarter
-5. **NAV expansion:** Cash accumulation at record rates will boost book value rapidly
-6. **Fleet modernization:** Newbuilds give decade-long competitive advantage
-
-**Bull target:** $120-140 (1.5x forward NAV at crisis earnings)
+**Capital Return Philosophy:**
+- Variable dividend tied to earnings (pays out most of cash flow)
+- Q4 $2.15/share is **LARGEST dividend in company history**
+- Prioritizes returns over aggressive fleet expansion
+- Buyback provides floor support
+- Management: "Deploy cash flow toward fleet renewal and shareholder returns"
 
 ---
 
-## Bear Case
+## 🔥 Hormuz Disruption — The Thesis
 
-1. **Crisis resolution:** If Hormuz reopens in weeks, rates crash 70%+
-2. **Earnings peak:** TTM earnings may represent cyclical high
-3. **Overvaluation at peak:** P/NAV already above historical norms
-4. **Energy transition:** Long-term demand risk from decarbonization
-5. **Insider selling:** CFO sold shares in February (modest $63k)
-6. **Consensus PT below price:** Analyst average $64 vs $72 current
+### What's Happening (as of March 2026):
 
-**Bear target:** $45-50 (book value floor if rates normalize)
+1. **U.S. and Israeli strikes on Iran** (Feb 28-Mar 1, 2026) triggered immediate escalation
+2. **Iran's Revolutionary Guards declared Strait of Hormuz closed** — warning all vessels would be attacked
+3. **Marine insurers cancelled war risk coverage** for Gulf waters (effective March 5)
+   - Gard, Skuld, NorthStandard, London P&I Club, American Club — all out
+4. **Traffic through Hormuz dropped 80% within 24 hours**
+5. **150+ ships stranded** at anchorages on both sides of strait
+6. **At least 5-7 tankers damaged** by drones/missiles, 2 seafarers killed
 
----
+### By The Numbers:
 
-## Risk Assessment
+| Stat | Value |
+|------|-------|
+| Global oil flowing through Hormuz | **~20%** |
+| Global LNG through Hormuz | **~19%** |
+| Refined products | **~14%** |
+| Traffic drop post-crisis | **-80%** |
+| VLCC rate (Mar 3, 2026) | **$423,736/day** (ALL-TIME HIGH) |
+| VLCC rate increase (2 days) | **+94%** |
+| War risk premium surge | 0.125% → 0.2-1.0% of hull value |
 
-| Risk | Probability | Impact | Mitigation |
-|------|-------------|--------|------------|
-| Hormuz reopens quickly | Medium | High | Diversified fleet, strong balance sheet |
-| Oil demand destruction | Low | Medium | Long-term concern, not immediate |
-| Vessel attack/damage | Low | High | Insurance, pool participation |
-| Rate normalization | High (eventually) | High | Conservative leverage, dividend cuts manageable |
-| Regulatory costs | Medium | Low | Fleet already IMO 2020 compliant |
-| Recession | Medium | Medium | Negative beta provides hedge |
+### How INSW Benefits:
 
----
+**1. Direct Rate Exposure**
+- INSW has 12 VLCCs, 13 Suezmaxes — the most affected classes
+- VLCC rates at $424K/day vs. $75K in Q4 = **5.6x increase**
+- Each $10K/day rate increase = ~$50M+ annual EBITDA (rough estimate)
 
-## Scout's Take
+**2. Ton-Mile Multiplier**
+- If Middle East oil reroutes around Africa (Cape of Good Hope), voyage length doubles
+- Double the voyage = double the tanker demand for same oil volume
+- This is THE key driver: supply of tankers fixed, demand for ton-miles exploding
 
-This is the cleanest tanker setup I've seen. Here's why:
+**3. Compliant Fleet Advantage**
+- INSW operates modern, Western-insured, compliant tonnage
+- Sanctioned "shadow fleet" (~15% of global tankers) now constrained
+- Major oil companies/charterers will pay premium for compliant ships
 
-**The macro is undeniable.** Hormuz is ~20% of global oil flow. It's effectively closed. Insurance companies pulled out. Ships can't transit even if they wanted to. This isn't speculation — it's happening right now.
+**4. Insurance Moat**
+- War risk insurance now unavailable for most vessels
+- INSW has relationships, scale, and capital to secure coverage
+- Smaller operators may be shut out entirely
 
-**The math is simple.** VLCC rates at $424k/day vs $50k/day baseline. INSW has 11 VLCCs. That's ~$40M/month in incremental VLCC earnings alone. Add Suezmax and product tanker rate increases. Add ton-mile demand from Cape routing. This is a cash printing machine.
-
-**The stock is cheap.** At $72, you're paying 4x crisis earnings and getting a 6% dividend while you wait. Book value provides $40 floor. Management has returned $1B+ since 2020.
-
-**Why INSW over peers?** Diversified fleet (not just VLCCs), fortress balance sheet (0.29x D/E), proven capital return, and U.S. listing for liquidity. Frontline is bigger on VLCCs but has Norway complications. DHT is pure VLCC but smaller. INSW is the sweet spot.
-
-**The timing is now.** Q1 earnings will be a blowout. Dividend increase likely. The market is waking up but hasn't fully priced crisis duration.
-
----
-
-## Rating & Recommendation
-
-| Category | Score |
-|----------|-------|
-| **Scout Grade** | **A** |
-| **Conviction** | **HIGH** |
-| **Action** | **BUY** |
-| **Position Size** | 5-8% of portfolio |
-| **Time Horizon** | 3-12 months |
-
-### Price Targets:
-
-| Scenario | Target | Probability |
-|----------|--------|-------------|
-| Bear (quick resolution) | $50 | 20% |
-| Base (extended disruption) | $95 | 50% |
-| Bull (prolonged crisis) | $120 | 30% |
-| **Weighted Target** | **$92** | - |
-
-### Entry Strategy:
-- **Aggressive:** Buy now at $72-74
-- **Conservative:** Wait for pullback to $65-68 (50-DMA support)
-- **Scale in:** 50% now, 50% on dip
-
-### Risk Management:
-- Stop loss: $55 (below 200-DMA)
-- Position limit: 8% max
-- Take profits: Scale out 25% at $95, 25% at $115
+**5. Operating Leverage**
+- 13% net LTV means almost no debt service headwind
+- Marginal revenue drops almost entirely to bottom line
+- Every extra $100K/day on a VLCC voyage = pure profit
 
 ---
 
-## Appendix: Key Dates & Links
+## 📈 Technical Setup
 
-**Upcoming Events:**
-- Mar 20, 2026: Ex-dividend
-- Mar 30, 2026: Dividend payment
-- Apr 30, 2026: Q1 2026 earnings
+| Indicator | Value | Signal |
+|-----------|-------|--------|
+| Price | $72.41 | |
+| 52-Week High | $78.51 | -7.8% from high |
+| All-Time High | $75.64 (Feb 27, 2026) | Just made new ATH |
+| 52-Week Low | $27.20 | +166% from low |
+| 50-Day MA | $59.95 | Price well above (+21%) |
+| 200-Day MA | $48.50 | Price well above (+49%) |
+| RSI (14) | 67.30 | Approaching overbought (70) |
+| Beta | -0.26 | **Negative correlation to market** |
+| Short Interest | 2.53% | Very low — no squeeze setup |
 
-**Company Resources:**
-- IR site: intlseas.com
-- SEC filings: [10-K, 10-Q, 8-K](https://stockanalysis.com/stocks/insw/financials/)
+**Technical Assessment:**
+- ✅ Strong uptrend — above all major MAs
+- ✅ New ATH just made (Feb 27) — breakout confirmed
+- ✅ Negative beta = portfolio hedge during risk-off
+- ⚠️ RSI 67 = getting warm, not yet overbought
+- ⚠️ Extended move (+60% in 3 months) — pullbacks possible
 
-**Data Sources:**
-- Stock Analysis, TradingView, CNBC, Maritime Executive
-- LSEG freight data, Argus Media, Kpler
+**Key Levels:**
+- Support: $60 (50-day MA), $55 (prior resistance), $48 (200-day MA)
+- Resistance: $78.51 (52-week high), $80 psychological, $90-100 (analyst high targets)
+
+**Pattern:** Classic momentum breakout. Stock was range-bound $35-50 for most of 2025, then exploded in late February on Hormuz crisis. Volume confirming.
+
+---
+
+## 🐂 Bull Case
+
+1. **Rates Could Go Much Higher**
+   - VLCC at $424K/day and rising — Q1 earnings will be massive
+   - If Hormuz stays disrupted weeks/months, rates sustain at 5-10x normal
+   - Earnings could double or triple from 2025 levels
+
+2. **Dividend Could Surge**
+   - At 87% payout, higher earnings = higher dividends
+   - $10 EPS scenario = $8.70/share dividend = 12% yield at current price
+   - Dividend acts as "price anchor"
+
+3. **Re-Rating Potential**
+   - Shipping stocks typically trade at 5-8x P/E
+   - If market believes rates sustain, multiple expansion possible
+   - $100+ price target at 10x normalized earnings
+
+4. **Portfolio Hedge**
+   - Negative beta means INSW rises when market falls
+   - Inflation/war hedge — uncorrelated to tech/growth
+
+5. **Fleet Value Appreciation**
+   - Secondhand tanker values rise with rates
+   - NAV expansion provides additional upside
+
+---
+
+## 🐻 Bear Case
+
+1. **Ceasefire/De-escalation**
+   - If U.S.-Iran conflict resolves, rates crash back to normal
+   - Stock could give back 30-50% of recent gains
+   - This is THE key risk
+
+2. **Rate Volatility**
+   - Tanker rates are notoriously cyclical
+   - Q4 2025 was strong, but Q2-Q3 2025 were weak
+   - Don't extrapolate peak rates forward
+
+3. **OPEC+ Supply Uncertainty**
+   - If oil supply disrupted long-term, less oil = fewer shipments
+   - Tankers need crude flowing, not just high prices
+
+4. **Fleet Aging**
+   - Average fleet age rising industry-wide
+   - INSW actively selling 17-18 year old vessels
+   - Replacement cost inflation
+
+5. **Global Recession**
+   - Economic downturn = lower oil demand = lower tanker demand
+   - Though Hormuz crisis would likely dominate near-term
+
+---
+
+## ⚖️ Risk/Reward Assessment
+
+| Scenario | Probability | Price Target | Return |
+|----------|-------------|--------------|--------|
+| **Bull:** Hormuz disruption sustained 3+ months | 40% | $100-120 | +38-66% |
+| **Base:** Partial normalization, elevated rates | 40% | $80-90 | +10-24% |
+| **Bear:** Quick de-escalation, rates normalize | 20% | $50-60 | -17-31% |
+
+**Expected Value:** Weighted ~$85-90 = +17-24% upside
+
+---
+
+## 🎯 Price Target Justification
+
+**Methodology: Earnings-Based Valuation**
+
+| Scenario | Assumed Earnings | Multiple | Price |
+|----------|------------------|----------|-------|
+| Bear (rates normalize) | $6.00 EPS | 8x | $48 |
+| Base (elevated rates) | $10.00 EPS | 9x | $90 |
+| Bull (crisis extends) | $15.00+ EPS | 8x | $120 |
+
+**Scout's Target: $95-100**
+- Assumes crisis keeps rates elevated through Q2 2026
+- 10x earnings on $9-10 EPS (conservative vs. current trajectory)
+- Supported by ~1.5x book value
+- 6%+ dividend yield provides downside support
+
+---
+
+## 🆚 Competitive Position
+
+| Company | Ticker | Fleet Focus | Market Cap | P/E | Dividend Yield |
+|---------|--------|-------------|------------|-----|----------------|
+| **INSW** | INSW | Crude + Product | $3.6B | 11.6x | 6.0% |
+| Frontline | FRO | VLCCs | $3.2B | 9x | 8%+ |
+| DHT Holdings | DHT | VLCCs | $1.8B | 8x | 10%+ |
+| Scorpio Tankers | STNG | Product | $3.5B | 8x | 5% |
+| Euronav | EURN | Crude | $2.8B | 7x | 7% |
+
+**Why INSW Stands Out:**
+- Diversified fleet (crude + product) = more balanced exposure
+- Strongest balance sheet (13% LTV)
+- Tankers International ownership = pool synergies
+- Quality management with excellent capital allocation track record
+
+---
+
+## 📅 Catalyst Calendar
+
+| Date | Event | Potential Impact |
+|------|-------|------------------|
+| **Ongoing** | Hormuz crisis escalation/de-escalation | **HIGH** — primary driver |
+| Mar 20, 2026 | Ex-dividend date ($2.15 dividend) | Medium — income capture |
+| Mar 30, 2026 | Dividend payment | |
+| Apr 30, 2026 | Q1 2026 earnings | **HIGH** — will show Hormuz rate spike |
+| 2026 | 4 LR1 newbuildings deliver | Medium — fleet expansion |
+| Ongoing | Fleet sales (7 vessels) | Gains ~$80M |
+
+---
+
+## 📌 Scout's Take
+
+"This is the cleanest tanker play on the Hormuz crisis. INSW has the fleet composition, balance sheet, and management to capitalize on what could be a multi-month disruption. VLCCs hitting all-time highs of $424K/day is not priced into consensus estimates that still show $64 PT vs. $72 price. 
+
+The risk is ceasefire — but even a partial normalization keeps rates elevated because ton-miles have structurally increased. Negative beta makes this a rare portfolio hedge that PAYS YOU to own it (6% yield).
+
+At 1.8x book and 11x trailing earnings with rates 5x higher than Q4, the stock is cheap on forward estimates. I'm putting a $95-100 PT on this with high conviction. Buy dips to 50-day MA (~$60) aggressively. This is a fastest horse in a sector with a tailwind."
+
+---
+
+## ✅ Action Items
+
+- [x] Deep fundamental analysis complete
+- [x] Hormuz thesis validated
+- [x] Technical setup confirmed
+- [ ] **Send to Jeb** for full fundamental model
+- [ ] **Send to Ant** for entry timing
+- [ ] Monitor daily rate data (TD3C benchmark)
+- [ ] Track ceasefire/escalation headlines
 
 ---
 
 *Report generated: March 8, 2026*  
-*Scout — The Idea Hunter*
+*Scout | Idea Generation & Initial Research*
