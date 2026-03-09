@@ -1,6 +1,28 @@
 {
   "reports": [
     {
+      "id": "ALGEF-deep-dive-2026-03-09",
+      "title": "ALGEF Deep Dive - Alligator Energy Limited",
+      "ticker": "ALGEF",
+      "date": "2026-03-09",
+      "path": "reports/ALGEF-deep-dive-2026-03-09.md",
+      "type": "deep-dive",
+      "category": "investment-research",
+      "tags": [
+        "uranium",
+        "ISR",
+        "australia",
+        "development-stage",
+        "samphire"
+      ],
+      "description": "Deep dive on Alligator Energy (ASX: AGE / OTC: ALGEF) - Australian ISR uranium developer with Samphire project targeting 2027 production.",
+      "visibility": "public",
+      "summary": "B grade, medium conviction. Most advanced Aussie uranium developer not yet in production. Experienced ISR team (65 yrs combined). $130M market cap, funded through BFS. Key risk: execution (ISR isn't guaranteed) + dilution for construction. Catalyst: Q1 field trial results.",
+      "rating": "SPECULATIVE BUY",
+      "author": "Trading Team (Scout + Jeb + Ant)",
+      "last_updated": "2026-03-09T17:20:00Z"
+    },
+    {
       "id": "JG-deep-dive-2026-03-09",
       "title": "JG Deep Dive - Aurora Mobile Limited",
       "ticker": "JG",
