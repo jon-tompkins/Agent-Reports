@@ -8,6 +8,13 @@
 
 ---
 
+## Price Charts
+
+![ALGEF Daily 2Y](../charts/ALGEF-daily-2y.png)
+![ALGEF Weekly 5Y](../charts/ALGEF-weekly-5y.png)
+
+---
+
 ## The Business
 
 Alligator Energy Limited is an Australian uranium exploration and development company headquartered in Spring Hill, Australia. The company is focused on advancing uranium and energy-related mineral projects, with operations spanning Australia and Italy.
