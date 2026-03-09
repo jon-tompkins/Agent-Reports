@@ -215,4 +215,40 @@ This is a speculative uranium development play with better-than-average odds. Wo
 
 ---
 
+---
+
+## Ant's Technical Grade
+
+### Grade: B+
+
+**Technical Setup:**
+- **Bullish structure intact** — trading above 200-DMA with RSI at 46 (neutral, not overbought). Consolidation near 50-DMA after +50% YoY run is healthy digestion, not distribution.
+- **Catalyst positioning is ideal** — tight range ahead of Q1 trial results creates asymmetric setup. Low RSI = room to run on positive news.
+- **Liquidity caution** — OTC volume averaging 507K shares is thin; ASX (AGE.AX) is the primary venue. Position sizing matters.
+
+**Uranium Sector Context:**
+URNM (uranium miners ETF) holding support after 2025 consolidation. Spot uranium at $85+ supports sector sentiment. If macro holds, ALGEF benefits from rising tide — but company-specific catalyst (trial results) will determine near-term direction more than sector flows.
+
+**Bottom line:** Technically sound entry zone for catalyst-driven speculation.
+
+---
+
 *Scout Report — Alligator Energy (ALGEF/AGE.AX) — 2026-03-09*
+
+---
+
+## Jeb's Fundamental Grade
+
+**Grade: B- | Conviction: Medium**
+
+**Strengths:**
+- Pristine balance sheet (zero debt, ~A$20M cash) buys runway through BFS without immediate dilution pressure
+- Management pedigree is real — ex-Beverley operators who've actually built ISR mines, not PowerPoint miners
+- Jurisdictional clarity in South Australia where the permitting playbook exists
+
+**Weaknesses:**
+- Pre-revenue with sustained cash burn (~A$8-13M/year); will need $100M+ construction financing
+- Dilution inevitability — share count already up 45%, more coming when they raise for capex
+
+**Valuation Perspective:**
+At ~$7.50/lb in-ground valuation for 17.5Mlb, AGE trades roughly fair for a development-stage ISR project with near-term trial catalysts. Upside unlocks if field recovery validates economics; downside is meaningful if trial disappoints. Speculative but not overpriced.
