@@ -1,6 +1,28 @@
 {
   "reports": [
     {
+      "id": "JG-deep-dive-2026-03-09",
+      "title": "JG Deep Dive - Aurora Mobile Limited",
+      "ticker": "JG",
+      "date": "2026-03-09",
+      "path": "reports/JG-deep-dive-2026-03-09.md",
+      "type": "deep-dive",
+      "category": "investment-research",
+      "tags": [
+        "china-adr",
+        "mobile-sdk",
+        "ai-pivot",
+        "micro-cap",
+        "high-risk"
+      ],
+      "description": "Deep dive on Aurora Mobile covering AI pivot thesis, valuation, and structural risks.",
+      "visibility": "public",
+      "summary": "PASS. Scout C+, Jeb C-, Ant D+. Lottery ticket dressed as value stock - Z-score bankruptcy warning, uninvestable liquidity, VIE structure risk. Watch post-earnings Mar 12.",
+      "rating": "PASS",
+      "author": "Trading Team (Scout + Jeb + Ant)",
+      "last_updated": "2026-03-09T16:50:00Z"
+    },
+    {
       "id": "AMZN-deep-dive-2026-03-07",
       "title": "AMZN Deep Dive - Amazon.com, Inc.",
       "ticker": "AMZN",
