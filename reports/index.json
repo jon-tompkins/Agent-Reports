@@ -1160,6 +1160,30 @@
       "author": "Jai Research",
       "last_updated": "2026-02-10T20:17:09.281Z",
       "type": "scan"
+    },
+    {
+      "id": "ORCL-deep-dive-2026-03-10",
+      "title": "ORCL Deep Dive - Oracle Corporation",
+      "ticker": "ORCL",
+      "date": "2026-03-10",
+      "path": "reports/ORCL-deep-dive-2026-03-10.md",
+      "type": "deep-dive",
+      "category": "investment-research",
+      "tags": [
+        "cloud",
+        "AI",
+        "enterprise",
+        "infrastructure",
+        "stargate"
+      ],
+      "description": "Deep dive on Oracle - AI cloud infrastructure pivot with $523B backlog but heavy debt load.",
+      "visibility": "public",
+      "summary": "Scout B-, Jeb D+, Ant C+. High-risk contrarian play. Massive backlog but $108B debt and negative FCF. Q3 earnings catalyst tonight.",
+      "grades": {
+        "scout": "B-",
+        "jeb": "D+",
+        "ant": "C+"
+      }
     }
   ]
 }
