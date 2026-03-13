@@ -1,6 +1,33 @@
 {
   "reports": [
     {
+      "id": "TIC-deep-dive-2026-03-13",
+      "title": "TIC Deep Dive - TIC Solutions Inc.",
+      "ticker": "TIC",
+      "date": "2026-03-13",
+      "path": "reports/TIC-deep-dive-2026-03-13.md",
+      "type": "deep-dive",
+      "category": "investment-research",
+      "tags": [
+        "industrial-services",
+        "TICC",
+        "merger-arbitrage",
+        "turnaround",
+        "NV5"
+      ],
+      "description": "Deep dive on TIC Solutions (formerly Acuren) - TICC services provider post-NV5 merger with high short interest and execution risk.",
+      "visibility": "public",
+      "summary": "Scout C-, Jeb D-, Ant B-. Broken stock needs proof. $1.7B NV5 merger creates scale but high debt (91% D/E), CEO transition, Q4 earnings miss. High short interest (13.73%) + deeply oversold (RSI 27) = potential bounce but not conviction play.",
+      "rating": "PASS",
+      "author": "Trading Team (Scout + Jeb + Ant)",
+      "last_updated": "2026-03-13T04:52:00Z",
+      "grades": {
+        "scout": "C-",
+        "jeb": "D-",
+        "ant": "B-"
+      }
+    },
+    {
       "id": "ALGEF-deep-dive-2026-03-09",
       "title": "ALGEF Deep Dive - Alligator Energy Limited",
       "ticker": "ALGEF",
