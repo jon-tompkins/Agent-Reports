@@ -1,6 +1,29 @@
 {
   "reports": [
     {
+      "id": "TALO-deep-dive-2026-03-14",
+      "title": "TALO Deep Dive - Talos Energy Inc.",
+      "ticker": "TALO",
+      "date": "2026-03-14",
+      "path": "reports/TALO-deep-dive-2026-03-14.md",
+      "type": "deep-dive",
+      "category": "investment-research",
+      "tags": [
+        "oil-gas",
+        "gulf-of-mexico",
+        "mexico",
+        "offshore",
+        "zama-project",
+        "E&P"
+      ],
+      "description": "Deep dive on Talos Energy - Gulf of Mexico & Mexico offshore E&P with Zama project catalyst.",
+      "visibility": "public",
+      "summary": "Gulf of Mexico/Mexico offshore E&P, $2.3B market cap. Zama project (~750 mmboe) is key catalyst. New Shell-veteran CEO. High uncertainty with widening losses but notable insider buying and analyst upside targets.",
+      "rating": "SPECULATIVE",
+      "author": "Scout Research",
+      "last_updated": "2026-03-14T21:50:58.493Z"
+    },
+    {
       "id": "TIC-deep-dive-2026-03-13",
       "title": "TIC Deep Dive - TIC Solutions Inc.",
       "ticker": "TIC",
