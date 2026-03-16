@@ -1,6 +1,35 @@
 {
   "reports": [
     {
+      "id": "AGRO-deep-dive-2026-03-16-v2",
+      "title": "AGRO Deep Dive - Adecoagro S.A.",
+      "ticker": "AGRO",
+      "date": "2026-03-16",
+      "path": "reports/AGRO-deep-dive-2026-03-16.md",
+      "type": "deep-dive",
+      "category": "investment-research",
+      "tags": [
+        "agriculture",
+        "farming",
+        "commodities",
+        "south-america",
+        "sugar",
+        "ethanol",
+        "value-play"
+      ],
+      "description": "Comprehensive deep dive on Adecoagro S.A. covering sugar/ethanol operations, Profertil acquisition, Argentina risk, and trading at 1.6x EV/EBITDA.",
+      "visibility": "public",
+      "summary": "SPECULATIVE BUY with timing caveat. Trading at 1.6x EV/EBITDA with $755M farmland floor. Profertil integration expanding margins. But 47% Argentina exposure and 75% Tether ownership create risks. WAIT for pullback to $9.75-$10.00 (currently $10.90).",
+      "rating": "SPECULATIVE BUY",
+      "author": "Junto Research Team (Scout + Jeb + Ant)",
+      "last_updated": "2026-03-16T23:15:00Z",
+      "grades": {
+        "scout": "B",
+        "jeb": "B+",
+        "ant": "C+"
+      }
+    },
+    {
       "id": "TALO-deep-dive-2026-03-14",
       "title": "TALO Deep Dive - Talos Energy Inc.",
       "ticker": "TALO",
