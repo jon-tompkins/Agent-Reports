@@ -446,5 +446,31 @@
       "author": "Subagent Research",
       "last_updated": "2026-02-12T20:15:00Z"
     }
+    },
+    {
+      "id": "AGRO-deep-dive-2026-03-16",
+      "title": "AGRO Deep Dive - Adecoagro S.A.",
+      "ticker": "AGRO",
+      "date": "2026-03-16",
+      "path": "reports/AGRO-deep-dive-2026-03-16.md",
+      "category": "investment-research",
+      "tags": [
+        "agriculture",
+        "south-america",
+        "sugar-ethanol",
+        "fertilizers",
+        "commodities",
+        "billion-dollar-market",
+        "AI-infrastructure",
+        "deep-dive"
+      ],
+      "description": "Comprehensive deep dive on Adecoagro covering diversified agro-industrial operations in South America, pending $600M Profertil acquisition, sugar/ethanol flexibility, and investment thesis.",
+      "visibility": "public",
+      "summary": "Adecoagro offers compelling agribusiness exposure with transformational Profertil acquisition pending ($390M average EBITDA). Trading below book value despite strong operations and growth catalysts. Rating: BUY (4/5) with multi-year growth catalyst.",
+      "rating": "BUY",
+      "rating_score": 4,
+      "author": "Scout Research",
+      "last_updated": "2026-03-16T20:30:00Z"
+    }
   ]
 }
