@@ -1,6 +1,42 @@
 {
   "reports": [
     {
+      "id": "MU-deep-dive-2026-03-17",
+      "title": "MU Deep Dive - Micron Technology Inc.",
+      "ticker": "MU",
+      "date": "2026-03-17",
+      "path": "reports/MU-deep-dive-2026-03-17.md",
+      "type": "deep-dive",
+      "category": "investment-research",
+      "tags": [
+        "semiconductors",
+        "memory",
+        "DRAM",
+        "NAND",
+        "HBM",
+        "AI-infrastructure",
+        "data-center",
+        "cyclical"
+      ],
+      "description": "Comprehensive deep dive on Micron Technology covering AI memory demand, HBM market position, memory cycle analysis, and cyclical risk assessment.",
+      "visibility": "public",
+      "summary": "HOLD / WAIT for pullback. AI-driven memory supercycle with HBM sold out through 2026. Forward P/E ~13x attractive, but cycle is mid-to-late expansion. We're closer to peak than trough. WAIT for pullback to $80-82 zone (currently $87).",
+      "rating": "HOLD",
+      "author": "Junto Research Team (Scout + Jeb + Ant)",
+      "last_updated": "2026-03-17T04:00:00Z",
+      "grades": {
+        "scout": "A-",
+        "jeb": "B",
+        "ant": "B-"
+      },
+      "tokens": {
+        "scout": 12000,
+        "jeb": 18100,
+        "ant": 23300,
+        "total": 53400
+      }
+    },
+    {
       "id": "AGRO-deep-dive-2026-03-16-v2",
       "title": "AGRO Deep Dive - Adecoagro S.A.",
       "ticker": "AGRO",
