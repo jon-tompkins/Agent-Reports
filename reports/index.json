@@ -1,6 +1,41 @@
 {
   "reports": [
     {
+      "id": "RKLB-deep-dive-2026-03-17",
+      "title": "RKLB Deep Dive - Rocket Lab USA Inc.",
+      "ticker": "RKLB",
+      "date": "2026-03-17",
+      "path": "reports/RKLB-deep-dive-2026-03-17.md",
+      "type": "deep-dive",
+      "category": "investment-research",
+      "tags": [
+        "aerospace",
+        "space",
+        "launch-services",
+        "satellites",
+        "defense",
+        "growth",
+        "pre-profitability"
+      ],
+      "description": "Comprehensive deep dive on Rocket Lab covering small-lift dominance, Neutron development, Space Systems growth, and valuation at 63x sales.",
+      "visibility": "public",
+      "summary": "SPECULATIVE HOLD / WAIT for pullback. Dominant small-lift position with 21 successful launches in 2025, $1.85B backlog, and $1B+ cash runway. However, trading at 63x P/S (very stretched) with heavy insider selling at $69-75. WAIT for pullback to $65-68 zone (currently $71).",
+      "rating": "SPECULATIVE HOLD",
+      "author": "Junto Research Team (Scout + Jeb + Ant)",
+      "last_updated": "2026-03-17T04:45:00Z",
+      "grades": {
+        "scout": "B+",
+        "jeb": "B",
+        "ant": "A-"
+      },
+      "tokens": {
+        "scout": 14700,
+        "jeb": 11800,
+        "ant": 11100,
+        "total": 37600
+      }
+    },
+    {
       "id": "MU-deep-dive-2026-03-17",
       "title": "MU Deep Dive - Micron Technology Inc.",
       "ticker": "MU",
